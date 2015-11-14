@@ -1,0 +1,19 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+4685453	0	object/static/structure/corellia/corl_power_bubble_node.iff	0	44.88397	125.4552	-169.1185	0	0	1	0		$|
+9725555	0	object/static/structure/dathomir/nsister_gate_style_01.iff	0	1125.368	131.8599	-1018.958	0.7345477	0	0.678557	0		$|
+9725556	0	object/static/structure/dathomir/nsister_gate_style_01.iff	0	1122.95	131.92	-1022.922	0.9738476	0	0.227202	0		$|
+9725561	0	object/static/structure/dathomir/nsister_gate_style_01.iff	0	1127.242	131.9117	-1022.786	0.2763556	0	0.9610555	0		$|
+9725852	0	object/static/structure/corellia/corl_imprv_wall_4x16_s03.iff	0	50.3312	123.2957	-155.467	0	0	1	0		$|
+9725857	0	object/static/structure/corellia/corl_imprv_wall_4x16_s03.iff	0	58.66601	123.3063	-163.7895	-0.7071047	0	0.7071087	0		$|
+9725858	0	object/static/structure/corellia/corl_imprv_wall_4x16_s03.iff	0	50.27411	123.2944	-172.0213	0	0	1	0		$|
+9725859	0	object/static/structure/corellia/corl_imprv_wall_4x16_s03.iff	0	41.87339	123.1917	-163.9808	0.707107	0	-0.7071069	0		$|
+9725872	0	object/static/structure/corellia/corl_imprv_column_s03.iff	0	58.74667	123.2112	-155.5812	0	0	1	0		$|
+9725874	0	object/static/structure/corellia/corl_imprv_column_s03.iff	0	58.55976	123.3411	-171.9034	0	0	1	0		$|
+9725877	0	object/static/structure/corellia/corl_imprv_column_s03.iff	0	41.91487	123.3241	-172.0168	0	0	1	0		$|
+9725880	0	object/static/structure/corellia/corl_imprv_column_s03.iff	0	41.86683	123.3201	-155.6326	0	0	1	0		$|
+9725893	0	object/building/military/mun_all_military_tower_impl_guard_s01.iff	0	56.00283	117.0402	-159.6485	0	0	1	0		$|
+9725894	9725893	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
+9725901	0	object/static/structure/corellia/corl_power_arial_prime.iff	0	57.18945	125.1927	-161.12	0	0	1	0		$|
+9725902	0	object/static/structure/corellia/corl_power_bubble_node.iff	0	44.81223	124.7157	-158.26	0	0	1	0		$|
+9725905	0	object/static/structure/corellia/corl_power_transformer_s02.iff	0	45.02411	125.0325	-163.9686	0	0	1	0		$|

@@ -1,0 +1,11 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9705770	0	object/tangible/camp/camp_tent_s1.iff	0	6166.77	160.0019	-5884.805	0.7068246	0	0.7073887	0		$|
+9705771	0	object/tangible/camp/camp_tent_s1.iff	0	6163.296	160.0045	-5878.063	0.7653549	0	0.6436085	0		$|
+9705772	0	object/static/structure/general/banner_imperial_style_01.iff	0	6170.897	159.7679	-5886.745	-0.6641322	0	0.7152844	-0.09219508		$|
+9705774	0	object/static/structure/tatooine/debris_tatt_crate_metal_1.iff	0	6160.602	160.0025	-5882.096	0.5658466	0	0.5701849	-0.3460677		$|
+9705775	0	object/static/structure/tatooine/debris_tatt_crate_metal_1.iff	0	6165.093	159.8876	-5876.441	0.4461826	0	0.8893561	0.08923326		$|
+9705777	0	object/static/structure/general/trash_pile_s01.iff	0	6158.526	159.9412	-5879.225	0	0	1	0		$|
+9705778	0	object/static/structure/general/trash_pile_s01.iff	0	6166.287	160.2005	-5881.014	0	0	0.04578037	0.9989515		$|
+9705779	0	object/static/structure/general/skeleton_human_headandbody.iff	0	6154.89	160.0801	-5882.448	-0.006316815	0	-0.008755315	0.5850632		$|
+9705781	0	object/static/structure/general/skeleton_human_body.iff	0	6155.084	159.9396	-5871.04	0.9960116	0	0.0890843	-0.004980099		$|

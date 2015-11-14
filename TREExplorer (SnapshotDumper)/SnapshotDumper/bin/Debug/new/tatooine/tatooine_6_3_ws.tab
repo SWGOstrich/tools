@@ -1,0 +1,18 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+8985483	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_01.iff	0	3269.791	171.9835	-3664.187	-0.3996604	0	-0.6919717	0.5197397		$|
+8985484	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_02.iff	0	3277.192	168.5704	-3676.763	-0.2100763	0	0.7740967	-0.1736284		$|
+8985485	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_02.iff	0	3279.345	175.4341	-3675.663	0.7740965	0	0.2100762	-0.5713984		$|
+8985486	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_01.iff	0	3275.712	178.709	-3668.311	-0.2486137	0	0.9160999	-0.08238792		$|
+8985488	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_01.iff	0	3271.275	164.551	-3671.382	-0.1066495	0	0.4863523	-0.2221084		$|
+8985566	0	object/static/structure/tatooine/concrete_slab_tatooine_16x8.iff	0	3651.56	92.2847	-3381.062	0	0	1	0		$|
+8985567	0	object/static/structure/tatooine/pillar_pristine_large_style_01.iff	0	3646.714	100.0796	-3386.054	-0.7070955	0	0.7071175	0		$|
+8985568	0	object/static/structure/tatooine/pillar_pristine_large_style_01.iff	0	3655.882	100.1694	-3386.783	-0.7070988	0	0.7071142	0		$|
+8985569	0	object/static/structure/tatooine/pillar_pristine_large_style_01.iff	0	3646.717	100.0732	-3386.8	-0.7070978	0	0.7071152	0		$|
+8985570	0	object/static/structure/tatooine/beam_tatooine_overhead_style_02.iff	0	3651.791	100.4625	-3386.918	1	0	-2E-06	0		$|
+8985571	0	object/static/structure/tatooine/pillar_pristine_large_style_01.iff	0	3655.879	100.1677	-3386.038	-0.7070978	0	0.7071152	0		$|
+8985572	0	object/static/structure/tatooine/pillar_pristine_large_style_01.iff	0	3646.572	100.0828	-3374.243	-0.7070888	0	0.7071242	0		$|
+8985573	0	object/static/structure/tatooine/pillar_pristine_large_style_01.iff	0	3655.74	99.95959	-3374.972	-0.7070941	0	0.7071189	0		$|
+8985574	0	object/static/structure/tatooine/pillar_pristine_large_style_01.iff	0	3646.575	100.0865	-3374.989	-0.7070919	0	0.7071211	0		$|
+8985575	0	object/static/structure/tatooine/beam_tatooine_overhead_style_02.iff	0	3651.651	100.7134	-3377.251	0.9238795	0	-1.863738E-06	7.267897E-07		$|
+8985576	0	object/static/structure/tatooine/pillar_pristine_large_style_01.iff	0	3655.737	99.96999	-3374.227	-0.7070942	0	0.7071188	0		$|

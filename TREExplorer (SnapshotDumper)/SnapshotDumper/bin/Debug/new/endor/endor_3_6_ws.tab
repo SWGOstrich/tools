@@ -1,0 +1,8 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+2055792	0	object/tangible/camp/camp_tent_s2.iff	0	-4026.035	26.38651	2247.565	-0.1395432	0	0.990216	0		$|
+2055793	0	object/tangible/camp/camp_lantern_s1.iff	0	-4027.377	26.75878	2248.839	0	0	1	0		$|
+9705617	0	object/building/endor/endr_lake_rail16m.iff	0	-4033.548	27.28047	2247.12	0.1097111	0	0.9933473	-0.003841456		$|
+9705622	0	object/building/endor/endr_lake_rail16m.iff	0	-4019.648	25.79022	2250.857	-0.3793857	0	0.9229559	0.02469485		$|
+9705623	0	object/building/endor/endr_lake_rail8m.iff	0	-4011.184	24.18659	2259.178	-0.374733	0	0.9248528	0.01779152		$|
+9705626	0	object/building/endor/endr_lake_rail4m.iff	0	-4006.841	23.34081	2263.325	-0.3514566	0	0.9343072	0.0272427		$|

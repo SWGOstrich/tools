@@ -1,0 +1,6 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9015388	0	object/static/structure/dantooine/dant_small_mudhut.iff	0	6073.882	2.048084	1892.398	-0.3801884	0	0.9249091	0		$|
+9015389	0	object/static/structure/dantooine/dant_small_mudhut.iff	0	6054.041	2.090049	1893.559	0.3428977	0	0.9393727	0		$|
+9015391	0	object/building/endor/endor_lake_platform_cap.iff	0	6065.943	-9.215422	1922.885	0.7173561	0	-0.6967068	0		$|
+9015393	0	object/static/structure/dantooine/dant_cooking_stone.iff	0	6066.504	1.528432	1905.161	0.7151331	0	-0.6846372	-0.08185246		$|

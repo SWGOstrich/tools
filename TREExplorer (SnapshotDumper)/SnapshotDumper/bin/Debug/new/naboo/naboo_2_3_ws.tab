@@ -1,0 +1,18 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9525588	0	object/building/military/military_outpost_guard_house_imperial.iff	0	-4768.944	326.3212	-3981.514	0	0	1	0		$|
+9525589	9525588	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
+9525590	9525588	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
+9525593	0	object/static/structure/military/military_column_strong_imperial_style_01.iff	0	-4766.474	325.2588	-3989.566	0.6316828	0	0.7218133	-0.1263223		$|
+9525594	0	object/static/structure/military/military_column_weak_imperial_style_01.iff	0	-4778.817	325.0333	-3987.858	0	0	0.9790609	0		$|
+9525595	0	object/static/structure/military/military_column_weak_imperial_style_01.iff	0	-4775.528	327.4819	-3971.208	0	0	0.8775827	0		$|
+9525596	0	object/static/structure/military/military_column_med_imperial_style_01.iff	0	-4758.039	326.2825	-3976.503	0	0	0.8653241	0		$|
+9525607	0	object/static/item/item_tapestry_imperial.iff	0	-4761.621	332.1863	-3981.879	0	0	1	0		$|
+9525610	0	object/static/structure/general/streetlamp_small_style_01.iff	0	-4767.142	327.0126	-3976.554	0	0	1	0		$|
+9525617	0	object/static/structure/naboo/gungan_cleft_wall_lg_s01.iff	0	-4417.797	265.5297	-2218.525	0	0	1	0		$|
+9525618	0	object/static/structure/naboo/gungan_pillar_damaged_s01.iff	0	-4414.118	266.105	-2218.111	0	0	0.9928086	0		$|
+9525619	0	object/static/structure/naboo/gungan_pillar_ruined_s01.iff	0	-4429.403	263.3376	-2221.083	0	0	1	0		$|
+9525620	0	object/static/structure/naboo/gungan_damaged_narrow_arch_s01.iff	0	-4420.876	260.5208	-2229.334	0.6631358	0	0.7484992	0		$|
+9525621	0	object/static/structure/naboo/gungan_statue_s02.iff	0	-4418.287	260.3882	-2230.194	0.9997837	0	0.02079496	0		$|
+9525622	0	object/static/structure/naboo/gungan_statue_s01.iff	0	-4423.387	260.851	-2230.843	0.9993594	0	0.03578884	0		$|
+9525626	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	-4421.188	261.5135	-2225.641	0	0	1	0		$|

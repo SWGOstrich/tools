@@ -1,0 +1,20 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9525352	0	object/static/structure/naboo/nboo_imprv_tall_curved_wall_large_s01.iff	0	1255.299	11.62818	4287.606	0.6339065	0	0.7734095	0		$|
+9525353	0	object/static/structure/general/gravestone_generic_style_02.iff	0	1266.095	11.39162	4288.551	-0.539632	0	0.841901	0		$|
+9525354	0	object/static/structure/general/gravestone_generic_style_05.iff	0	1260.099	11.31999	4290.596	0	0	1	0		$|
+9525355	0	object/static/structure/general/gravestone_generic_style_03.iff	0	1261.058	11.2985	4283.882	-0.663136	0	0.7484989	0		$|
+9525356	0	object/static/structure/general/gravestone_generic_style_04.iff	0	1260.348	11.31333	4286.916	-0.6852886	0	0.7282715	0		$|
+9525357	0	object/static/structure/general/gravestone_generic_style_03.iff	0	1264.213	11.35723	4285.345	0.731146	0	-0.682221	0		$|
+9525358	0	object/static/structure/general/gravestone_generic_style_01.iff	0	1264.611	11.21882	4291.552	-0.4214099	0	0.9068702	0		$|
+9525359	0	object/static/structure/naboo/nboo_imprv_tall_curved_wall_large_s01.iff	0	1268.452	11.6381	4292.248	0.92269	0	-0.385543	0		$|
+9525360	0	object/static/structure/naboo/nboo_imprv_pillar_pillar_s03.iff	0	1264.917	13.0335	4281.821	-0.203567	0	0.979061	0		$|
+9525361	0	object/static/structure/naboo/nboo_imprv_pillar_pillar_s03.iff	0	1268.871	13.05278	4291.677	-0.305058	0	0.9523338	0		$|
+9525362	0	object/static/structure/naboo/nboo_imprv_tall_curved_wall_large_s01.iff	0	1264.805	11.69416	4281.464	-0.203567	0	0.979061	0		$|
+9525363	0	object/static/structure/naboo/gate_narrow_s02.iff	0	1256.045	10.90066	4289.882	-0.5769588	0	0.8167732	0		$|
+9525364	0	object/static/structure/naboo/gungan_cleft_wall_lg_s01.iff	0	1230.617	-198.0387	5520.976	-0.5971954	0	0.8020958	0		$|
+9525365	0	object/static/structure/naboo/gungan_damaged_narrow_arch_s01.iff	0	1233.36	-198.0682	5516.165	0.1395431	0	0.990216	0		$|
+9525366	0	object/static/structure/naboo/gungan_pillar_damaged_s01.iff	0	1226.825	-197.7869	5522.042	0.1839465	0	0.9829363	0		$|
+9525367	0	object/static/structure/naboo/gungan_pillar_ruined_s01.iff	0	1221.419	-196.548	5511.856	0.1097783	0	0.9939561	0		$|
+9525368	0	object/static/structure/naboo/gungan_relic_s02.iff	0	1228.34	-210.8602	5515.82	-0.3801884	0	0.9249091	0		$|
+9525370	0	object/static/structure/naboo/gungan_statue_s02.iff	0	1228.553	-197.9347	5512.633	0.6194506	0	0.6991912	-0.2367057		$|

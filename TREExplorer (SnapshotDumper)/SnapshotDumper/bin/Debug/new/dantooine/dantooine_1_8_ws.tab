@@ -1,0 +1,31 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+200320	0	object/static/structure/dantooine/dant_totem_pole.iff	0	-6222.865	51.93953	7396.333	0	0	1	0		$|
+200321	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-6222.36	47.83794	7386.89	0.9995736	0	0.02919948	0		$|
+200322	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-6233.375	49.56898	7387.287	0.9674623	0	-0.2530167	0		$|
+200325	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-6240.311	52.51742	7391.206	0.8772004	0	-0.4801252	0		$|
+200326	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-6212.93	51.45547	7387.028	0.9738482	0	0.2272018	0		$|
+200327	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-6207.6	57.58506	7392.096	0.9134138	0	0.4070333	0		$|
+200328	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-6222.643	42.85732	7370.805	0.999574	0	0.029199	0		$|
+200329	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-6234.975	43.39861	7373.566	0.9635584	0	-0.2674997	0		$|
+200330	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-6252.169	50.83725	7380.308	0.8866269	0	-0.4624865	0		$|
+200331	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-6245.086	46.21544	7376.852	0.9536077	0	-0.3010535	0		$|
+200332	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-6208.257	47.09349	7371.709	0.9865493	0	0.1634664	0		$|
+200333	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-6200.344	52.51321	7375.929	0.9379236	0	0.3468435	0		$|
+200334	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-6192.298	59.78821	7380.058	0.8803472	0	0.4743311	0		$|
+8535482	0	object/building/general/dantooine_force_crystal_hunter_sd_cave.iff	0	-6240.15	56.0141	7405.22	1	0	3.200127E-08	0		$|
+8535483	8535482	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
+8535484	8535482	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
+200335	8535484	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	53.00679	-48.8688	-55.60891	0.00219542	0	0.9937573	0.1097563		$|
+200336	8535484	object/tangible/container/loot/placable_loot_crate.iff	0	45.6698	-47.05903	-6.796647	0.9999577	0	0.009203522	0		$|
+8535485	8535482	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
+8535486	8535482	object/cell/cell.iff	4	0	0	0	0	5.605194E-45	1	0		$|
+4706034	8535486	object/tangible/collection/rare_melee_white_thranta_knuckler.iff	0	92.0613	-75.16898	-62.75244	-0.6526592	0	-0.07431071	0.7504777		$|
+8535511	8535486	object/tangible/container/loot/placable_loot_crate.iff	0	61.02206	-75.24424	-57.589	0.9565703	0	-0.2915016	0		$|
+8535487	8535482	object/cell/cell.iff	5	0	0	0	0	7.006492E-45	1	0		$|
+8535488	8535482	object/cell/cell.iff	6	0	0	0	0	8.407791E-45	1	0		$|
+8535489	8535482	object/cell/cell.iff	7	0	0	0	0	9.809089E-45	1	0		$|
+8535490	8535482	object/cell/cell.iff	8	0	0	0	0	1.121039E-44	1	0		$|
+8535491	8535482	object/cell/cell.iff	9	0	0	0	0	1.261169E-44	1	0		$|
+8535492	8535482	object/cell/cell.iff	10	0	0	0	0	1.401298E-44	1	0		$|
+8535493	8535482	object/cell/cell.iff	11	0	0	0	0	1.541428E-44	1	0		$|

@@ -1,0 +1,6 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9645392	0	object/static/flora/flora_bush_talus_razorcoil.iff	0	223.6672	11.82478	-5667.754	0	0	1	0		$|
+9645395	0	object/static/flora/flora_bush_talus_razorcoil.iff	0	225.5304	11.51102	-5666.894	-0.5354159	0	0.8445885	0		$|
+9645397	0	object/static/structure/general/skeleton_human_headandbody.iff	0	224.736	11.5241	-5668.833	0.00150334	0	0.9937659	-0.04999145		$|
+9645398	0	object/static/structure/general/streetlamp_small_red_style_01.iff	0	224.8586	9.750873	-5668.443	0	0	1	0		$|

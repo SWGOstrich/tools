@@ -1,0 +1,7 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9825507	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_01.iff	0	-5321.474	248.0819	215.1901	0	0	1	0		$|
+9825513	0	object/static/structure/tatooine/wall_ruined_tatooine_small_style_01.iff	0	-5327.385	252.1517	219.9846	0.7071055	0	0.707108	0		$|
+9825523	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_01.iff	0	-5333.547	249.8779	217.7398	1	0	-3.200127E-08	0		$|
+9825526	0	object/static/structure/tatooine/debris_tatt_drum_dented_1.iff	0	-5324.442	249.7341	214.6029	0.8431659	0	-0.5178739	-0.1231232		$|
+9825532	0	object/static/structure/corellia/corl_power_arial_thin.iff	0	-5320.995	250.9532	221.0957	0	0	0.9982005	0		$|

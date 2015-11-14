@@ -1,0 +1,22 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+4546339	0	object/tangible/furniture/all/frn_all_rug_rectangle_large_style_01.iff	0	-6152.985	4.593745	-3387.203	-0.3578761	0	0.9319933	-0.05171863		$|
+4546340	0	object/static/structure/corellia/corl_tent_small.iff	0	-6153.101	4.591914	-3386.936	0.3940187	0	0.9191024	0		$|
+4546341	0	object/tangible/furniture/all/frn_all_tiki_torch_s1.iff	0	-6166.151	5.700705	-3388.63	0	0	1	0		$|
+4546342	0	object/tangible/furniture/all/frn_all_tiki_torch_s1.iff	0	-6150.9	5.208029	-3374.561	0	0	1	0		$|
+4546343	0	object/tangible/furniture/all/frn_all_tiki_torch_s1.iff	0	-6153.533	4.508532	-3390.458	0	0	1	0		$|
+7345540	0	object/tangible/jedi/force_shrine_stone.iff	0	-7391.638	234.8493	-3941.26	0.707107	0	0.7071069	0		$|
+7345541	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	-7396.06	235.5889	-3942.856	0.7070968	0	0.7071162	0		$|
+7345542	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	-7387.375	235.6118	-3942.823	0	0	1	0		$|
+7345543	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	-7392.606	235.6117	-3942.868	1	0	0	0		$|
+7345544	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	-7390.813	235.6063	-3942.916	0	0	1	0		$|
+7345545	0	object/static/structure/dantooine/dant_jedi_temple_altar.iff	0	-7391.697	217.6581	-3942.857	0	0	1	0		$|
+7345546	0	object/static/particle/pt_poi_electricity_2x2.iff	0	-7391.636	235.607	-3941.263	0	0	1	0		$|
+9825352	0	object/static/structure/corellia/corl_power_transformer_s01.iff	0	-7484.447	242.0015	-3973.123	-0.4123211	0	0.9110386	0		$|
+9825353	0	object/static/structure/tatooine/antenna_tatt_style_1.iff	0	-7485.583	241.9865	-3976.063	0	0	1	0		$|
+9825778	0	object/static/structure/naboo/poi_nboo_tent_small.iff	0	-6165.743	5.404041	-3384.775	0.9238796	0	0.3826834	0		$|
+9825779	0	object/static/structure/naboo/poi_nboo_tent_small.iff	0	-6154.63	5.004073	-3375.079	-0.3826835	0	0.9238795	0		$|
+9825781	0	object/static/structure/tatooine/jawa/tent_jawa_01_small.iff	0	-6159.954	5.124075	-3379.903	0.9238796	0	-0.3826834	0		$|
+9825794	0	object/tangible/furniture/all/frn_all_rug_rectangle_large_style_01.iff	0	-6165.44	5.819185	-3385.083	-0.3803057	0	0.9194435	-0.09032905		$|
+9825795	0	object/tangible/furniture/all/frn_all_rug_rectangle_large_style_01.iff	0	-6159.828	5.498851	-3379.481	-0.2989392	0	0.9495459	-0.09075955		$|
+9825797	0	object/tangible/furniture/all/frn_all_rug_rectangle_large_style_01.iff	0	-6154.624	5.400311	-3375.486	-0.3039573	0	0.9488953	-0.0808509		$|

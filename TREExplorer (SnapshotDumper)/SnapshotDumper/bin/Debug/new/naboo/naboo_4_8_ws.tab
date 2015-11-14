@@ -1,0 +1,9 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+8305352	0	object/static/structure/naboo/gungan_shield_gen_s01.iff	0	-1344.194	-190.1176	6533.486	0	0	1	0		$|
+8305353	0	object/static/structure/naboo/gungan_shield_s01.iff	0	-1340.135	-190.1332	6533.419	0	0	0.9410754	0		$|
+8305354	0	object/static/structure/general/droid_droideka_powerdown.iff	0	-1346.078	-190.1111	6529.76	0	0	1	0		$|
+8305356	0	object/static/structure/naboo/gungan_wall_ruined_sm_s02.iff	0	-1027.08	-210.1599	6829.703	-0.3801883	0	0.9249091	0		$|
+8305357	0	object/static/structure/naboo/gungan_wall_ruined_lg_s01.iff	0	-1029.677	-210.0621	6834.258	0	0	1	0		$|
+8305358	0	object/static/structure/naboo/gungan_sacred_head_s01.iff	0	-1026.027	-210.1889	6832.503	0.5226873	0	0.8525245	0		$|
+8305359	0	object/static/structure/general/streetlamp_small_blue_style_01.iff	0	-1020.442	-213.0756	6835.093	0	0	1	0		$|

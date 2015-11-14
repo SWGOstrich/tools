@@ -1,0 +1,18 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+8905367	0	object/static/structure/general/prp_junk_s7.iff	0	-3770.155	6.626127	-1835.585	0.9408448	0	0.02611233	0.009326511		$|
+8905369	0	object/static/structure/general/prp_junk_s3.iff	0	-3770.24	7.252071	-1836.401	0.6031407	0	-0.3608254	0.5826904		$|
+8905376	0	object/static/structure/general/skeleton_bith_headandbody.iff	0	-3915.18	416.741	-147.8064	-0.4721607	0	0.8799686	-2.328389E-08		$|
+8905377	0	object/static/structure/general/skeleton_human_headandbody.iff	0	-3916.176	415.6837	-150.0779	0.9732806	0	-0.1136618	-0.04129341		$|
+8995358	0	object/static/structure/military/military_wall_weak_rebl_style_01.iff	0	-2990.464	68.09968	-1118.995	-0.03650921	0	0.9977093	0.046153		$|
+8995359	0	object/static/structure/military/military_column_weak_rebel_style_01.iff	0	-2985.929	67.74031	-1118.755	-0.03185457	0	0.9973696	0.05386581		$|
+8995360	0	object/static/structure/military/military_column_weak_rebel_style_01.iff	0	-2995.075	68.36599	-1119.201	-0.04839697	0	0.9971282	0.02742378		$|
+8995368	0	object/static/structure/general/data_terminal_wall_s2.iff	0	-2989.013	68.44562	-1118.182	-0.04864223	0	0.9969597	0.04821604		$|
+8995369	0	object/static/structure/general/data_terminal_s1.iff	0	-2991.667	68.29084	-1118.13	-0.02630976	0	0.9981924	0.02883177		$|
+8995370	0	object/static/structure/general/banner_rebel_style_01.iff	0	-2993.489	67.92862	-1120.524	-0.04664823	0	0.9970495	0.03716067		$|
+8995377	0	object/static/structure/dantooine/dant_jedi_temple_altar.iff	0	-2718.48	136.1134	-162.8069	0.9915619	0	-0.1296341	0		$|
+8995378	0	object/static/structure/dantooine/dant_jedi_temple_pillar_med.iff	0	-2725.143	149.8593	-165.3584	0.8048354	0	0.5934979	0		$|
+8995379	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	-2713.918	149.579	-168.58	0.1296341	0	0.9915619	0		$|
+8995380	0	object/static/structure/dantooine/dant_jedi_temple_pillar_fallen.iff	0	-2711.247	150.4615	-166.684	-0.3747661	0	0.9248412	-0.02439416		$|
+8995382	0	object/static/structure/dantooine/dant_jedi_temple_pillar_fallen.iff	0	-2709.17	151.6004	-162.4895	0.5924318	0	-0.5146984	0.4712855		$|
+8995387	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	-2719.15	148.8663	-165.5924	0	0	1	0		$|

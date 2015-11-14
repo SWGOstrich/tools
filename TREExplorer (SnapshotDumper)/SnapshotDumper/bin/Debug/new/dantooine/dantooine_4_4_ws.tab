@@ -1,0 +1,45 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+529373	0	object/building/general/dantooine_kunga_cave.iff	0	-139.1996	25.69203	-352.9866	1	0	-3.200127E-08	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dantooine/kunga_cave.iff|$|
+529374	529373	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
+529375	529373	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
+529435	529375	object/tangible/container/loot/placable_loot_crate.iff	0	-42.34001	-32.82104	-26.95983	0.4052851	0	0.895493	-0.008274794		$|
+529376	529373	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
+529377	529373	object/cell/cell.iff	4	0	0	0	0	5.605194E-45	1	0		$|
+529378	529373	object/cell/cell.iff	5	0	0	0	0	7.006492E-45	1	0		$|
+529451	529378	object/tangible/container/loot/placable_loot_crate.iff	0	-61.68415	-30.75673	-61.71782	-0.7071065	0	0.7071069	0		$|
+529379	529373	object/cell/cell.iff	6	0	0	0	0	8.407791E-45	1	0		$|
+529380	529373	object/cell/cell.iff	7	0	0	0	0	9.809089E-45	1	0		$|
+529381	529373	object/cell/cell.iff	8	0	0	0	0	1.121039E-44	1	0		$|
+529382	529373	object/cell/cell.iff	9	0	0	0	0	1.261169E-44	1	0		$|
+529383	529373	object/cell/cell.iff	10	0	0	0	0	1.401298E-44	1	0		$|
+529441	529383	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	-163.9191	-49.43541	-92.25446	0.7850879	0	-0.6193843	0		$|
+529384	529373	object/cell/cell.iff	11	0	0	0	0	1.541428E-44	1	0		$|
+529385	529373	object/cell/cell.iff	12	0	0	0	0	1.681558E-44	1	0		$|
+529386	529373	object/cell/cell.iff	13	0	0	0	0	1.821688E-44	1	0		$|
+529387	529373	object/cell/cell.iff	14	0	0	0	0	1.961818E-44	1	0		$|
+529388	529373	object/cell/cell.iff	15	0	0	0	0	2.101948E-44	1	0		$|
+529389	529373	object/cell/cell.iff	16	0	0	0	0	2.242078E-44	1	0		$|
+529390	529373	object/cell/cell.iff	17	0	0	0	0	2.382207E-44	1	0		$|
+529391	529373	object/cell/cell.iff	18	0	0	0	0	2.522337E-44	1	0		$|
+529392	529373	object/cell/cell.iff	19	0	0	0	0	2.662467E-44	1	0		$|
+529393	529373	object/cell/cell.iff	20	0	0	0	0	2.802597E-44	1	0		$|
+529394	529373	object/cell/cell.iff	21	0	0	0	0	2.942727E-44	1	0		$|
+529395	529373	object/cell/cell.iff	22	0	0	0	0	3.082857E-44	1	0		$|
+529418	529395	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	-15.4309	-43.72928	-107.1056	0.002021207	0	0.9934834	0.1047415		$|
+529396	529373	object/cell/cell.iff	23	0	0	0	0	3.222986E-44	1	0		$|
+529397	529373	object/cell/cell.iff	24	0	0	0	0	3.363116E-44	1	0		$|
+529398	529373	object/cell/cell.iff	25	0	0	0	0	3.503246E-44	1	0		$|
+529399	529373	object/cell/cell.iff	26	0	0	0	0	3.643376E-44	1	0		$|
+529400	529373	object/cell/cell.iff	27	0	0	0	0	3.783506E-44	1	0		$|
+529401	529373	object/cell/cell.iff	28	0	0	0	0	3.923636E-44	1	0		$|
+529402	529373	object/cell/cell.iff	29	0	0	0	0	4.063766E-44	1	0		$|
+529425	529402	object/tangible/container/loot/placable_loot_crate.iff	0	-67.98071	-64.68947	-232.6425	0.7071065	0	0.7071069	0		$|
+529404	0	object/static/structure/dantooine/dant_large_rock_hut.iff	0	-146.506	7.215254	-411.4364	0.9996673	0	-0.02579369	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dantooine/dant_world_npc.iff|$|
+529405	0	object/static/structure/dantooine/dant_totem_pole.iff	0	-169.697	8.70643	-425.7407	0	0	1	0		$|
+529406	0	object/static/structure/dantooine/dant_totem_pole.iff	0	-120.9073	6.921692	-425.6888	0	0	1	0		$|
+529408	0	object/static/structure/dantooine/dant_small_mudhut.iff	0	-163.0219	7.607972	-408.5926	0.4528863	0	0.8915682	0		$|
+529409	0	object/static/structure/dantooine/dant_rack_spears.iff	0	-140.7423	6.96016	-406.2293	-0.3801885	0	0.9249091	0		$|
+529410	0	object/static/structure/dantooine/dant_rack_spears.iff	0	-139.557	6.956852	-405.3967	-0.3801885	0	0.9249091	0		$|
+529411	0	object/static/structure/dantooine/dant_hide_tanning_s01.iff	0	-154.8611	6.610715	-408.2486	0	0	1	0		$|
+529412	0	object/static/structure/dantooine/dant_hide_tanning_s02.iff	0	-152.8132	6.862815	-408.6924	0	0	1	0		$|

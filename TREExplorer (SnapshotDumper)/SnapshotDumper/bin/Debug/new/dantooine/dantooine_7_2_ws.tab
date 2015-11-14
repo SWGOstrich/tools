@@ -1,0 +1,16 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9015613	0	object/building/endor/endor_catwalk.iff	0	5264.297	6.538051	-4536.997	-0.3801885	0	0.9249091	0		$|
+9015614	0	object/building/endor/endor_catwalk.iff	0	5257.526	6.518749	-4530.221	-0.3848082	0	0.9229965	0		$|
+9015620	0	object/static/structure/general/tato_cave_rock_large.iff	0	5254.002	5.37455	-4528.604	0.2562062	0	0.6664364	0.6046821		$|
+9015621	0	object/static/structure/general/tato_cave_rock_large.iff	0	5254.966	5.385528	-4527.491	0.0131021	0	-0.697622	0.03102672		$|
+9015622	0	object/static/structure/general/tato_cave_rock_large.iff	0	5256.285	5.431975	-4526.639	0.1017797	0	0.8811361	0.4587291		$|
+9015623	0	object/static/structure/general/tato_cave_rock_large.iff	0	5267.102	5.3068	-4538.228	0.06884889	0	0.8080353	0.5829849		$|
+9015624	0	object/static/structure/general/tato_cave_rock_large.iff	0	5265.83	5.23376	-4538.935	0.6081094	0	-0.3172041	0.3365624		$|
+9015625	0	object/static/structure/general/tato_cave_rock_large.iff	0	5265.32	5.335749	-4540.276	0	0	-0.6967067	0		$|
+9015640	0	object/static/structure/dantooine/dant_fence_8m.iff	0	5266.671	3.9612	-4536.155	0.3851821	0	0.874244	0.137774		$|
+9015641	0	object/static/structure/dantooine/dant_gate.iff	0	5262.569	0.782134	-4532.281	0.3569493	0	0.9341238	0		$|
+9015642	0	object/static/structure/dantooine/dant_fence_8m.iff	0	5258.604	3.634316	-4528.097	0.3694504	0	0.8617931	-0.114277		$|
+9015643	0	object/static/structure/dantooine/dant_fence_8m.iff	0	5237.442	5.716305	-4514.428	0.1750957	0	0.8717068	-0.09282605		$|
+9015644	0	object/static/structure/dantooine/dant_fence_8m.iff	0	5246.889	6.294726	-4519.188	0.2208855	0	0.8817202	0.1058216		$|
+9015645	0	object/static/structure/dantooine/dant_fence_4m.iff	0	5242.203	2.229721	-4516.783	0.228661	0	0.9734066	0.006386127		$|

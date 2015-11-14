@@ -1,0 +1,27 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+59861	0	object/static/terrain/tatooine/rock_spire_lumpy_tatooine.iff	0	2246.592	0.59428	4904.433	0	0	1	0		$|
+59863	0	object/static/terrain/tatooine/rock_spire_smooth_tatooine_style_1.iff	0	2201.32	-2.567354	4898.057	0	0	1	0		$|
+59864	0	object/static/terrain/tatooine/rock_spire_smooth_tatooine_style_2.iff	0	2234.531	-3.992949	4940.577	0	0	1	0		$|
+60368	0	object/static/terrain/tatooine/rock_spire_skinny_tatooine_style_1.iff	0	2204.6	5.955414	4930.946	0	0	1	0		$|
+60369	0	object/static/terrain/tatooine/rock_spire_skinny_tatooine_style_2.iff	0	2327.422	1.999992	4909.907	0	0	1	0		$|
+60371	0	object/static/terrain/tatooine/rock_spire_lumpy_tatooine_style_2.iff	0	2832.4	0.730737	4499.209	0	0	1	0		$|
+60372	0	object/static/terrain/tatooine/rock_spire_lumpy_tatooine.iff	0	2807.491	8E-06	4549.761	0	0	1	0		$|
+60373	0	object/static/terrain/tatooine/rock_spire_skinny_tatooine_style_1.iff	0	2942.136	1.492069	4529	0	0	1	0		$|
+60374	0	object/static/terrain/tatooine/rock_spire_skinny_tatooine_style_2.iff	0	2822.041	0.410507	4514.705	0	0	1	0		$|
+60376	0	object/static/terrain/tatooine/rock_spire_lumpy_tatooine.iff	0	2102.013	10.42612	4410.641	0	0	1	0		$|
+60377	0	object/static/terrain/tatooine/rock_spire_lumpy_tatooine_style_2.iff	0	2110.917	3.528961	4385.907	0.7571049	0	-0.6532933	0		$|
+60379	0	object/static/terrain/tatooine/rock_spire_skinny_tatooine_style_2.iff	0	2126.023	-19.65727	4368.992	0	0	1	0		$|
+1189232	0	object/static/terrain/tatooine/rock_spire_smooth_tatooine.iff	0	2418.11	0.978851	4632.646	0	0	1	0		$|
+1189233	0	object/static/terrain/tatooine/rock_spire_skinny_tatooine.iff	0	2422.048	0.332954	4593.549	0	0	1	0		$|
+1189234	0	object/static/terrain/tatooine/rock_spire_skinny_tatooine.iff	0	2713.937	0.454437	4564.834	0	0	1	0		$|
+8795590	0	object/static/structure/tatooine/pillar_pristine_tall_style_01.iff	0	3502.639	29.56826	4121.941	0	0	1	0		$|
+8795591	0	object/static/structure/tatooine/pillar_pristine_tall_style_01.iff	0	3502.644	29.5684	4121.942	0	0	1	0		$|
+8795593	0	object/static/structure/tatooine/pillar_pristine_tall_style_01.iff	0	3502.621	29.61359	4127.735	0	0	0.9476507	-0.3193087		$|
+8795594	0	object/static/structure/tatooine/pillar_pristine_tall_style_01.iff	0	3502.627	29.61404	4127.737	0	0	0.9476507	-0.3193087		$|
+8795595	0	object/static/structure/tatooine/pillar_pristine_tall_style_01.iff	0	3502.632	29.61437	4127.739	0	0	0.9476507	-0.3193087		$|
+8795601	0	object/static/structure/tatooine/pillar_pristine_tall_style_01.iff	0	3475.563	29.15868	4128.116	0	0	0.7648422	0		$|
+8795602	0	object/static/structure/tatooine/pillar_pristine_tall_style_01.iff	0	3475.558	29.15876	4128.115	0	0	0.7648422	0		$|
+8795603	0	object/static/structure/tatooine/pillar_pristine_tall_style_01.iff	0	3475.552	29.15884	4128.112	0	0	0.7648422	0		$|
+8795605	0	object/static/structure/tatooine/pillar_pristine_tall_style_01.iff	0	3475.575	29.24675	4122.32	0	0	1	0		$|
+8795606	0	object/static/structure/tatooine/pillar_pristine_tall_style_01.iff	0	3475.57	29.24692	4122.318	0	0	1	0		$|

@@ -1,0 +1,13 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+1254518	0	object/static/terrain/tatooine/rock_spire_smooth_tatooine.iff	0	-1927.515	22.74295	697.5999	0	0	1	0		$|
+1254519	0	object/static/terrain/tatooine/rock_spire_lumpy_tatooine_style_2.iff	0	-1875.119	31.96596	726.1967	0	0	1	0		$|
+9515515	0	object/static/structure/general/debris_deathstar_conduit.iff	0	-1493.092	27.00302	987.0561	-0.194904	0	0.9614921	-0.038495		$|
+9515516	0	object/static/structure/general/debris_deathstar_small_chunk.iff	0	-1483.986	30.04453	977.511	0	0	1	0		$|
+9515517	0	object/static/structure/general/debris_deathstar_conduit.iff	0	-1471.861	31.86432	983.4301	0.79041	0	-0.417337	0.396542		$|
+9515518	0	object/static/structure/general/debris_deathstar_storage.iff	0	-1477.557	30.31282	993.3331	-0.06635169	0	0.8879008	0.452678		$|
+9515521	0	object/static/structure/general/campfire_burnt.iff	0	-1478.023	30.28786	996.35	0	0	0.9963897	0		$|
+9515547	0	object/static/structure/tatooine/stone_hovel_tatooine_style_01.iff	0	-183.1828	157.2673	1916.497	0.03481803	0	0.9961912	-0.003493456		$|
+9515548	0	object/static/structure/tatooine/stone_hovel_tatooine_style_01.iff	0	-160.4638	156.3179	1919.277	0	0	1	0		$|
+9515549	0	object/static/structure/tatooine/stone_hovel_tatooine_style_01.iff	0	-156.0833	146.9313	1938.83	-0.5022222	0	0.8392971	0.1333592		$|
+9515554	0	object/static/structure/general/campfire_ash.iff	0	-162.9288	145.8568	1942.469	0	0	0.9999875	0		$|

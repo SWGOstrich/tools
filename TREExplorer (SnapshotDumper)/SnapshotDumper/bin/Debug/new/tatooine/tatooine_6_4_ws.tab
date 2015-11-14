@@ -1,0 +1,10 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+1254476	0	object/static/terrain/tatooine/rock_spire_smooth_tatooine.iff	0	3380.782	51.05621	-322.4388	0	0	1	0		$|
+1254477	0	object/static/terrain/tatooine/rock_spire_smooth_tatooine_style_1.iff	0	3425.29	48.88313	-355.7989	0	0	1	0		$|
+1254478	0	object/static/terrain/tatooine/rock_spire_skinny_tatooine_style_2.iff	0	3361.318	48.32607	-303.232	0	0	1	0		$|
+8985561	0	object/static/structure/tatooine/wall_pristine_tatooine_tall_style_01.iff	0	2974.888	2.0644	-477.1399	-0.7071061	0	0.7071074	0		$|
+8985562	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_01.iff	0	2992.037	5.544905	-477.1225	-0.7071061	0	0.7071074	0		$|
+8985563	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_02.iff	0	3005.805	5.048481	-477.14	0	0	1	0		$|
+8985564	0	object/static/structure/tatooine/wall_ruined_tatooine_small_style_01.iff	0	3015.599	5.136799	-477.5005	-0.7071061	0	0.7071074	0		$|
+8985565	0	object/static/structure/tatooine/wall_pristine_tatooine_large_style_01.iff	0	3023.968	2.30668	-477.4924	-0.7071061	0	0.7071074	0		$|

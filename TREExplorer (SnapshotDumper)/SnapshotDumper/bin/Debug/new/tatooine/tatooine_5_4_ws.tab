@@ -1,0 +1,13 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+8985437	0	object/static/structure/general/tato_cave_rock_large.iff	0	871.6172	185.7304	-1060.599	0	0	1	0		$|
+8985438	0	object/static/structure/general/tato_cave_rock_med.iff	0	872.9348	185.9919	-1060.168	0.2328431	0	0.9725143	0		$|
+8985439	0	object/static/structure/general/tato_cave_rock_large.iff	0	872.2743	186.0065	-1059.114	0	0	1	0		$|
+8985440	0	object/static/structure/general/tato_cave_rock_large.iff	0	872.3993	187.2543	-1060.133	0	0	-0.7002847	0		$|
+8985441	0	object/static/structure/general/tato_cave_rock_large.iff	0	873.6844	186.2495	-1059.028	-0.3020073	0	0.9268307	-0.06912201		$|
+8985442	0	object/static/structure/general/tato_cave_rock_large.iff	0	873.0278	186.5073	-1057.326	0.1642524	0	0.9864184	0		$|
+8985443	0	object/static/structure/general/tato_cave_rock_large.iff	0	872.8531	187.7428	-1058.373	0.3582937	0	-0.4044161	0.5580091		$|
+8985444	0	object/static/structure/general/tato_cave_rock_large.iff	0	870.6867	186.2366	-1059.187	0	0	1	0		$|
+8985445	0	object/static/structure/general/tato_cave_rock_med.iff	0	871.0071	187.0632	-1060.046	0	0	1	0		$|
+8985446	0	object/static/structure/general/tato_cave_rock_large.iff	0	871.184	187.6958	-1059.133	0	0	0.3483371	0		$|
+8985448	0	object/static/structure/general/tato_cave_rock_large.iff	0	872.2061	188.9463	-1059.23	0	0	1	0		$|

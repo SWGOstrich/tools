@@ -1,0 +1,29 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+3125385	0	object/tangible/camp/camp_tent_s5.iff	0	-5519.348	10.73686	-1252.09	0.6791413	0	0.7340075	0		$|
+8545405	0	object/static/structure/dantooine/dant_gate.iff	0	-5511.802	9.994075	-1244.761	0.001648921	0	0.9980386	0.05494754		$|
+8545406	0	object/static/structure/dantooine/dant_fence_8m.iff	0	-5517.583	9.791	-1244.741	0.0003999466	0	0.9996001	0.01999467		$|
+8545407	0	object/static/structure/dantooine/dant_fence_8m.iff	0	-5525.611	9.843298	-1245.974	-0.149018	0	0.9859915	-0.07408835		$|
+8545408	0	object/static/structure/dantooine/dant_fence_8m.iff	0	-5533.062	9.919489	-1248.863	-0.237462	0	0.9703547	-0.04369547		$|
+8545409	0	object/static/structure/dantooine/dant_fence_8m.iff	0	-5539.793	10.06901	-1253.291	-0.3381966	0	0.9410754	0		$|
+8545410	0	object/static/structure/dantooine/dant_fence_8m.iff	0	-5506.098	10.19641	-1244.666	0	0	0.9993876	0.03499286		$|
+8545411	0	object/static/structure/dantooine/dant_fence_8m.iff	0	-5497.782	10.48307	-1245.797	0.06936901	0	0.8622789	-0.4962658		$|
+8545412	0	object/static/structure/dantooine/dant_fence_8m.iff	0	-5489.993	11.43089	-1248.617	0.216306	0	0.9741641	-0.05305507		$|
+8545413	0	object/static/structure/dantooine/dant_fence_8m.iff	0	-5482.78	12.15666	-1252.883	0.3428977	0	0.9393727	0		$|
+8545414	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-5590.986	65.81583	-664.5518	0.8674232	0	0.4975712	0		$|
+8545415	0	object/static/structure/general/skeleton_human_head.iff	0	-5591.207	65.8856	-665.2919	0.6845818	0	0.3849794	-0.6045366		$|
+8545416	0	object/static/structure/general/skeleton_human_head.iff	0	-5590.666	65.89172	-665.7732	0.6997467	0	0.02744662	-0.02797883		$|
+8545417	0	object/static/structure/general/skeleton_human_head.iff	0	-5590.505	65.83815	-665.0833	0.6198882	0	0.5903623	-0.05299428		$|
+8545418	0	object/static/structure/general/skeleton_human_head.iff	0	-5589.966	65.78157	-664.5912	0.8697587	0	0.4456418	0.00564963		$|
+8545419	0	object/static/structure/general/skeleton_human_head.iff	0	-5590.218	65.75214	-664.0482	0.4366897	0	0.7899418	0.2082587		$|
+8545420	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	-5590.109	64.36655	-665.1981	0	0	1	0		$|
+8645372	0	object/static/structure/general/campfire_ash.iff	0	-4828.946	13.0784	-1429.434	0	0	1	0		$|
+8645373	0	object/static/structure/tatooine/jawa/tent_jawa_01_small.iff	0	-4830.349	12.95674	-1433.089	0.2491037	0	0.9480618	0.1046676		$|
+8645375	0	object/tangible/furniture/all/frn_all_rug_rectangle_large_style_01.iff	0	-4829.57	13.48901	-1431.229	-0.007416978	0	0.9954292	0.09013468		$|
+8645376	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-4927.648	64.90578	-630.2076	0	0	0.9895059	0		$|
+8645377	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-4926.523	64.8896	-630.4788	0.9736252	0	-0.008961127	-0.2279678		$|
+8645378	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	-4926.933	63.14855	-630.6329	0	0	1	0		$|
+8905371	0	object/static/structure/general/skeleton_human_head.iff	0	-4196.302	88.50305	-1079.445	0.5148451	0	0.8281946	0.1696634		$|
+8905372	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	-4193.331	84.31958	-1080.501	-0.1048071	0	0.9944926	0		$|
+8905373	0	object/static/structure/dantooine/dant_skull_lizard.iff	0	-4196.319	87.92164	-1080.042	0.5650328	0	0.677679	0.3614661		$|
+8905374	0	object/static/structure/general/skeleton_human_head.iff	0	-4196.45	88.56089	-1080.784	0.7231953	0	0.6494156	0.2055668		$|

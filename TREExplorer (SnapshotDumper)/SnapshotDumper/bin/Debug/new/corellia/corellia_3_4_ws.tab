@@ -1,0 +1,31 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+164385	0	object/static/structure/corellia/corl_power_transformer_s02.iff	0	-3619.934	21.28406	-353.9454	0	0	1	0		$|
+5475561	0	object/static/structure/corellia/corl_imprv_gate_sm_s03.iff	0	-3611.147	20.96384	-366.8372	0	0	1	0		$|
+5475563	0	object/static/structure/corellia/corl_imprv_wall_4x16_s03.iff	0	-3624.231	21.9456	-358.1607	-0.7071065	0	0.707107	0		$|
+5475564	0	object/static/structure/corellia/corl_imprv_column_s03.iff	0	-3624.144	21.87043	-366.2386	0	0	1	0		$|
+9825371	0	object/static/structure/corellia/corl_imprv_wall_4x16_s03.iff	0	-3616.04	21.97931	-349.9261	0	0	1	0		$|
+9825372	0	object/static/structure/corellia/corl_imprv_column_s03.iff	0	-3624.355	22.06088	-349.9286	0	0	1	0		$|
+9825374	0	object/static/structure/corellia/corl_imprv_column_s03.iff	0	-3607.793	22.3437	-349.9379	0	0	1	0		$|
+9825376	0	object/static/structure/corellia/corl_imprv_wall_4x16_s03.iff	0	-3607.143	21.78743	-358.2928	0.6779724	0	0.7350873	0		$|
+9825379	0	object/static/structure/corellia/corl_imprv_column_s03.iff	0	-3606.549	21.97049	-366.7509	0	0	1	0		$|
+9825385	0	object/static/structure/corellia/corl_banner_govt_angled_s01.iff	0	-3606.567	25.29763	-369.8568	0.9997838	0	-0.02079486	0		$|
+9825414	0	object/static/structure/general/flag_corellia_s01.iff	0	-3620.535	21.04649	-361.1651	0	0	1	0		$|
+9825436	0	object/static/structure/corellia/corl_power_arial_thin.iff	0	-3609.087	21.32534	-354.8236	0.9998991	0	-0.01420307	0		$|
+9825776	0	object/static/structure/corellia/corl_power_transformer_s02.iff	0	-2296.093	30.91879	-1330.656	0	0	0.9492352	0		$|
+9825777	0	object/static/structure/corellia/corl_power_arial_prime.iff	0	-2294.342	30.94307	-1335.871	0.5992688	0	0.6242294	-0.3471085		$|
+9825780	0	object/static/structure/corellia/corl_power_box_node.iff	0	-2294.864	33.0744	-1341.069	0.8563823	0	-0.5084597	0.04588532		$|
+9825874	0	object/static/structure/general/tato_cave_stalagmite_med.iff	0	-3025.69	33.74661	-1833.458	0.6720501	0	-0.6462066	0.2606634		$|
+9825878	0	object/static/structure/general/tato_cave_stalagmite_med.iff	0	-3033.952	34.08486	-1832.143	0.4081859	0	0.8295828	-0.3779978		$|
+9825881	0	object/static/structure/general/tato_cave_stalagmite_med.iff	0	-3039.965	33.51844	-1829.287	0.8245362	0	0.4980246	-0.2479755		$|
+9825884	0	object/static/structure/general/tato_cave_stalagmite_med.iff	0	-3041.096	32.90718	-1822.534	0.7715793	0	0.5309437	-0.1725355		$|
+9825885	0	object/static/structure/general/tato_cave_stalagmite_med.iff	0	-3034.472	32.6359	-1817.936	0.8737853	0	-0.03353854	-0.1296747		$|
+9825886	0	object/static/structure/general/tato_cave_stalagmite_med.iff	0	-3025.326	32.38306	-1816.938	0.7800048	0	0.4297591	0.2924993		$|
+9825887	0	object/static/structure/general/tato_cave_stalagmite_med.iff	0	-3017.243	31.03109	-1821.506	0.9062213	0	0.1008412	0.407112		$|
+9825888	0	object/static/structure/general/tato_cave_stalagmite_med.iff	0	-3017.985	31.94638	-1829.643	0.7379768	0	0.5596225	0.2394566		$|
+9825891	0	object/static/structure/general/tato_cave_stalagmite_large.iff	0	-3029.833	34.20177	-1823.382	0.3240429	0	0.9460424	0		$|
+9825892	0	object/static/structure/general/tato_cave_stalagmite_large.iff	0	-3032.6	34.35097	-1827.001	0.7925625	0	0.6097907	0		$|
+9825893	0	object/static/structure/general/tato_cave_stalagmite_large.iff	0	-3027.739	34.33699	-1827.534	0.01999852	0	0.9998	0		$|
+9825896	0	object/tangible/furniture/all/frn_all_tiki_torch_s1.iff	0	-3027.922	39.93801	-1827.771	0	0	1	0		$|
+9825902	0	object/tangible/furniture/all/frn_all_tiki_torch_s1.iff	0	-3032.818	39.95446	-1826.837	0	0	1	0		$|
+9825903	0	object/tangible/furniture/all/frn_all_tiki_torch_s1.iff	0	-3030.081	39.76012	-1823.421	0	0	1	0		$|

@@ -1,0 +1,32 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9705829	0	object/static/structure/general/tato_cave_rock_large.iff	0	6288.719	263.3824	2199.655	0.7616566	0	0.5071145	-0.2097259		$|
+9705830	0	object/static/structure/general/tato_cave_rock_large.iff	0	6291.491	263.1702	2197.395	0.5134528	0	-0.2645717	-0.3739097		$|
+9705831	0	object/static/structure/general/tato_cave_rock_large.iff	0	6289.796	264.3649	2199.621	-0.1232238	0	0.1309527	0.7164013		$|
+9705832	0	object/static/structure/general/tato_cave_rock_large.iff	0	6290.738	264.8196	2198.785	-0.4276167	0	-0.1761722	-0.3377382		$|
+9705833	0	object/static/structure/general/tato_cave_rock_large.iff	0	6291.35	264.3055	2198.02	0	0	0.9939561	-0.1097783		$|
+9705834	0	object/static/structure/general/tato_cave_rock_large.iff	0	6288.374	263.0805	2198.603	0.836026	0	0.54869	0		$|
+9705835	0	object/static/structure/general/tato_cave_rock_large.iff	0	6291.146	262.8683	2196.342	0.8332312	0	0.3179218	-0.4116743		$|
+9705836	0	object/static/structure/general/tato_cave_rock_large.iff	0	6289.45	264.063	2198.568	-0.5120568	0	0.8395056	-0.1293185		$|
+9705837	0	object/static/structure/general/tato_cave_rock_large.iff	0	6290.393	264.5177	2197.733	-0.5170245	0	-0.2072618	-0.3085074		$|
+9705838	0	object/static/structure/general/tato_cave_rock_large.iff	0	6291.004	264.0036	2196.967	0.6438192	0	0.7415047	0.1426061		$|
+9705840	0	object/static/structure/general/tato_cave_rock_large.iff	0	6287.776	263.1576	2197.675	0.4607716	0	0.8638576	0.01642959		$|
+9705841	0	object/static/structure/general/tato_cave_rock_large.iff	0	6290.548	262.9454	2195.415	0.6447346	0	-0.0561218	-0.2434723		$|
+9705842	0	object/static/structure/general/tato_cave_rock_large.iff	0	6288.853	264.14	2197.641	0.2478212	0	0.8157254	-0.2746391		$|
+9705843	0	object/static/structure/general/tato_cave_rock_large.iff	0	6289.795	264.5948	2196.805	0.006778401	0	-0.01451539	0.3690055		$|
+9705844	0	object/static/structure/general/tato_cave_rock_large.iff	0	6290.407	264.0807	2196.04	0.4941241	0	-0.4703905	-0.5041239		$|
+9705845	0	object/static/structure/general/tato_cave_rock_large.iff	0	6287.169	263.2436	2196.729	0.7127327	0	0.4677717	0.2867932		$|
+9705846	0	object/static/structure/general/tato_cave_rock_large.iff	0	6289.941	263.0314	2194.469	0.824564	0	0.3746039	-0.4238312		$|
+9705847	0	object/static/structure/general/tato_cave_rock_large.iff	0	6288.246	264.226	2196.695	0.2192449	0	0.0268195	-0.5526184		$|
+9705848	0	object/static/structure/general/tato_cave_rock_large.iff	0	6289.188	264.6808	2195.859	0.663785	0	0.27347	0.265175		$|
+9705849	0	object/static/structure/general/tato_cave_rock_large.iff	0	6289.8	264.1667	2195.094	0	0	1	0		$|
+9705850	0	object/static/structure/general/tato_cave_rock_large.iff	0	6286.793	262.806	2195.716	0.1067032	0	0.7307189	-0.176084		$|
+9705851	0	object/static/structure/general/tato_cave_rock_large.iff	0	6289.565	262.5938	2193.456	0.513453	0	-0.264572	-0.37391		$|
+9705852	0	object/static/structure/general/tato_cave_rock_large.iff	0	6287.87	263.7885	2195.682	0.3211297	0	0.2030149	-0.5817249		$|
+9705853	0	object/static/structure/general/tato_cave_rock_large.iff	0	6288.812	264.2433	2194.846	-0.2413302	0	-0.1799796	-0.133821		$|
+9705854	0	object/static/structure/general/tato_cave_rock_large.iff	0	6289.424	263.7292	2194.081	-0.3836824	0	0.6940554	0.5331206		$|
+9705856	0	object/static/structure/general/skeleton_human_body.iff	0	6283.2	263.0862	2194.122	-0.3894182	0	0.921061	0		$|
+9705857	0	object/static/structure/general/skeleton_ithorian_headandbody.iff	0	6286.368	262.7347	2191.797	0.2811575	0	0.9596617	0		$|
+9705858	0	object/static/structure/general/skeleton_ithorian_head.iff	0	6289.5	262.5248	2191.177	0.5226871	0	0.8525246	0		$|
+9705859	0	object/static/structure/general/skeleton_ithorian_head.iff	0	6285.443	262.9091	2194.778	0	0	0.6137458	0.7895038		$|
+9705860	0	object/static/structure/general/skeleton_bith_headandbody.iff	0	6287.467	262.7042	2194.269	0.2084599	0	0.9780309	0		$|

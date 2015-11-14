@@ -1,0 +1,6 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9725498	0	object/static/structure/dantooine/dant_skull_bol.iff	0	1386.886	98.27926	-3192.973	-0.004822966	0	0.9333157	-0.3491683		$|
+9725502	0	object/static/structure/dantooine/dant_skull_lizard.iff	0	1386.818	98.53967	-3192.891	-0.08404186	0	0.9295367	-0.3550005		$|
+9725506	0	object/static/structure/general/skeleton_ancient_s01_with_floor.iff	0	1366.582	105.7275	-3192.603	-0.4530265	0	-0.5043687	-0.07989923	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_spider_queen_next_to_skeleton.iff|$|
+9725533	0	object/static/structure/tatooine/skeleton_krayt_foot.iff	0	1378.153	100.9754	-3188.479	-0.121915	0	0.2076062	0.970235		$|

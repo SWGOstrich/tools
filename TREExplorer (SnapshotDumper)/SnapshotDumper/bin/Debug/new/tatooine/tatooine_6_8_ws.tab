@@ -1,0 +1,17 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+8985492	0	object/static/structure/tatooine/pillar_damaged_large_style_01.iff	0	2971.216	47.07413	6443.93	0	0	1	0		$|
+8985493	0	object/static/structure/tatooine/pillar_ruined_large_style_01.iff	0	2977.3	47.12626	6443.873	0	0	1	0		$|
+8985494	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_02.iff	0	2977.001	46.69575	6448.646	-0.7071059	0	0.7071076	7.727139E-09		$|
+8985495	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_01.iff	0	2971.018	47.91356	6452.136	0	0	1	0		$|
+8985496	0	object/static/structure/tatooine/wall_pristine_tatooine_large_style_02.iff	0	2985.356	46.45082	6457.782	-0.7071065	0	0.707107	0		$|
+8985497	0	object/static/structure/tatooine/wall_ruined_tatooine_small_style_01.iff	0	2977.325	47.8317	6454.953	0	0	1	0		$|
+8985498	0	object/static/structure/tatooine/concrete_slab_tatooine_16x8.iff	0	2985.38	38.48582	6465.292	0	0	1	0		$|
+8985499	0	object/static/structure/tatooine/wall_pristine_tatooine_large_style_02.iff	0	2962.988	46.3386	6458.073	0.707107	0	-0.7071069	0		$|
+8985500	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_01.iff	0	2993.659	44.49645	6465.388	4.181905E-09	0	0.9238795	1.009601E-08		$|
+8985501	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_02.iff	0	2989.278	46.45822	6472.33	1	0	-4.948343E-07	0		$|
+8985503	0	object/static/structure/tatooine/pillar_pristine_tall_style_01.iff	0	2979.477	48.72911	6467.496	0.2705979	0	0.6532817	0.6532812		$|
+8985504	0	object/static/structure/tatooine/pillar_pristine_tall_style_01.iff	0	2977.545	49.47021	6466.428	0	0	0.7071075	-0.707106		$|
+8985505	0	object/static/structure/tatooine/pillar_pristine_tall_style_01.iff	0	2980.786	49.86386	6470.935	-0.2705975	0	-0.6532822	0.6532803		$|
+8985506	0	object/static/structure/tatooine/pillar_pristine_small_style_01.iff	0	2979.052	47.55854	6468.498	-0.3826834	0	0.9238796	0		$|
+8985507	0	object/static/structure/tatooine/pillar_pristine_small_style_01.iff	0	2980.49	47.67282	6472.069	-0.3826834	0	0.9238796	4.181905E-09		$|

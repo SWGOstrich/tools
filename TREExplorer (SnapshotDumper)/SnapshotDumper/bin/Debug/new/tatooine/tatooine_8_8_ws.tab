@@ -1,0 +1,20 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+894897	0	object/tangible/camp/camp_tent_s1.iff	0	7045.111	70.79396	7038.116	0.7173558	0	-0.6967069	0		$|
+894899	0	object/tangible/camp/camp_light_s2.iff	0	7042.438	69.83982	7036.271	0	0	1	0		$|
+894900	0	object/tangible/camp/camp_lantern_s3.iff	0	7045.56	70.64565	7040.476	0	0	1	0		$|
+894901	0	object/static/structure/general/droid_probedroid_powerdown.iff	0	7036.207	71.87643	7050.149	0	0	1	0		$|
+894904	0	object/static/particle/pt_poi_broken_electronics.iff	0	7036.446	71.74848	7050.345	0	0	1	0		$|
+8255365	0	object/static/structure/tatooine/wall_damaged_tatooine_large_style_01.iff	0	7045.304	70.44434	7035.807	-0.707104	0	0.7071095	0		$|
+8255368	0	object/static/structure/tatooine/concrete_slab_tatooine_16x8.iff	0	7045.026	62.58379	7040.339	0	0	1	0		$|
+8255369	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_02.iff	0	7049.071	70.35735	7039.723	-0.7071049	0	0.7071086	0		$|
+8255370	0	object/static/structure/tatooine/wall_ruined_tatooine_small_style_01.iff	0	7041.304	70.43313	7037.758	0.9999999	0	-6.634217E-07	0		$|
+8345353	0	object/static/structure/tatooine/wall_damaged_tatooine_large_style_01.iff	0	7041.042	70.25483	7048.671	-0.7070831	0	0.7071299	0		$|
+8345354	0	object/static/structure/tatooine/pillar_ruined_large_style_01.iff	0	7040.544	67.74142	7032.2	-0.2705977	0	-0.6532826	0.65328		$|
+8345355	0	object/static/structure/tatooine/pillar_ruined_small_style_01.iff	0	7052.204	70.52177	7034.052	0	0	1	0		$|
+8345370	0	object/static/structure/tatooine/wall_damaged_tatooine_large_style_01.iff	0	7049.027	70.25459	7048.663	-0.7070711	0	0.7071419	0		$|
+8345371	0	object/static/structure/tatooine/wall_damaged_tatooine_large_style_01.iff	0	7052.524	70.24516	7044.606	0.9999998	0	-2.881754E-05	0		$|
+8345372	0	object/static/structure/tatooine/wall_damaged_tatooine_large_style_01.iff	0	7037.545	70.25785	7044.165	0	0	1	0		$|
+8345373	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_01.iff	0	7045.403	72.80656	7058.561	-0.7071055	0	0.707108	0		$|
+8425405	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_02.iff	0	7095.352	95.31409	7123.311	-0.7071011	0	0.7071119	0		$|
+8425412	0	object/static/structure/tatooine/pillar_pristine_tall_style_01.iff	0	7053.1	90.83135	7103.558	0.2705979	0	-0.6532815	0.6532815		$|

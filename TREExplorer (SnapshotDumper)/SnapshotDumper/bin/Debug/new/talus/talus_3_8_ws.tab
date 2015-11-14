@@ -1,0 +1,35 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+1094864	0	object/static/structure/general/poi_all_monolith_s01.iff	0	-3659.401	55.34523	6331.31	0	0	1	0		$|
+1094868	0	object/static/item/item_tool_sensor_beacon.iff	0	-3659.211	83.23979	6331.038	0	0	1	0		$|
+1094869	0	object/static/particle/pt_poi_broken_electronics.iff	0	-3659.13	85.76599	6331.016	0	0	1	0		$|
+1094871	0	object/static/particle/pt_miasma_of_fog_gray.iff	0	-3659.565	86.32757	6331.077	0	0	1	0		$|
+1094872	0	object/static/particle/pt_poi_electricity_2x2.iff	0	-3660.363	87.16663	6331.25	0	0	-0.6967068	0		$|
+1094880	0	object/static/structure/corellia/corl_power_arial_thin.iff	0	-3638.5	56.37687	6330.778	0.6864783	0	0.680189	-0.182618		$|
+1094881	0	object/static/structure/corellia/corl_power_bubble_node.iff	0	-3638.03	56.77852	6335.216	0	0	1	0		$|
+1094882	0	object/static/structure/general/data_terminal_s1.iff	0	-3635.785	56.65607	6333.912	0.7071063	0	0.7071072	0		$|
+1094889	0	object/static/item/item_tool_computer_toolkit.iff	0	-3633.464	57.58772	6336.388	0.9929036	0	-0.1189217	0		$|
+1094890	0	object/static/item/item_tool_instrument_calibrator.iff	0	-3636.425	57.34151	6336.539	0.8843034	0	0.4669129	0		$|
+1094891	0	object/static/item/item_tool_power_output_analyzer.iff	0	-3634.472	57.58679	6336.643	0.9995258	0	0.03079139	0		$|
+1094892	0	object/static/item/item_document.iff	0	-3634.175	57.59078	6336.16	0	0	1	0		$|
+1094893	0	object/static/item/item_document.iff	0	-3633.954	57.59373	6336.165	-0.08489764	0	0.9963897	0		$|
+1094894	0	object/static/item/item_document.iff	0	-3634.095	57.66251	6336.102	0.8220489	0	-0.5694168	0		$|
+1094895	0	object/tangible/furniture/imperial/table_s1.iff	0	-3633.889	56.83649	6336.892	0.9738477	0	-0.2272021	0		$|
+1094897	0	object/static/structure/corellia/corl_tent_med.iff	0	-3632.88	56.83356	6334.468	0.01499944	0	0.9998875	0		$|
+1094898	0	object/static/structure/general/streetlamp_medium_style_01.iff	0	-3633.276	56.60761	6334.489	0.01499944	0	0.9998875	0		$|
+1094899	0	object/tangible/furniture/all/frn_all_toolchest_lg_s01.iff	0	-3634.88	56.71447	6332.131	0.2084599	0	0.9780309	0		$|
+1094900	0	object/static/structure/tatooine/debris_tatt_drum_storage_1.iff	0	-3632.108	56.69762	6331.631	0	0	1	0		$|
+1094901	0	object/static/structure/tatooine/debris_tatt_drum_storage_1.iff	0	-3632.175	56.78671	6332.781	-0.3098164	0	0.9507964	0		$|
+1094902	0	object/static/structure/tatooine/debris_tatt_drum_storage_1.iff	0	-3630.791	56.69267	6332.808	0.7643289	0	-0.6448267	0		$|
+1094903	0	object/tangible/camp/camp_tent_s3.iff	0	-3623.736	56.67231	6333.191	0	0	1	0		$|
+1094906	0	object/static/structure/corellia/corl_power_box_node.iff	0	-3638.033	56.60569	6330.852	0	0	1	0		$|
+8135452	0	object/static/structure/tatooine/debris_tatt_drum_storage_1.iff	0	-3443.921	42.5705	6189.034	0.4968559	0	0.828881	-0.1321744		$|
+8135454	0	object/static/structure/tatooine/debris_tatt_drum_dented_1.iff	0	-3441.707	42.12111	6183.797	-0.2464377	0	0.9453843	-0.05381591		$|
+8135455	0	object/static/structure/tatooine/debris_tatt_drum_dented_1.iff	0	-3447.683	43.28441	6191.105	0	0	0.8080275	0		$|
+8135456	0	object/static/structure/tatooine/debris_tatt_crate_1.iff	0	-3439.655	42.77352	6192.528	0.9614849	0	-0.0972437	-0.2557757		$|
+8135457	0	object/static/structure/tatooine/debris_tatt_drum_storage_1.iff	0	-3442.502	43.03896	6194.751	0.8466411	0	-0.3837961	0.1546997		$|
+8715386	0	object/static/structure/tatooine/debris_tatt_drum_storage_1.iff	0	-3443.047	42.85085	6182.703	0.797824	0	-0.2700684	0.02974319		$|
+8715387	0	object/static/structure/tatooine/debris_tatt_crate_1.iff	0	-3443.237	42.4126	6184.643	0.961485	0	-0.097244	-0.255776		$|
+8715388	0	object/static/structure/tatooine/debris_tatt_drum_dented_1.iff	0	-3449.365	43.77729	6182.047	0	0	0.8080267	0		$|
+8715389	0	object/static/structure/tatooine/debris_tatt_drum_dented_1.iff	0	-3443.582	43.2781	6175.253	-0.246438	0	0.9453843	-0.05381599		$|
+8715390	0	object/static/structure/tatooine/debris_tatt_drum_storage_1.iff	0	-3445.796	43.15718	6180.489	0.4968559	0	0.8288812	-0.132174		$|

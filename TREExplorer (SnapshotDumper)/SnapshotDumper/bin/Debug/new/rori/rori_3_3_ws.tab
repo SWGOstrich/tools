@@ -1,0 +1,12 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9715704	0	object/static/structure/naboo/obelisk_naboo_theed_style_2.iff	0	-3392.156	108.1537	-2097.328	0	0	1	0		$|
+9715730	0	object/static/structure/naboo/nboo_imprv_metal_fence_wall_sml_s01.iff	0	-3393.621	108.1864	-2095.82	-0.7071053	0	0.7071082	0		$|
+9715732	0	object/static/structure/naboo/nboo_imprv_metal_fence_wall_sml_s01.iff	0	-3390.66	108.141	-2095.831	0	0	1	0		$|
+9715734	0	object/static/structure/naboo/nboo_imprv_metal_fence_wall_sml_s01.iff	0	-3393.66	108.1606	-2098.858	1	0	3.200127E-08	0		$|
+9715735	0	object/static/structure/naboo/nboo_imprv_metal_fence_wall_sml_s01.iff	0	-3390.644	108.1228	-2098.867	0.7071053	0	0.7071082	0		$|
+9715966	0	object/static/structure/tatooine/jawa/tent_jawa_01_small.iff	0	-2643.983	80.77536	-3209.206	0.2859523	0	0.9582438	0		$|
+9715967	0	object/tangible/furniture/all/frn_all_rug_rectangle_large_style_01.iff	0	-2643.344	81.25316	-3209.589	0.3002933	0	0.9538469	0		$|
+9715968	0	object/static/structure/tatooine/debris_tatt_crate_1.iff	0	-2644.987	81.13197	-3210.065	-0.1790296	0	0.9838437	0		$|
+9715969	0	object/static/structure/general/campfire_ash.iff	0	-2640.744	80.86632	-3213.214	0	0	1	0		$|
+9715970	0	object/static/structure/general/skeleton_human_headandbody.iff	0	-2641.97	81.17438	-3210.752	0.9964165	0	0.07908526	0.02990147		$|

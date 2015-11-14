@@ -1,0 +1,11 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9715378	0	object/static/structure/general/skeleton_human_headandbody.iff	0	4274.731	84.8056	2510.793	0.7460738	0	0.6398783	0.1274566		$|
+9715379	0	object/static/structure/general/all_banner_generic_s01.iff	0	4273.451	83.62904	2511.655	0.6386391	0	-0.6019064	0.328823		$|
+9715380	0	object/static/structure/general/campfire_ash.iff	0	4275.727	84.50571	2512.613	0	0	1	0		$|
+9715381	0	object/static/structure/general/escape_pod.iff	0	4270.374	85.18301	2506.345	0.9415803	0	-0.2789579	-0.1183144		$|
+9715539	0	object/static/structure/naboo/gungan_damaged_narrow_arch_s01.iff	0	5579.092	73.86759	2431.953	0	0	1	0		$|
+9715540	0	object/static/structure/naboo/gungan_damaged_wall_lg_s01.iff	0	5586.469	72.98825	2428.813	0.7172295	0	0.6896487	-0.07196297		$|
+9715541	0	object/static/structure/naboo/gungan_damaged_wide_arch_s01.iff	0	5579.375	73.74511	2442.848	0.7208306	0	-0.6931114	0		$|
+9715546	0	object/static/structure/naboo/gungan_wall_ruined_sm_s01.iff	0	5594.467	75.5526	2432.151	0	0	1	0		$|
+9715548	0	object/static/structure/naboo/gungan_wall_ruined_lg_s02.iff	0	5593.315	75.43082	2441.376	0	0	1	0		$|

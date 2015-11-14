@@ -1,0 +1,27 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+8135699	0	object/static/structure/naboo/gungan_relic_s02.iff	0	-2036.379	77.75069	3333.615	0.2231065	0	0.9747941	0		$|
+8135711	0	object/static/structure/naboo/gungan_shield_gen_s01.iff	0	-2043.055	77.23888	3341.469	-0.2377027	0	0.971338	0		$|
+8135713	0	object/static/structure/naboo/gungan_damaged_wall_lg_s01.iff	0	-2040.519	78.3494	3354.523	-0.5311864	0	0.847255	0		$|
+8135714	0	object/static/structure/naboo/gungan_pillar_damaged_s01.iff	0	-2044.58	78.22495	3356.463	0.2133474	0	0.9769764	0		$|
+8135715	0	object/static/structure/naboo/gungan_pillar_damaged_s01.iff	0	-2036.558	78.32689	3352.651	-0.5396323	0	0.8419008	0		$|
+8135716	0	object/static/structure/naboo/gungan_damaged_narrow_arch_s01.iff	0	-2046.202	77.87775	3352.56	0.1986694	0	0.9800665	0		$|
+8135739	0	object/static/structure/naboo/gungan_wall_ruined_lg_s01.iff	0	-2027.276	74.55026	3269.279	0.1691823	0	0.9855848	0		$|
+8135740	0	object/static/structure/naboo/gungan_wall_ruined_sm_s01.iff	0	-2034.454	75.45047	3261.664	-0.5891446	0	0.8080276	0		$|
+8135741	0	object/static/structure/naboo/gungan_wall_ruined_sm_s02.iff	0	-2039.179	75.56935	3284.548	0	0	1	0		$|
+8135742	0	object/static/structure/naboo/gungan_shield_gen_s01.iff	0	-2036.267	74.82249	3272.984	-0.05843365	0	0.9407665	0.2553076		$|
+8435574	0	object/static/structure/naboo/gungan_damaged_wall_lg_s01.iff	0	-2038.358	78.29148	3348.901	0.2234949	0	0.9747051	0		$|
+8435575	0	object/static/structure/naboo/gungan_pillar_damaged_s01.iff	0	-2040.23	78.26897	3344.939	0.2137364	0	0.9768913	0		$|
+8435576	0	object/static/structure/naboo/gungan_damaged_wall_lg_s01.iff	0	-2037.398	78.38628	3341.673	-0.3565769	0	0.934266	0		$|
+8435577	0	object/static/structure/naboo/gungan_cleft_wall_lg_s01.iff	0	-2042.236	77.74749	3326.149	0.3709205	0	0.9286646	0		$|
+8435578	0	object/static/structure/naboo/gungan_pillar_ruined_s01.iff	0	-2045.198	77.95555	3323.054	0.9264993	0	0.3762964	0		$|
+8435588	0	object/static/structure/naboo/gungan_wall_ruined_sm_s02.iff	0	-2045.572	77.40594	3338.132	0.862807	0	0.5055326	0		$|
+8435597	0	object/static/structure/general/skeleton_human_head.iff	0	-2038.029	79.82077	3334.182	-0.5605091	0	0.8281482	0		$|
+8435598	0	object/static/item/wp_mle_lance_staff_wood_s01.iff	0	-2038.014	78.78088	3334.184	-0.5605091	0	0.8281482	0		$|
+8435611	0	object/static/structure/naboo/gungan_relic_s01.iff	0	-2016.635	77.00196	3359.663	0.8387592	0	0.5445027	0		$|
+8435612	0	object/tangible/furniture/all/frn_all_tiki_torch_s1.iff	0	-2009.803	77.95997	3351.197	0	0	1	0		$|
+8435613	0	object/tangible/furniture/all/frn_all_tiki_torch_s1.iff	0	-2034.268	79.00392	3332.816	0	0	1	0		$|
+9715909	0	object/static/structure/naboo/obelisk_naboo_theed_style_3.iff	0	-431.3737	71.46598	3267.399	0	0	1	0		$|
+9715911	0	object/static/structure/naboo/obelisk_naboo_theed_style_3.iff	0	-424.8244	70.45683	3267.38	0	0	0.9939561	0		$|
+9715915	0	object/static/structure/naboo/obelisk_naboo_theed_style_3.iff	0	-439.3586	70.87846	3266.197	-0.002691631	0	0.9907031	0.0198167		$|
+9715932	0	object/static/structure/naboo/obelisk_naboo_theed_style_3.iff	0	-430.6032	70.45774	3261.085	-0.01357664	0	0.9942492	0.105657		$|

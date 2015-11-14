@@ -1,0 +1,18 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9725731	0	object/static/structure/dathomir/nsister_hut_style_01.iff	0	-2598.279	130.58	4961.823	0	0	1	0		$|
+9725732	0	object/static/structure/dathomir/nsister_hut_style_01.iff	0	-2597.46	131.2619	4947.247	0.9987898	0	-0.04918377	0		$|
+9725733	0	object/static/structure/dathomir/nsister_fence_style_01.iff	0	-2603.321	130.205	4947.558	-0.2667314	0	0.9637709	0		$|
+9725734	0	object/static/structure/dathomir/nsister_fence_style_01.iff	0	-2605.98	130.2642	4955.782	0	0	1	0		$|
+9725735	0	object/static/structure/dathomir/nsister_fence_style_01.iff	0	-2603.139	129.0706	4963.24	0.4662083	0	0.884675	0		$|
+9725736	0	object/static/structure/dathomir/nsister_gate_style_01.iff	0	-2592.52	129.4354	4954.453	0	0	1	0		$|
+9725738	0	object/building/endor/endr_lake_rail4m.iff	0	-2592.67	130.7574	4947.127	-0.6287931	0	0.7775727	0		$|
+9725739	0	object/building/endor/endr_lake_rail4m.iff	0	-2594.812	130.3379	4944.151	-0.2907398	0	0.9568021	0		$|
+9725741	0	object/building/endor/endr_lake_rail4m.iff	0	-2594.229	129.4964	4962.215	0.3428978	0	0.9393727	0		$|
+9725742	0	object/building/endor/endr_lake_rail4m.iff	0	-2598.614	130.3736	4943.476	0.1147467	0	0.9933948	0		$|
+9725743	0	object/building/endor/endr_lake_rail4m.iff	0	-2601.342	126.0355	4941.136	0.188859	0	0.9820042	0		$|
+9725744	0	object/building/endor/endr_lake_rail4m.iff	0	-2597.742	129.757	4964.34	0.1048071	0	0.9944926	0		$|
+9725747	0	object/static/structure/dathomir/night_sister_banner_s02.iff	0	-2598.976	131.3813	4952.257	0.6816392	0	0.7316884	0		$|
+9725749	0	object/static/structure/tatooine/skeleton_krayt_head_style_01.iff	0	-2598.938	130.2676	4954.667	0	0	0.9238795	-0.3826835	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_nsister_outcast_camp_nw.iff|$|
+9725751	0	object/static/item/item_con_tato_bowl_full_s02.iff	0	-2598.887	131.1809	4955.256	0	0	1	0		$|
+9725752	0	object/building/endor/endor_tiki_torch.iff	0	-2598.898	129.8957	4955.256	0	0	1	0		$|

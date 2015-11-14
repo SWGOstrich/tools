@@ -1,0 +1,32 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+1105957	0	object/static/structure/general/skeleton_human_headandbody.iff	0	-4725.816	90.30845	-4772.176	0	0	1	0		$|
+1105958	0	object/static/structure/general/skeleton_human_headandbody.iff	0	-4701.792	89.75204	-4771.216	0	0	1	0		$|
+1105959	0	object/static/structure/general/skeleton_human_head.iff	0	-4751.211	91.55502	-4752.24	0	0	1	0		$|
+1105960	0	object/static/structure/general/skeleton_human_head.iff	0	-4731.591	89.2405	-4783.498	0	0	1	0		$|
+1105961	0	object/static/structure/general/skeleton_human_headandbody.iff	0	-4701.356	88.84721	-4787.286	0	0	1	0		$|
+1105967	0	object/static/particle/pt_buzzing_insects_small.iff	0	-4754.594	91.5403	-4753.896	0	0	1	0		$|
+1105968	0	object/static/particle/pt_buzzing_insects_small.iff	0	-4701.773	92.3506	-4770.979	0	0	1	0		$|
+9725770	0	object/static/structure/military/military_wall_strong_imperial_32_style_01.iff	0	-4703.778	89.40831	-4765.001	-0.001188509	0	0.9713259	0.2376996		$|
+9725771	0	object/static/structure/military/military_wall_strong_imperial_16_style_01.iff	0	-4720.416	87.99186	-4773.301	0.614344	0	-0.6365666	0.333247		$|
+9725773	0	object/static/structure/military/military_wall_strong_imperial_16_style_01.iff	0	-4687.826	89.07602	-4774.29	0.7277256	0	0.6858686	0		$|
+9725775	0	object/static/structure/military/military_wall_strong_imperial_16_style_01.iff	0	-4697.015	89.05709	-4782.811	1	0	3.200127E-08	0		$|
+9725776	0	object/static/structure/military/military_column_strong_imperial_style_01.iff	0	-4688.238	88.96365	-4782.772	0	0	1	0		$|
+9725778	0	object/static/structure/military/military_column_strong_imperial_style_01.iff	0	-4686.9	88.82439	-4764.945	0.4739476	0	0.8277667	0.2606002		$|
+9725780	0	object/static/structure/military/military_wall_strong_imperial_16_style_01.iff	0	-4713.609	85.70119	-4784.227	0.8015785	0	0.09928103	-0.004227397		$|
+9725794	0	object/static/structure/military/military_column_strong_imperial_style_01.iff	0	-4722.552	89.43394	-4766.058	-0.3245193	0	0.7205525	0.5797954		$|
+9725795	0	object/static/structure/military/military_column_strong_imperial_style_01.iff	0	-4730.202	87.91009	-4789.889	0.4800456	0	0.6273305	0.4852177		$|
+9725802	0	object/building/military/military_outpost_guard_tower_1.iff	0	-4697.127	89.6077	-4776.51	-0.02611838	0	0.9737691	-0.1671542	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_bull_rancor_reb_collection.iff|$|
+9725805	0	object/static/structure/military/military_column_strong_imperial_style_01.iff	0	-4700.27	87.7198	-4780.897	0	0	1	0		$|
+9725806	0	object/static/structure/military/military_column_strong_imperial_style_01.iff	0	-4692.269	86.50787	-4780.545	0	0	1	0		$|
+9725811	0	object/static/structure/corellia/corl_power_arial_prime.iff	0	-4693.859	89.29926	-4756.06	0.386196	0	0.6171994	0.1969554		$|
+9725814	0	object/static/structure/general/prp_junk_s4.iff	0	-4712.471	90.14034	-4768.35	-0.2621799	0	0.9473254	0.1772823		$|
+9725815	0	object/static/structure/general/prp_junk_s6.iff	0	-4697.558	88.78064	-4793.246	-0.3934864	0	0.6008968	0.596559		$|
+9725819	0	object/static/structure/general/prp_junk_s2.iff	0	-4694.018	89.58763	-4769.493	-0.4484226	0	0.8938217	0		$|
+9725821	0	object/static/structure/general/prp_junk_s2.iff	0	-4684.774	88.74517	-4791.098	-0.3625261	0	0.5249629	0.6384082		$|
+9725828	0	object/static/structure/general/prp_junk_s1.iff	0	-4670.795	88.45945	-4767.68	-0.07502259	0	0.71784	-0.08965382		$|
+9725830	0	object/static/structure/general/atst_destroyed.iff	0	-4739.255	91.71428	-4750.432	0.4026285	0	-0.4684291	-0.5126187		$|
+9725833	0	object/static/structure/general/atst_debris_01.iff	0	-4734.653	90.97182	-4757.817	0.5396322	0	0.8419009	0		$|
+9725838	0	object/static/structure/tatooine/skeleton_krayt_ribcage.iff	0	-4754.4	90.81654	-4754.116	-0.3240429	0	0.9460424	0		$|
+9725839	0	object/static/structure/tatooine/skeleton_krayt_tail.iff	0	-4740.547	86.27686	-4803.014	0	0	1	0		$|
+9725843	0	object/static/structure/tatooine/skeleton_greater_krayt_spine_medium.iff	0	-4716.74	90.60717	-4752.877	0.4925349	0	0.8702927	0		$|

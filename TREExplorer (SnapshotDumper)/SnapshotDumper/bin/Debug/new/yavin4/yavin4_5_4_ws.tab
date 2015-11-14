@@ -1,0 +1,43 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+3705352	0	object/building/yavin/temple_woolamander.iff	0	548.722	81	-621.973	0.914795	0	-0.4039185	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/yavin4/woolmander_cave.iff|$|
+3705353	3705352	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
+3705354	3705352	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
+3705355	3705352	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
+468334	3705355	object/tangible/container/loot/placable_loot_crate.iff	0	-0.114021	2.020204	-6.749168	1	0	-3.200127E-08	0		$|
+3705356	3705352	object/cell/cell.iff	4	0	0	0	0	5.605194E-45	1	0		$|
+3705357	3705352	object/cell/cell.iff	5	0	0	0	0	7.006492E-45	1	0		$|
+3705358	3705352	object/cell/cell.iff	6	0	0	0	0	8.407791E-45	1	0		$|
+3705359	3705352	object/cell/cell.iff	7	0	0	0	0	9.809089E-45	1	0		$|
+468340	3705359	object/tangible/container/loot/placable_loot_crate.iff	0	-59.31234	2.213424	4.987912	0.7071065	0	0.707107	0		$|
+468343	3705359	object/tangible/container/loot/placable_loot_crate.iff	0	-81.44531	2.020192	4.783599	-0.7071061	0	0.7071074	0		$|
+1945487	3705359	object/static/structure/tatooine/debris_tatt_crate_metal_1.iff	0	-76.44804	2.020194	25.87775	0	0	1	0		$|
+1945488	3705359	object/static/structure/tatooine/debris_tatt_crate_metal_1.iff	0	-77.11459	2.115062	26.00821	0	0	0.9810476	0		$|
+4245471	3705359	object/tangible/dungeon/corellian_corvette/corvette_search_imperial_rescue_01.iff	0	-75.5101	2.020194	25.73856	0.2667314	0	0.9637709	0		$|
+4638832	3705359	object/tangible/collection/rare_pistol_sr_combat.iff	0	-81.60223	2.857053	4.870994	-0.3172091	0	-0.6322789	0.3169564		$|
+3705360	3705352	object/cell/cell.iff	8	0	0	0	0	1.121039E-44	1	0		$|
+3705361	3705352	object/cell/cell.iff	9	0	0	0	0	1.261169E-44	1	0		$|
+3705362	3705352	object/cell/cell.iff	10	0	0	0	0	1.401298E-44	1	0		$|
+468338	3705362	object/tangible/container/loot/placable_loot_crate.iff	0	78.60627	2.020212	5.064781	-0.7071065	0	0.7071069	0		$|
+8845362	0	object/static/structure/naboo/obelisk_naboo_theed_style_2.iff	0	940.2655	106.1234	-576.1329	0	0	1	0		$|
+8845364	0	object/tangible/gravestone/gravestone03.iff	0	941.0353	106.3986	-580.698	0	0	1	0		$|
+8845365	0	object/tangible/gravestone/gravestone02.iff	0	942.9949	106.3229	-579.018	0	0	1	0		$|
+8845366	0	object/tangible/gravestone/gravestone01.iff	0	944.6545	106.3305	-577.3417	0	0	1	0		$|
+8845367	0	object/tangible/gravestone/gravestone04.iff	0	939.4581	106.254	-579.2236	0	0	1	0		$|
+8845368	0	object/tangible/gravestone/gravestone05.iff	0	941.6582	106.1886	-577.4287	0	0	1	0		$|
+8845369	0	object/tangible/gravestone/gravestone03.iff	0	943.2437	106.189	-575.8607	0	0	1	0		$|
+8845370	0	object/static/structure/naboo/garden_gazebo_lg_s01.iff	0	946.2192	85.64693	-1466.255	-0.002988518	0	0.9885733	0.01977381		$|
+8845395	0	object/static/structure/dantooine/dant_jedi_wall_2.iff	0	898.0283	105.323	-582.5294	-0.2474041	0	0.9689124	0		$|
+8845396	0	object/static/structure/dantooine/dant_jedi_wall_1.iff	0	892.6331	104.9132	-571.2509	-0.2133474	0	0.9769764	0		$|
+8845398	0	object/static/structure/dantooine/dant_large_rock_hut.iff	0	902.576	107.0791	-589.5052	0	0	1	0		$|
+8995438	0	object/static/structure/naboo/arbor_short_s01.iff	0	330.169	25.38309	-1407.846	0.8414706	0	-0.5403028	0		$|
+8995439	0	object/static/structure/naboo/gungan_damaged_narrow_arch_s01.iff	0	332.9011	24.39971	-1406.489	-0.2084599	0	0.9780309	0		$|
+8995440	0	object/static/structure/naboo/gungan_damaged_wall_lg_s01.iff	0	334.8903	24.40592	-1401.389	0.5354159	0	0.8445885	0		$|
+8995441	0	object/static/structure/naboo/gungan_damaged_wall_lg_s01.iff	0	337.8739	24.41787	-1408.304	0.5354166	0	0.8445881	0		$|
+8995442	0	object/static/structure/naboo/gungan_pillar_ruined_s01.iff	0	332.0113	24.83591	-1411.832	0.5226871	0	0.8525245	0		$|
+8995458	0	object/static/structure/general/campfire_ash.iff	0	65.5739	50.96409	-682.3682	0	0	1	0		$|
+8995459	0	object/tangible/furniture/all/frn_all_rug_rectangle_large_style_01.iff	0	63.52827	50.98344	-681.0152	0.2858235	0	0.9578127	-0.028743		$|
+8995460	0	object/static/structure/tatooine/debris_tatt_crate_1.iff	0	63.23606	50.92926	-681.4163	0.9967377	0	0.08070846	0		$|
+8995473	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	1607.235	148.7244	-911.2725	-0.5687621	0	0.8225021	0		$|
+8995474	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	1614.478	148.2406	-913.852	0.810497	0	0.585743	0		$|
+8995475	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	1611.061	146.5428	-911.9487	0	0	1	0		$|

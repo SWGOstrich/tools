@@ -1,0 +1,7 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+8375378	0	object/static/structure/dantooine/dant_fence_4m.iff	0	-6861.546	34.0624	-6504.414	0	0	1	0		$|
+8375379	0	object/static/structure/dantooine/dant_fence_4m.iff	0	-6865.343	34.06196	-6504.405	1	0	3.200127E-08	0		$|
+8375380	0	object/static/structure/dantooine/dant_fence_4m.iff	0	-6869.257	34.07486	-6504.417	1	0	3.200127E-08	0		$|
+8375381	0	object/static/structure/dantooine/dant_fence_8m.iff	0	-6871.918	34.52667	-6500	0.7576379	0	-0.6517363	0.02652816		$|
+8375382	0	object/static/structure/dantooine/dant_fence_8m.iff	0	-6873.096	35.03627	-6492.32	0.6518421	0	0.7577612	-0.01956113		$|

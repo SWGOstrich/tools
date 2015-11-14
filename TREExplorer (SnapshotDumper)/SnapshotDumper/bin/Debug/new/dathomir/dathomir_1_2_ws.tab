@@ -1,0 +1,8 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9725445	0	object/static/structure/dathomir/mtn_clan_hut_s01.iff	0	-6893.597	461.8806	-4854.194	0.8441619	0	0.5360882	0		$|
+9725456	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	-6891.188	463.6053	-4862.198	0.7739149	0	-0.6332896	0		$|
+9725457	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	-6885.522	464.6374	-4851.406	-0.2667314	0	0.9637709	0		$|
+9725458	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	-6891.77	465.194	-4867.392	-0.3940187	0	0.9191024	0		$|
+9725459	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	-6881.568	466.0334	-4847.838	-0.5728675	0	0.819648	0		$|
+9725467	0	object/static/structure/dantooine/dant_skull_bol.iff	0	-6889.761	465.5193	-4855.831	0.8386646	0	0.5444417	0.008167238		$|

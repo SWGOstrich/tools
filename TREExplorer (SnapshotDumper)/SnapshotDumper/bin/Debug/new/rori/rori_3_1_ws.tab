@@ -1,0 +1,16 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9715941	0	object/static/structure/naboo/gungan_wall_ruined_sm_s01.iff	0	-3388.831	100	-6196.093	0.5438347	0	0.8391923	0		$|
+9715942	0	object/static/structure/naboo/gungan_wall_ruined_lg_s02.iff	0	-3390.427	100.0073	-6197.36	-0.1642523	0	0.9864184	0		$|
+9715944	0	object/static/structure/naboo/gungan_pillar_ruined_s01.iff	0	-3382.843	100	-6190.686	0.5891446	0	0.8080276	0		$|
+9715945	0	object/static/structure/naboo/gungan_pillar_ruined_s01.iff	0	-3380.855	100.2231	-6197.202	-0.2133474	0	0.9769764	0		$|
+9715947	0	object/static/structure/naboo/gungan_wall_ruined_lg_s01.iff	0	-3409.69	99.27309	-6179.037	0.9999997	0	-0.0007963094	0		$|
+9715948	0	object/static/structure/naboo/gungan_wall_ruined_lg_s01.iff	0	-3402.952	97.70815	-6181.074	0	0	1	0		$|
+9715949	0	object/static/structure/naboo/gungan_wall_ruined_sm_s02.iff	0	-3407.653	100.8443	-6190.38	0.7138636	0	-0.7002848	0		$|
+9715950	0	object/static/structure/naboo/gungan_wall_ruined_sm_s01.iff	0	-3404.6	99.59402	-6169.5	0.739731	0	0.6697603	0.04815034		$|
+9715951	0	object/static/structure/naboo/gungan_damaged_narrow_arch_s01.iff	0	-3389.932	99.64288	-6163.61	0.6852883	0	0.7282718	0		$|
+9715954	0	object/static/structure/naboo/gungan_pillar_damaged_s01.iff	0	-3391.803	100	-6172.821	0	0	1	0		$|
+9715955	0	object/static/structure/naboo/gungan_pillar_damaged_s01.iff	0	-3387.34	100	-6172.784	0	0	1	0		$|
+9715959	0	object/static/structure/naboo/gungan_statue_s02.iff	0	-3397.207	99.59216	-6192.058	-0.02459556	0	0.9753919	0.1524083		$|
+9715962	0	object/static/structure/naboo/gungan_damaged_wide_arch_s01.iff	0	-3396.714	100.0966	-6191.925	0.7242871	0	-0.6894984	0		$|
+9715965	0	object/static/structure/naboo/gungan_wall_ruined_lg_s01.iff	0	-3398.738	99.56129	-6204.396	-0.009999836	0	0.99995	0		$|

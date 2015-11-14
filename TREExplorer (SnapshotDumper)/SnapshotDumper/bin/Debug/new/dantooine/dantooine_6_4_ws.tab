@@ -1,0 +1,18 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+6045501	0	object/tangible/jedi/force_shrine_stone.iff	0	2640.765	11.22201	-1539.779	0.707107	0	0.7071069	0		$|
+6045502	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	2636.344	11.22554	-1541.376	0.7071012	0	0.7071118	0		$|
+6045503	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	2645.028	11.22554	-1541.342	0	0	1	0		$|
+6045504	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	2639.797	11.22554	-1541.387	1	0	0	0		$|
+6045505	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	2641.591	11.21553	-1541.435	0	0	1	0		$|
+6045506	0	object/static/structure/dantooine/dant_jedi_temple_altar.iff	0	2640.706	-6.728078	-1541.376	0	0	1	0		$|
+6045507	0	object/static/particle/pt_poi_electricity_2x2.iff	0	2640.768	11.22554	-1539.783	0	0	1	0		$|
+8465737	0	object/static/structure/tatooine/debris_tatt_drum_storage_2.iff	0	2502.409	7	-2046.121	0	0	1	0		$|
+8465738	0	object/static/structure/tatooine/debris_tatt_drum_storage_1.iff	0	2501.013	7	-2046.217	0	0	1	0		$|
+8465740	0	object/static/structure/tatooine/debris_tatt_crate_1.iff	0	2501.585	7	-2045.159	0	0	1	0		$|
+8465741	0	object/static/item/item_container_inorganic_minerals.iff	0	2499.263	7	-2046.259	0	0	1	0		$|
+8465742	0	object/static/item/item_container_energy_liquid.iff	0	2500.458	7	-2045.087	0	0	1	0		$|
+8465743	0	object/static/item/item_container_energy_liquid.iff	0	2499.985	7.128327	-2044.47	0	0	-0.6894986	0.7242871		$|
+8465745	0	object/static/item/item_container_organic_food.iff	0	2497.672	7	-2045.31	0	0	1	0		$|
+8465746	0	object/static/item/item_container_organic_food.iff	0	2497.205	7	-2045.304	-0.7068251	0	0.7073883	0		$|
+8465766	0	object/tangible/furniture/all/frn_all_desk_radar_topology_screen.iff	0	2500.642	13.92665	-2047.955	1	0	3.200127E-08	0		$|

@@ -1,0 +1,10 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9725509	0	object/static/structure/tatooine/shed_junkshop_watto.iff	0	-6958.226	553.1464	-3026.699	-0.3278563	0	0.8686119	-0.3614646		$|
+9725514	0	object/static/structure/dathomir/mtn_clan_gate_s01.iff	0	-6946.808	550.4417	-3042.122	-0.3050586	0	0.9523336	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_worship_stone.iff|$|
+9725516	0	object/building/endor/endor_tiki_torch.iff	0	-6948.913	550.1983	-3045.758	0	0	1	0		$|
+9725517	0	object/building/endor/endor_tiki_torch.iff	0	-6942.751	550.3652	-3041.653	0	0	1	0		$|
+9725527	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	-6946.17	550.5317	-3035.333	0.8843034	0	-0.4669129	0		$|
+9725528	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	-6953.585	549.6965	-3041.259	0.4528863	0	0.8915682	0		$|
+9725529	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	-6956.813	551.4173	-3036.132	0.5141359	0	0.8577087	0		$|
+9725530	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	-6949.732	551.7723	-3030.075	0.9001005	0	-0.4356826	0		$|

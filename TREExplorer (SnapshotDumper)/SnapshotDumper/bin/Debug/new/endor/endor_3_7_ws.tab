@@ -1,0 +1,9 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9705642	0	object/static/flora/flora_decd_endr_destree_dead.iff	0	-3997.133	11.39395	4427.202	-0.4717799	0	0.6336496	-0.3661507		$|
+9705648	0	object/static/flora/flora_bush_endor_rainbowbush.iff	0	-3997.606	11.05266	4428.948	0.09983338	0	0.9950042	0		$|
+9705683	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-3658.833	200	6124.956	0.8956987	0	0.4446615	0		$|
+9705684	0	object/static/structure/general/skeleton_human_head.iff	0	-3658.608	200	6124.149	0.9873516	0	-0.1361189	-0.003996237		$|
+9705685	0	object/static/structure/general/skeleton_human_head.iff	0	-3657.735	200	6124.315	0.8464524	0	0.260868	-0.4039881		$|
+9705686	0	object/static/structure/general/skeleton_human_head.iff	0	-3658.097	199.9368	6125.351	0.4738195	0	0.7702535	-0.3823395		$|
+9705687	0	object/static/structure/general/streetlamp_small_red_style_01.iff	0	-3658.228	198.3241	6124.662	0	0	1	0		$|

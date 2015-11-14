@@ -1,0 +1,8 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9725547	0	object/static/structure/dathomir/mtn_clan_hut_s01.iff	0	-2419.826	50.21056	-3110.167	-0.1543801	0	0.9880115	0		$|
+9725551	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	-2417.337	56.04412	-3118.267	0.9934362	0	0.1139498	-0.009932866		$|
+9725576	0	object/static/item/item_basket_closed.iff	0	-2418.081	48.52213	-3111.637	0	0	1	0		$|
+9725579	0	object/building/endor/endor_tiki_torch.iff	0	-2417.772	63.00679	-3117.011	0.7172346	0	-0.580945	-0.2990236		$|
+9725587	0	object/static/item/item_bread_loaf.iff	0	-2419.582	48.31746	-3110.521	0	0	1	0		$|
+9725591	0	object/static/item/item_fruit_melon.iff	0	-2417.146	48.51964	-3110.177	0	0	1	0		$|

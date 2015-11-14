@@ -1,0 +1,9 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+7885383	0	object/static/structure/tatooine/skeleton_krayt_head_style_02.iff	0	-6740.338	177.9915	3568.945	0.6185051	0	0.7353374	0.2246624		$|
+7885385	0	object/static/structure/tatooine/skeleton_krayt_leg_style_02.iff	0	-6742.414	178.5109	3575.2	-0.5410809	0	-0.1046313	0.6551209		$|
+7885386	0	object/static/structure/tatooine/skeleton_krayt_foot.iff	0	-6738.9	173.5832	3576.956	0.642191	0	0.688915	0.2738674		$|
+7885387	0	object/static/structure/tatooine/skeleton_krayt_ribcage.iff	0	-6745.43	179.3109	3568.021	0.7678616	0	-0.6237876	-0.04043226		$|
+7895353	0	object/static/terrain/tatooine/rock_spire_skinny_tatooine_style_2.iff	0	-6428.26	221.0757	2628.708	0.9531423	0	0.2182152	-0.206715		$|
+7895354	0	object/static/terrain/tatooine/rock_spire_smooth_tatooine_style_1.iff	0	-6457.151	224.9365	2613.46	0	0	1	0		$|
+7895357	0	object/static/structure/general/all_banner_generic_s02.iff	0	-6461.994	280.0065	2612.951	0.04997925	0	0.9987503	0		$|

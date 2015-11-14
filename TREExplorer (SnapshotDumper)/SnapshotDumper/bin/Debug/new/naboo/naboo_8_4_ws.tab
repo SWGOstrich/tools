@@ -1,0 +1,13 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+7525395	0	object/tangible/jedi/force_shrine_stone.iff	0	7182.275	329.5732	-237.9926	0.707107	0	0.7071069	0		$|
+7525415	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	7177.853	329.6533	-239.5896	0.7071001	0	0.7071129	0		$|
+7525435	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	7186.538	329.6602	-239.5556	0	0	1	0		$|
+7525436	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	7181.307	329.6454	-239.6008	1	0	0	0		$|
+7525437	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	7183.1	329.6427	-239.6486	0	0	1	0		$|
+7525438	0	object/static/structure/dantooine/dant_jedi_temple_altar.iff	0	7182.216	311.6918	-239.5898	0	0	1	0		$|
+7525439	0	object/static/particle/pt_poi_electricity_2x2.iff	0	7182.277	331.3539	-237.996	0	0	1	0		$|
+9525623	0	object/static/structure/general/campfire_ash.iff	0	6465.456	185.5416	-1306.618	0	0	1	0		$|
+9525624	0	object/static/flora/flora_tree_rori_mkpodtree.iff	0	6461.959	185.9005	-1306.347	0.6997156	0	0.7144214	0		$|
+9525625	0	object/static/structure/general/skeleton_human_headandbody.iff	0	6466.799	184.8684	-1305.328	0.6935486	0	-0.6953945	-0.08625928		$|
+9525627	0	object/tangible/furniture/all/frn_all_rug_rectangle_large_style_01.iff	0	6463.833	185.6385	-1306.288	0.009313547	0	0.9799355	0.1884305		$|

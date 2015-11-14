@@ -1,0 +1,15 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+2365969	0	object/static/item/item_tapestry_imperial.iff	0	5968.074	6.879698	-1184.438	-0.2231065	0	0.9747941	0		$|
+2735769	0	object/static/flora/flora_tree_rori_mkpodtree.iff	0	4098.964	8.975737	-56.43931	-0.2084606	0	0.9780307	0		$|
+9505369	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_01.iff	0	5182.09	30.66643	-1744.455	0	0	1	0		$|
+9505370	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_02.iff	0	5190.778	30.05015	-1752.435	0	0	1	0		$|
+9505371	0	object/static/structure/tatooine/wall_ruined_tatooine_small_style_01.iff	0	5197.957	30.17617	-1749.736	1	0	3.200127E-08	0		$|
+9505372	0	object/static/structure/tatooine/wall_ruined_tatooine_small_style_01.iff	0	5198.401	30.42385	-1743.915	0	0	1	0		$|
+9505373	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_01.iff	0	5198.051	28.37388	-1731.267	1	0	3.1219E-08	0		$|
+9505380	0	object/static/structure/tatooine/wall_gate_tatooine_style_02.iff	0	5189.608	31.13266	-1720.651	0.691633	0	0.7165663	0.06451058		$|
+9505381	0	object/static/structure/tatooine/jawa/tent_jawa_01_small.iff	0	5189.723	31.266	-1722.795	0.04988924	0	0.9969531	-0.05988907		$|
+9505382	0	object/static/structure/general/campfire_ash.iff	0	5188.816	31.54487	-1727.774	0	0	1	0		$|
+9505409	0	object/building/corellia/filler_slum_16x32_s01.iff	0	5976.861	2.411008	-1185.907	-0.2231064	0	0.9747941	0		$|
+9505414	0	object/static/structure/corellia/corl_power_arial_thin.iff	0	5980.098	9.504539	-1195.02	0.5438347	0	0.8391923	0		$|
+9505417	0	object/static/structure/general/poi_all_corral_pen_8x16_s01.iff	0	5994.691	4.887319	-1188.121	0.844162	0	-0.5360882	0		$|

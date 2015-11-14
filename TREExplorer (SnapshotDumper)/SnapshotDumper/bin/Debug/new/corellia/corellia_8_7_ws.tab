@@ -1,0 +1,25 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9825496	0	object/static/structure/corellia/corl_imprv_wall_4x16_s03.iff	0	6277.965	26.74393	4401.477	-0.2907398	0	0.9568021	0		$|
+9825497	0	object/static/structure/corellia/corl_imprv_wall_4x16_s03.iff	0	6274.264	26.71438	4407.417	-0.2907398	0	0.9568021	0		$|
+9825504	0	object/static/structure/military/military_wall_med_rebl_style_01.iff	0	6282.923	27.0165	4408.994	0.8821452	0	-0.4709774	0		$|
+9825505	0	object/static/structure/military/military_wall_med_rebl_style_01.iff	0	6269.196	26.6623	4399.832	0.882145	0	-0.4709777	0		$|
+9825516	0	object/static/structure/corellia/corl_power_transformer_s01.iff	0	6271.822	26.59693	4401.604	0.4794255	0	0.8775826	0		$|
+9825521	0	object/static/structure/corellia/corl_power_arial_prime.iff	0	6274.169	26.53705	4404.743	0.5012129	0	0.865324	0		$|
+9825522	0	object/static/structure/corellia/corl_power_arial_thin.iff	0	6275.373	27.02415	4405.791	0.945784	0	0.3247963	0		$|
+9825527	0	object/static/structure/corellia/corl_power_bubble_node.iff	0	6280.193	27.18505	4407.352	-0.3098165	0	0.9507964	0		$|
+9825528	0	object/static/structure/corellia/corl_power_connector.iff	0	6273.678	26.20558	4392.885	0.4706258	0	0.8823329	0		$|
+9825538	0	object/static/installation/mockup_power_generator_wind_style_1.iff	0	6283.455	25.64732	4380.375	-0.3098165	0	0.9507964	0		$|
+9825539	0	object/static/installation/mockup_power_generator_wind_style_1.iff	0	6294.23	27.09439	4387.534	-0.3098165	0	0.9507964	0		$|
+9825541	0	object/static/installation/mockup_power_generator_wind_style_1.iff	0	6305.487	28.52601	4394.841	-0.3098165	0	0.9507964	0		$|
+9825542	0	object/static/installation/mockup_power_generator_wind_style_1.iff	0	6293.484	26.12004	4367.995	-0.3098165	0	0.9507964	0		$|
+9825543	0	object/static/installation/mockup_power_generator_wind_style_1.iff	0	6305.985	27.82623	4375.122	-0.3098165	0	0.9507964	0		$|
+9825544	0	object/static/installation/mockup_power_generator_wind_style_1.iff	0	6318.054	28.73726	4383.142	-0.3098165	0	0.9507964	0		$|
+9825546	0	object/static/installation/mockup_power_generator_wind_style_1.iff	0	6302.398	26.21071	4355.268	-0.3098165	0	0.9507964	0		$|
+9825547	0	object/static/installation/mockup_power_generator_wind_style_1.iff	0	6316.597	27.47052	4363.089	-0.3098165	0	0.9507964	0		$|
+9825548	0	object/static/installation/mockup_power_generator_wind_style_1.iff	0	6329.74	27.48523	4371.612	-0.3098165	0	0.9507964	0		$|
+9825555	0	object/static/structure/tatooine/jawa/tent_jawa_01_small.iff	0	6266.949	26.08298	4398.339	0.5098412	0	0.8602685	0		$|
+9825559	0	object/static/structure/general/droid_r3_powerdown.iff	0	6266.953	26.38961	4399.626	0.8430241	0	-0.5358985	0.04332794		$|
+9825560	0	object/static/structure/general/droid_r4_powerdown.iff	0	6267.913	26.13434	4397.865	0.8599798	0	-0.5047971	0.06744426		$|
+9825575	0	object/static/structure/general/poi_powerdroid_powerdown.iff	0	6267.466	26.26644	4398.767	0.5261466	0	0.8486152	-0.02896728		$|
+9825582	0	object/tangible/furniture/all/frn_all_toolchest_lg_s01.iff	0	6264.983	26.16662	4398.661	0.9107102	0	0.4130462	0		$|

@@ -1,0 +1,10 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+978412	0	object/static/particle/pt_miasma_of_fog_gray.iff	0	-494.2478	133.3906	-2889.758	0	0	1	0		$|
+978413	0	object/static/particle/pt_flocking_glowzees.iff	0	-495.0017	133.4767	-2889.467	0	0	1	0		$|
+9725536	0	object/static/structure/general/tato_cave_stalagmite_large.iff	0	-495.6086	133.2276	-2890.753	0.5850973	0	0.8109632	0		$|
+9725542	0	object/static/structure/general/skeleton_human_head.iff	0	-494.9452	136.2227	-2890.895	0.6816402	0	0.7316876	0		$|
+9725543	0	object/static/structure/general/skeleton_human_head.iff	0	-496.0895	136.276	-2891.227	0.8598624	0	-0.5105259	0		$|
+9725544	0	object/static/structure/general/skeleton_human_head.iff	0	-495.4165	136.0523	-2891.542	0.9878883	0	0.1551669	0		$|
+9725545	0	object/static/structure/general/skeleton_human_head.iff	0	-496.2086	135.6026	-2890.396	-0.5605088	0	0.8281484	0		$|
+9725546	0	object/static/structure/general/skeleton_human_head.iff	0	-495.5152	136.0557	-2890.132	0.1839465	0	0.9829363	0		$|

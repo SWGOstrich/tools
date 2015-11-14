@@ -1,0 +1,21 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+937367	0	object/static/installation/mockup_mining_liquid_moisture_harvester.iff	0	6133.428	91.9683	908.2411	0	0	1	0		$|
+937368	0	object/static/installation/mockup_mining_liquid_moisture_harvester.iff	0	6125.942	91.94509	929.0892	0	0	1	0		$|
+2975420	0	object/static/particle/pt_lair_evil_fire_small.iff	0	5064.401	96.99595	409.5291	0	0	1	0		$|
+9165352	0	object/static/structure/tatooine/wall_pristine_tatooine_large_style_01.iff	0	5838.422	11.91466	1676.798	0	0	1	0		$|
+9165353	0	object/static/structure/tatooine/wall_pristine_tatooine_large_style_01.iff	0	5842.406	11.9196	1673.375	-0.7071065	0	0.707107	0		$|
+9165354	0	object/static/structure/tatooine/wall_pristine_tatooine_large_style_01.iff	0	5846.346	11.9271	1668.929	0	0	1	0		$|
+9165355	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_01.iff	0	5854.358	12.07827	1664.953	0.7071061	0	0.7071074	0		$|
+9165356	0	object/static/structure/tatooine/wall_ruined_tatooine_large_style_02.iff	0	5833.954	11.97033	1680.543	1	0	3.200127E-08	0		$|
+9685976	0	object/static/structure/general/skeleton_human_head.iff	0	5065.183	97.15095	407.0675	-0.1578929	0	0.8930191	-0.07337097		$|
+9685977	0	object/static/structure/general/skeleton_human_headandbody.iff	0	5068.021	97.08472	409.0473	0.01499301	0	0.9994376	0.02999202		$|
+9685978	0	object/static/structure/general/tato_cave_stalagmite_small.iff	0	5062.366	95.04294	413.0517	0.924606	0	0.380925	0		$|
+9685979	0	object/static/structure/general/campfire_smoldering.iff	0	5064.358	97.03295	409.5416	0	0	1	0		$|
+9685982	0	object/static/structure/general/tato_cave_stalagmite_small.iff	0	5061.968	95.6386	411.5002	0.924606	0	0.380925	0		$|
+9685983	0	object/static/structure/general/tato_cave_stalagmite_small.iff	0	5061.678	96.15703	409.9386	0.924606	0	0.380925	0		$|
+9685984	0	object/static/structure/general/tato_cave_stalagmite_small.iff	0	5061.374	96.42095	408.0281	0.924606	0	0.380925	0		$|
+9685985	0	object/static/structure/general/skeleton_human_head.iff	0	5062.19	97.40168	413.0138	0.724287	0	0.689499	0		$|
+9685986	0	object/static/structure/general/skeleton_human_head.iff	0	5061.766	97.97988	411.4506	0.724287	0	0.689499	0		$|
+9685987	0	object/static/structure/general/skeleton_human_head.iff	0	5061.487	98.5052	409.9079	0.7479709	0	0.6637319	0		$|
+9685988	0	object/static/structure/general/skeleton_human_head.iff	0	5061.174	98.77387	408.016	0.724287	0	0.689499	0		$|

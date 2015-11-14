@@ -1,0 +1,22 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9505581	0	object/static/structure/tatooine/concrete_slab_tatooine_16x8.iff	0	2446	-1.475238	2483	0	0	1	0		$|
+9505582	0	object/static/structure/corellia/corl_fountain_brazier_square_s01.iff	0	2446	6.621706	2483	0	0	1	0		$|
+9505613	0	object/static/structure/corellia/corl_imprv_gate_sm_s03.iff	0	2337.884	38.91042	2936.827	-0.2859522	0	0.9582438	0		$|
+9505614	0	object/static/structure/corellia/corl_imprv_wall_4x16_s03.iff	0	2328.201	39.15691	2930.394	-0.2907398	0	0.9568021	0		$|
+9505615	0	object/static/structure/corellia/corl_imprv_wall_4x16_s03.iff	0	2347.517	39.13921	2943.018	-0.2811574	0	0.9596617	0		$|
+9575354	0	object/static/structure/tatooine/antenna_tatt_style_2.iff	0	2333.89	38.79706	2936.076	0.07991472	0	0.9968017	0		$|
+9575382	0	object/static/structure/tatooine/shed_junkshop_watto.iff	0	2325.71	39.26051	2939.683	-0.2035672	0	0.979061	0		$|
+9575393	0	object/static/structure/corellia/corl_imprv_arch_sm_s01.iff	0	3887	29.39312	3397	0	0	1	0		$|
+9575394	0	object/static/structure/corellia/corl_imprv_column_s01.iff	0	3880	29.88376	3394	0	0	1	0		$|
+9575395	0	object/static/structure/corellia/corl_imprv_column_s01.iff	0	3894	29.75668	3394	0	0	1	0		$|
+9575397	0	object/static/structure/corellia/corl_imprv_column_s01.iff	0	3880	30.12714	3386	0	0	1	0		$|
+9575399	0	object/static/structure/corellia/corl_imprv_column_s01.iff	0	3894	30.0267	3386	0	0	1	0		$|
+9575400	0	object/static/structure/corellia/corl_imprv_column_s01.iff	0	3880	30.26122	3378	0	0	1	0		$|
+9575404	0	object/static/structure/corellia/corl_imprv_column_s01.iff	0	3894	30.2486	3378	0	0	1	0		$|
+9575414	0	object/static/structure/corellia/corl_imprv_arch_sm_s01.iff	0	3887	30.06847	3374	0	0	1	0		$|
+9575427	0	object/static/structure/corellia/corl_imprv_arch_sm_s01.iff	0	3876	29.71523	3390	-0.7071065	0	0.707107	0		$|
+9575428	0	object/static/structure/corellia/corl_imprv_arch_sm_s01.iff	0	3876	30.24137	3382	-0.7071065	0	0.707107	0		$|
+9575429	0	object/static/structure/corellia/corl_imprv_arch_sm_s01.iff	0	3898	29.79991	3383	0.7071061	0	0.7071074	0		$|
+9575430	0	object/static/structure/corellia/corl_imprv_arch_sm_s01.iff	0	3898	29.37985	3391	-0.7071065	0	0.707107	0		$|
+9575431	0	object/static/structure/corellia/corl_fountain_rectangle_s01.iff	0	3887	30.05624	3386	0	0	1	0		$|

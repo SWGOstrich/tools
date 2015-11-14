@@ -1,0 +1,35 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+5226218	0	object/building/general/aircar_general.iff	0	5813.493	141.9077	3054.93	0	0	1	0		$|
+5226219	0	object/building/general/housing_general_style_1.iff	0	5818.939	141.6524	3056.56	0	0	1	0		$|
+7146270	0	object/building/military/military_base_shed_imperial_style_01.iff	0	5812.308	142.0935	3056.662	0.9797618	0	0.1988994	0.01406953		$|
+7146271	7146270	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
+7146272	7146270	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
+7146273	7146270	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
+7146274	7146270	object/cell/cell.iff	4	0	0	0	0	5.605194E-45	1	0		$|
+7146275	7146270	object/cell/cell.iff	5	0	0	0	0	7.006492E-45	1	0		$|
+7146276	7146270	object/cell/cell.iff	6	0	0	0	0	8.407791E-45	1	0		$|
+7146283	0	object/static/structure/naboo/poi_nboo_tent_med.iff	0	5838.952	141.2017	3064.957	0.9665462	0	0.2562981	0.009981844		$|
+7146288	0	object/static/structure/general/palette_supply_01.iff	0	5841.533	140.7216	3063.6	0.9665462	0	0.2562981	0.009981844		$|
+7146289	0	object/static/structure/tatooine/debris_tatt_crate_metal_1.iff	0	5843.691	140.5283	3062.036	0	0	1	0		$|
+7146290	0	object/static/structure/tatooine/debris_tatt_drum_dented_1.iff	0	5840.739	141.4149	3062.335	-0.1773037	0	-0.616824	0.7504631		$|
+7146291	0	object/static/structure/tatooine/debris_tatt_drum_storage_1.iff	0	5842.421	141.5492	3062.996	0.3585627	0	-0.5335963	0.6368555		$|
+7146292	0	object/static/structure/tatooine/debris_tatt_drum_storage_2.iff	0	5844.674	140.7293	3063.197	0	0	-0.6748757	0.7379314		$|
+7146293	0	object/static/structure/tatooine/debris_tatt_crate_1.iff	0	5844.288	140.806	3060.799	0	0	-0.7002849	0		$|
+7146294	0	object/static/structure/tatooine/debris_tatt_crate_metal_1.iff	0	5840.719	140.7192	3060.537	0	0	1	0		$|
+7146297	0	object/static/structure/tatooine/debris_tatt_drum_storage_2.iff	0	5838.904	140.7864	3059.781	0	0	1	0		$|
+7146298	0	object/static/vehicle/static_speeder_bike.iff	0	5841.742	141.1562	3061.158	0	0	0.9820042	0.188859		$|
+7146299	0	object/static/structure/general/camp_cot_s01.iff	0	5835.848	141.153	3066.862	0	0	1	0		$|
+7146300	0	object/static/structure/general/camp_lawn_chair_s01.iff	0	5837.434	141.213	3063.261	0	0	0.7073838	-0.7068297		$|
+7146301	0	object/static/structure/general/camp_lawn_chair_s01.iff	0	5835.412	141.2978	3063.969	0	0	0.710912	0		$|
+7146303	0	object/static/structure/general/r2_head.iff	0	5838.779	140.8943	3064.05	0	0	1	0		$|
+7146304	0	object/static/structure/general/r2_leg.iff	0	5837.271	141.1293	3065.273	0.01777106	0	0.7106886	-0.7030626		$|
+7146305	0	object/static/structure/general/r2_torso.iff	0	5838.665	141.0996	3065.413	0	0	0.7282715	-0.6852887		$|
+7146306	0	object/static/structure/general/skeleton_human_headandbody.iff	0	5952.482	123.705	3049.538	0	0	0.9971888	0.07492968		$|
+8995516	0	object/static/structure/general/skeleton_human_head.iff	0	5684.353	123.6329	2843.191	0.717356	0	-0.696707	0		$|
+8995517	0	object/static/structure/general/skeleton_human_head.iff	0	5683.938	123.567	2841.878	-0.5480239	0	0.8364627	0		$|
+8995518	0	object/static/structure/general/skeleton_human_head.iff	0	5683.217	123.5898	2840.432	-0.430458	0	0.9026106	0		$|
+8995519	0	object/static/structure/general/skeleton_human_body.iff	0	5682.018	121.9404	2842.216	0	0	1	0		$|
+8995520	0	object/static/structure/general/skeleton_human_body.iff	0	5681.713	121.9222	2842.186	0.9001005	0	0.4356826	0		$|
+8995521	0	object/static/structure/general/skeleton_human_body.iff	0	5682.035	121.9742	2842.75	0.384808	0	0.9229966	0		$|
+8995523	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	5682.933	120.1758	2842.322	0	0	1	0		$|

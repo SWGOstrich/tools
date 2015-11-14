@@ -1,0 +1,12 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+7085355	0	object/static/naboo/waterfall_200m.iff	0	-6146.83	7.930787	4341.101	-0.05996401	0	0.9982005	0		$|
+8305360	0	object/static/structure/dantooine/dant_fence_8m.iff	0	-7273.964	-196.5908	5045.587	0	0	1	0		$|
+8305362	0	object/static/structure/dantooine/dant_fence_8m.iff	0	-7277.05	-196.5887	5041.64	0.6326727	0	0.7744193	0		$|
+8305363	0	object/static/structure/general/campfire_burnt.iff	0	-7273.253	-196.6063	5041.434	0	0	1	0		$|
+8305364	0	object/static/structure/naboo/gungan_pillar_ruined_s01.iff	0	-7272.465	-196.8783	5043.69	0.3940187	0	0.9191024	0		$|
+8305365	0	object/static/structure/tatooine/debris_tatt_crate_1.iff	0	-7274.948	-196.5932	5044.559	0	0	1	0		$|
+8305366	0	object/static/structure/tatooine/debris_tatt_crate_metal_1.iff	0	-7275.84	-196.5926	5044.416	0	0	1	0		$|
+8305367	0	object/static/structure/tatooine/debris_tatt_drum_dented_1.iff	0	-7275.368	-196.6037	5039.25	0	0	1	0		$|
+8305368	0	object/static/structure/tatooine/debris_tatt_drum_storage_1.iff	0	-7275.23	-196.6027	5040.171	0	0	1	0		$|
+8305369	0	object/static/structure/tatooine/debris_tatt_drum_storage_2.iff	0	-7270.956	-196.6099	5041.831	0	0	1	0		$|

@@ -1,0 +1,15 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+1189205	0	object/static/terrain/tatooine/rock_spire_lumpy_tatooine.iff	0	-4464.5	10.27722	7483.428	0	0	1	0		$|
+1189206	0	object/static/terrain/tatooine/rock_spire_lumpy_tatooine_style_2.iff	0	-4444.676	9.222416	7444.259	0	0	1	0		$|
+7655352	0	object/static/structure/tatooine/pillar_ruined_small_style_01.iff	0	-5721.226	22.72447	6478.728	0.7199298	0	-0.6922451	-0.03602652		$|
+7655355	0	object/static/structure/tatooine/wall_cleft_tatooine_large_style_01.iff	0	-5720.221	20.06626	6482.482	0	0	1	0		$|
+7655356	0	object/static/structure/tatooine/wall_cleft_tatooine_large_style_01.iff	0	-5724.543	19.56206	6477.848	0.7071055	0	0.707108	0		$|
+7785354	0	object/static/structure/tatooine/pillar_ruined_small_style_01.iff	0	-5728.438	21.22238	6478.213	0.1236078	0	0.9654648	0.1100241		$|
+7785356	0	object/static/structure/general/skeleton_human_body.iff	0	-5722.715	23.26295	6480.746	0	0	1	0		$|
+7785357	0	object/static/structure/general/skeleton_human_headandbody.iff	0	-5724.221	22.99903	6480.949	0.4349656	0	0.9004471	0		$|
+7785372	0	object/static/structure/general/skeleton_human_headandbody.iff	0	-4824.317	28.36589	6530.576	-0.1801096	0	0.7033235	0.6708245		$|
+7785373	0	object/static/structure/general/streetlamp_large_style_02.iff	0	-4824.318	28.71774	6530.473	0.01753732	0	-0.01368854	-0.2661543		$|
+7785376	0	object/static/structure/general/streetlamp_large_blue_style_01.iff	0	-4659.012	33.77068	6356.153	0	0	1	0		$|
+7785397	0	object/static/structure/general/skeleton_ithorian_headandbody.iff	0	-4824.945	26.63154	6530.81	0	0	1	0		$|
+7785398	0	object/static/structure/general/skeleton_bith_head.iff	0	-4824.097	26.48775	6530.74	0	0	1	0		$|

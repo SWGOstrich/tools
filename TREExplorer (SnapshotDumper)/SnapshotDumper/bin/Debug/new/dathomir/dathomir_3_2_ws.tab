@@ -1,0 +1,36 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+1105982	0	object/static/particle/pt_lair_evil_fire_large_red.iff	0	-2612.563	107.7767	-4860.97	0	0	1	0		$|
+4725585	0	object/static/structure/dantooine/dant_large_mudhut_no_flora_05m.iff	0	-2578.318	77	-5519.664	0	0	1	0		$|
+4725586	0	object/static/structure/dantooine/dant_mud_oven.iff	0	-2578.261	77	-5503.83	0.9999832	0	-0.005796488	0		$|
+4725587	0	object/tangible/camp/camp_cot_s2.iff	0	-2582.482	77	-5522.646	0.9821543	0	0.1880768	0		$|
+4725588	0	object/tangible/camp/camp_cot_s2.iff	0	-2582.926	77	-5521.539	0.9845876	0	0.1748922	0		$|
+4725589	0	object/tangible/furniture/tatooine/frn_tato_table_small_style_01.iff	0	-2578.296	77	-5519.609	0	0	1	0		$|
+4725591	0	object/tangible/furniture/tatooine/frn_tato_chair_cafe_style_01.iff	0	-2578.699	77	-5520.046	0.2955203	0	0.9553365	0		$|
+4725592	0	object/tangible/furniture/tatooine/frn_tato_chair_cafe_style_01.iff	0	-2578.72	77	-5519.139	0.9307991	0	0.3655313	0		$|
+4725593	0	object/tangible/furniture/tatooine/frn_tato_chair_cafe_style_01.iff	0	-2577.974	77	-5519.967	-0.3801884	0	0.9249091	0		$|
+4725594	0	object/tangible/furniture/technical/couch_s01.iff	0	-2576.779	77.00072	-5524.81	-0.1986693	0	0.9800666	0		$|
+4725595	0	object/tangible/furniture/technical/end_table_s01.iff	0	-2575.755	77.00057	-5524.239	0.04498482	0	0.9989877	0		$|
+4725596	0	object/tangible/furniture/technical/end_table_s01.iff	0	-2577.928	77.00022	-5525.167	0.9984438	0	-0.05576741	0		$|
+4725597	0	object/static/structure/dantooine/dant_rack_spears.iff	0	-2573.573	77.00043	-5521.144	-0.5687621	0	0.8225021	0		$|
+4725598	0	object/tangible/loot/quest/lifeday_orb.iff	0	-2575.739	77.38042	-5524.225	0	0	1	0		$|
+4725599	0	object/tangible/loot/quest/lifeday_orb.iff	0	-2577.927	77.3798	-5525.177	0	0	1	0		$|
+4725600	0	object/static/structure/general/palette_supply_01.iff	0	-2584.911	77	-5513.878	-0.4394622	0	0.8982611	0		$|
+4725601	0	object/static/structure/general/palette_supply_02.iff	0	-2572.976	77	-5512.709	-0.4573385	0	0.8892927	0		$|
+4725602	0	object/static/structure/nobuild/nobuild_32.iff	0	-2578.684	77	-5508.807	0	0	1	0		$|
+4725603	0	object/static/vehicle/e3/landspeeder.iff	0	-2586.292	77.00122	-5523.231	0.9792229	0	0.2027875	0		$|
+9725440	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-2612.563	104.6556	-4861.122	-0.6705873	0	0.7418306	0		$|
+9725441	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-2612.622	104.6359	-4861.117	0.9999996	0	-0.0007964614	0		$|
+9725442	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-2612.499	104.6688	-4861.158	0.7512804	0	0.6599832	0		$|
+9725444	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-2612.465	104.681	-4861.183	-0.00999989	0	0.99995	0		$|
+9725469	0	object/static/item/item_bowl_shallow.iff	0	-2612.541	107.6525	-4861.108	0	0	1	0		$|
+9725473	0	object/static/structure/general/campfire_burnt.iff	0	-2612.509	108.0113	-4861.094	0	0	1	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_nsister_spell_weavers_south.iff|$|
+9725499	0	object/tangible/furniture/all/frn_all_rug_rectangle_large_style_01.iff	0	-2610.9	104.7792	-4861.342	0.09983335	0	0.9950042	0		$|
+9725505	0	object/tangible/furniture/all/frn_all_rug_rectangle_large_style_01.iff	0	-2612.766	104.7307	-4862.629	-0.6442179	0	0.764842	0		$|
+9725507	0	object/tangible/furniture/all/frn_all_rug_rectangle_large_style_01.iff	0	-2614.116	104.7707	-4860.761	0.0948572	0	0.9954908	0		$|
+9725515	0	object/static/item/item_basket_shallow.iff	0	-2612.485	104.7635	-4860.215	0	0	1	0		$|
+9725519	0	object/static/structure/general/skeleton_human_head.iff	0	-2612.527	104.8058	-4860.246	-0.3287692	0	0.9444103	0		$|
+9725520	0	object/static/structure/general/skeleton_human_head.iff	0	-2612.457	104.9703	-4860.365	0	0	1	0		$|
+9725521	0	object/static/structure/general/skeleton_human_head.iff	0	-2612.323	104.8149	-4860.265	0.4881774	0	0.8727444	0		$|
+9725522	0	object/static/structure/general/skeleton_human_head.iff	0	-2612.405	104.8275	-4860.462	0	0	1	0		$|
+9725523	0	object/static/structure/general/skeleton_human_head.iff	0	-2612.579	104.8382	-4860.437	0	0	1	0		$|

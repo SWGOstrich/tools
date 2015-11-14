@@ -1,0 +1,4 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9725691	0	object/static/structure/dathomir/mtn_clan_gate_s01.iff	0	7070.654	563.7032	-6440.211	0.6961352	0	0.7179107	0		$|
+9725694	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	7070.79	561.6542	-6440.015	0	0	1	0		$|

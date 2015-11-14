@@ -1,0 +1,10 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+1105878	0	object/static/particle/pt_flocking_glowzees.iff	0	-853.3348	146.9669	2791.153	0	0	1	0		$|
+1105886	0	object/static/particle/pt_flocking_glowzees.iff	0	-849.757	147.0311	2789.108	0	0	1	0		$|
+1105888	0	object/static/particle/pt_miasma_of_fog_greenish.iff	0	-852.957	146.9259	2788.819	0	0	1	0		$|
+9725705	0	object/static/flora/flora_decd_dath_azerontree.iff	0	-851.2738	147.0337	2792.443	0	0	1	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_nsister_spell_tree.iff|$|
+9725706	0	object/static/structure/dathomir/night_sister_banner_s01.iff	0	-847.2621	150.1767	2790.325	0.2182295	0	0.9758975	0		$|
+9725711	0	object/static/structure/dathomir/night_sister_banner_s03.iff	0	-857.6797	148.8557	2792.17	-0.04997917	0	0.9987503	0		$|
+9725718	0	object/static/structure/dantooine/dant_skull_bol.iff	0	-851.2366	152.7627	2791.296	0.7820277	0	-0.1851938	-0.1282355		$|
+9725725	0	object/static/structure/general/streetlamp_small_green_style_02.iff	0	-851.3708	147.5839	2791.762	0	0	1	0		$|

@@ -1,0 +1,19 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+2365963	0	object/static/particle/pt_miasma_of_fog_mustard.iff	0	3885.139	101.3706	-2848.451	0	0	1	0		$|
+2365964	0	object/static/particle/pt_miasma_of_fog_mustard.iff	0	3893.965	101.1743	-2839.401	0	0	1	0		$|
+2365965	0	object/static/particle/pt_miasma_of_fog_mustard.iff	0	3906.005	101.5876	-2849.994	0	0	1	0		$|
+2365966	0	object/static/particle/pt_miasma_of_fog_mustard.iff	0	3892.684	101.7003	-2859.323	0	0	1	0		$|
+9505355	0	object/static/structure/corellia/corl_imprv_wall_4x16_s03.iff	0	3098.946	65.40687	-4045.341	0	0	1	0		$|
+9505356	0	object/static/structure/corellia/corl_imprv_wall_4x16_s03.iff	0	3098.819	65.39401	-4038.37	0	0	1	0		$|
+9505357	0	object/static/structure/military/military_wall_weak_rebl_style_01.iff	0	3090.958	65.79156	-4041.859	-0.7071065	0	0.707107	0		$|
+9505358	0	object/static/structure/military/military_wall_weak_rebl_style_01.iff	0	3107.056	65.82799	-4041.838	-0.7071065	0	0.707107	0		$|
+9505360	0	object/static/structure/general/tankfarm_s01.iff	0	3096.549	64.98386	-4041.515	0	0	1	0		$|
+9505361	0	object/static/structure/corellia/corl_power_transformer_s01.iff	0	3103.986	65.64905	-4041.03	-0.7071065	0	0.7071069	0		$|
+9505362	0	object/static/structure/corellia/corl_power_arial_prime.iff	0	3104.502	65.70847	-4043.963	0	0	1	0		$|
+9505363	0	object/building/corellia/filler_slum_16x16_s01.iff	0	3893.566	94.05538	-2848.859	0	0	1	0		$|
+9505364	0	object/static/structure/tatooine/palette_tatooine_style_01.iff	0	3887.188	95.78248	-2845.569	0.7139323	0	0.00686173	-0.7001097		$|
+9505365	0	object/static/structure/tatooine/palette_tatooine_style_01.iff	0	3887.208	95.98848	-2851.993	-0.009047267	0	0.7073774	0.008178611		$|
+9505366	0	object/building/endor/endr_lake_rail8m.iff	0	3882.352	93.72643	-2842.133	0.0009688257	0	0.9795642	0.1937641		$|
+9505367	0	object/building/endor/endr_lake_rail8m.iff	0	3882.156	94.93218	-2854.84	0	0	0.9624252	0.271547		$|
+9505368	0	object/building/endor/endr_lake_rail4m.iff	0	3877.072	93.95883	-2844.094	0.5805426	0	0.3713039	-0.3356447		$|

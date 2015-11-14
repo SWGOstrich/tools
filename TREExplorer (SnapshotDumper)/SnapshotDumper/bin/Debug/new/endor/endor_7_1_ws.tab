@@ -1,0 +1,9 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9705743	0	object/static/structure/naboo/gungan_relic_s01.iff	0	6055.669	102.9976	-6678.342	0.8772005	0	0.4801242	0		$|
+9705746	0	object/static/structure/dathomir/nsister_tent_house_style_01.iff	0	6040.91	111.4124	-6666.173	0.006780444	0	0.9804468	-0.03432966		$|
+9705748	0	object/static/structure/dathomir/nsister_tent_house_style_01.iff	0	6059.274	112.7767	-6661.6	0.4009503	0	0.9033464	-0.1487367		$|
+9705749	0	object/static/structure/dantooine/dant_boundary_post.iff	0	6036.215	108.5303	-6686.218	0.9081083	0	-0.1943125	-0.36271		$|
+9705751	0	object/static/structure/dantooine/dant_fire_pit.iff	0	6044.802	110.6143	-6677.221	0	0	1	0		$|
+9705754	0	object/static/structure/dantooine/dant_rack_spears.iff	0	6055.196	112.3164	-6668.59	-0.02618226	0	-0.5863097	0.8090782		$|
+9705756	0	object/static/structure/dantooine/dant_hide_tanning_s01.iff	0	6038.163	112.0115	-6672.746	0.5620677	0	-0.4934196	0.5165112		$|

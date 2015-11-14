@@ -1,0 +1,4 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9825595	0	object/static/terrain/corellia/rock_crystal_arch_agrilat_half_medium.iff	0	3741.873	16.24283	-2468.6	0.9886517	0	0.1502256	0		$|
+9825624	0	object/static/terrain/corellia/rock_crystal_geyser_agrilat_small.iff	0	3760.596	6.494992	-2465.739	0	0	1	0		$|

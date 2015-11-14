@@ -1,0 +1,26 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9725370	0	object/static/structure/dathomir/nsister_tent_house_style_01.iff	0	-3252.021	99.74355	-6587.684	0.7208306	0	-0.6931112	0		$|
+9725372	0	object/static/flora/flora_shrb_dath_glingi.iff	0	-3262.77	102.5795	-6591.316	0	0	1	0		$|
+9725373	0	object/static/flora/flora_shrb_dath_glingi.iff	0	-3251.94	102.3963	-6577.733	0	0	1	0		$|
+9725374	0	object/static/flora/flora_shrb_dath_glingi.iff	0	-3243.842	104.6681	-6602.979	0	0	1	0		$|
+9725376	0	object/static/structure/dantooine/dant_gate.iff	0	-3238.944	102.2121	-6586.377	0.7138636	0	0.7002847	0		$|
+9725377	0	object/building/endor/endr_lake_rail4m.iff	0	-3240.748	101.8503	-6589.063	-0.2811575	0	0.9596616	0		$|
+9725378	0	object/building/endor/endr_lake_rail4m.iff	0	-3244.372	101.7857	-6591.031	-0.2182296	0	0.9758974	0		$|
+9725379	0	object/building/endor/endr_lake_rail4m.iff	0	-3247.788	101.5187	-6592.996	-0.333487	0	0.9427547	0		$|
+9725380	0	object/building/endor/endr_lake_rail4m.iff	0	-3239.94	102.1904	-6582.939	0.4706258	0	0.8823329	0		$|
+9725381	0	object/building/endor/endr_lake_rail4m.iff	0	-3242.881	102.0153	-6580.512	0.1937666	0	0.9810476	0		$|
+9725382	0	object/building/endor/endr_lake_rail4m.iff	0	-3246.712	101.6336	-6579.731	0	0	1	0		$|
+9725383	0	object/building/endor/endr_lake_rail4m.iff	0	-3249.169	100.5285	-6580.762	-0.6593847	0	0.7518057	0		$|
+9725385	0	object/static/structure/general/campfire_burnt.iff	0	-3252.072	99.02664	-6588.122	0	0	1	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_nsister_outcast_hut_south.iff|$|
+9725387	0	object/static/structure/general/skeleton_human_head.iff	0	-3251.428	103.8328	-6586.95	0.9944088	0	0.1055993	0		$|
+9725388	0	object/static/structure/general/skeleton_human_head.iff	0	-3251.324	103.5476	-6586.686	0.4968804	0	0.8678191	0		$|
+9725389	0	object/static/structure/general/skeleton_human_head.iff	0	-3251.559	103.3422	-6586.862	0.9361771	0	-0.3515289	0		$|
+9725390	0	object/static/structure/general/skeleton_human_head.iff	0	-3251.625	103.7391	-6586.648	-0.5197796	0	0.8543004	0		$|
+9725391	0	object/static/structure/general/skeleton_human_head.iff	0	-3251.385	103.8275	-6586.551	0.2425563	0	0.9701373	0		$|
+9725394	0	object/static/structure/general/tato_cave_stalactite_tiny.iff	0	-3251.485	102.8821	-6586.76	0	0	1	0		$|
+9725403	0	object/static/structure/dantooine/dant_rack_spears.iff	0	-3253.722	99.20352	-6590.504	0.3801885	0	0.9249091	0		$|
+9725404	0	object/static/structure/general/skeleton_human_head.iff	0	-3253.916	99.32691	-6589.369	0.6518337	0	0.7583619	0		$|
+9725405	0	object/static/structure/dantooine/dant_skull_bol.iff	0	-3238.965	105.1509	-6587.978	0.6464533	0	0.6600392	0.2733969		$|
+9725406	0	object/static/structure/dantooine/dant_skull_bol.iff	0	-3238.742	105.0924	-6584.709	0.646453	0	0.6600389	0.273397		$|
+9725412	0	object/static/structure/general/streetlamp_small_red_style_01.iff	0	-3252.002	96.91013	-6588.012	0	0	1	0		$|

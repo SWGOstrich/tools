@@ -1,0 +1,12 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+9705402	0	object/building/endor/endor_lake_walkway_square.iff	0	-1764.329	1.000274	-4083.633	0	0	1	0		$|
+9705403	0	object/building/endor/endor_forest_hut.iff	0	-1762.716	11.06669	-4083.297	0.9252115	0	-0.3794518	0		$|
+9705406	0	object/static/flora/flora_tree_rori_mkpodtree.iff	0	-1758.955	7.932456	-4086.964	0.2084599	0	0.9780309	0		$|
+9705408	0	object/static/flora/flora_tree_rori_mkpodtree.iff	0	-1763.329	7.580646	-4076.514	0.6961343	0	0.7179115	0		$|
+9705410	0	object/building/endor/endor_tiki_torch.iff	0	-1763.225	17.57575	-4084.38	0	0	-0.0391936	0		$|
+9705414	0	object/static/item/item_basket_shallow.iff	0	-1762.99	10.99756	-4083.057	0	0	1	0		$|
+9705415	0	object/static/item/item_bowl_shallow.iff	0	-1766.872	7.991817	-4087.105	0	0	0.02919958	0		$|
+9705418	0	object/static/item/item_basket_closed.iff	0	-1768.24	11.40846	-4083.633	-0.007937085	0	0.004658968	0.8623677		$|
+9705421	0	object/static/item/item_bottle_pear.iff	0	-1766.381	7.834802	-4089.304	0	0	0.7109131	0		$|
+9705422	0	object/static/item/item_bottle_tall.iff	0	-1764.051	7.766375	-4085.934	0	0	-0.6711776	0		$|

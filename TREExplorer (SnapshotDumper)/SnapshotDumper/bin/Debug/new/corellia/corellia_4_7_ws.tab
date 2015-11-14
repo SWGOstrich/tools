@@ -1,0 +1,16 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+59761	0	object/static/terrain/corellia/rock_crystal_mound_agrilat_medium.iff	0	-12.88827	18.33321	4677.567	0	0	1	0		$|
+59762	0	object/static/terrain/corellia/rock_crystal_mound_agrilat_large.iff	0	-3.280305	18.30565	4684.167	0	0	1	0		$|
+59763	0	object/static/terrain/corellia/rock_crystal_mound_agrilat_medium.iff	0	-3.636943	18.30565	4666.376	0	0	1	0		$|
+8675717	0	object/tangible/camp/camp_tent_s5.iff	0	-197.304	45.73531	4575.875	0	0	1	0		$|
+8675718	0	object/tangible/camp/camp_light_s2.iff	0	-201.4662	45.44997	4575.224	0	0	1	0		$|
+8675719	0	object/tangible/camp/camp_chair_s3.iff	0	-200.5751	45.5947	4578.753	0.8674232	0	-0.4975711	0		$|
+9825450	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	-384.1848	418.0562	6070.474	-0.7071063	0	0.7071072	0		$|
+9825451	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	-378.9826	418.0016	6075.141	0	0	1	0		$|
+9825452	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	-379.0816	418.0058	6065.574	0	0	1	0		$|
+9825455	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	-382.6379	418.0721	6074.11	0.9238795	0	0.3826839	0		$|
+9825461	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	-382.5928	418.0514	6066.725	0.3826845	0	0.9238791	0		$|
+9825489	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	-374.1036	418.001	6070.598	0.7071081	0	0.707105	0		$|
+9825490	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	-375.6504	417.9671	6066.961	-0.3826844	0	0.9238791	0		$|
+9825491	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	-375.6955	418.0084	6074.347	0.9238794	0	-0.3826837	0		$|

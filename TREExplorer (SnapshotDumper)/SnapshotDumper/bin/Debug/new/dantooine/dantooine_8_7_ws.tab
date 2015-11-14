@@ -1,0 +1,10 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+8895384	0	object/static/structure/naboo/gungan_damaged_wide_arch_s01.iff	0	6729.462	0.119547	4974.661	-0.4123208	0	0.9110388	0		$|
+8895385	0	object/static/structure/naboo/gungan_damaged_narrow_arch_s01.iff	0	6763.858	0.159572	5011.338	-0.3894182	0	0.921061	0		$|
+8895386	0	object/static/structure/naboo/gungan_pillar_damaged_s01.iff	0	6757.565	0.183939	4998.699	-0.3940188	0	0.9191024	0		$|
+8895387	0	object/static/structure/naboo/gungan_pillar_damaged_s01.iff	0	6749.175	0.370653	4989.877	0.3801883	0	0.9249091	0		$|
+8895389	0	object/static/structure/naboo/gungan_pillar_ruined_s01.iff	0	6743.063	0.582814	4994.931	0.3569493	0	0.9341238	0		$|
+8895390	0	object/static/structure/naboo/gungan_pillar_damaged_s01.iff	0	6750.932	0.741635	5004.023	-0.4259395	0	0.9047517	0		$|
+8895391	0	object/static/structure/naboo/gungan_pillar_damaged_s01.iff	0	6733.845	-0.212668	4984.836	-0.4214104	0	0.9068701	0		$|
+8895392	0	object/static/structure/naboo/gungan_pillar_ruined_s01.iff	0	6739.815	0.511322	4979.94	-0.3801885	0	0.9249091	0		$|

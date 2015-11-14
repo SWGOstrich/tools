@@ -1,0 +1,6 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+8995422	0	object/static/structure/general/prp_junk_s5.iff	0	-1795.741	45.22534	-4697.695	0.7046103	0	0.6273889	-0.3313803		$|
+8995425	0	object/static/structure/general/prp_junk_s2.iff	0	-1796.553	45.97476	-4694.547	0.42887	0	0.8766107	-0.2038535		$|
+8995454	0	object/static/structure/general/skeleton_ithorian_headandbody.iff	0	-298.1924	199.4201	-5161.804	0.9654381	0	0.1693117	0.103896		$|
+8995455	0	object/static/structure/general/skeleton_human_headandbody.iff	0	-298.9608	200.1163	-5161.259	0.9729729	0	-0.1818465	0.01594788		$|

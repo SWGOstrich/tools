@@ -1,0 +1,19 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+5385433	0	object/building/corellia/filler_slum_16x16_s01.iff	0	3081.397	35	6167.206	-0.6708822	0	0.7415639	0		$|
+5385462	0	object/static/structure/corellia/corl_imprv_wall_4x16_s03.iff	0	3068.075	35.74148	6157.183	-0.3475902	0	0.9376465	0		$|
+5385463	0	object/static/structure/corellia/corl_imprv_column_s03.iff	0	3061.885	35.75922	6151.843	-0.3475902	0	0.9376465	0		$|
+5385465	0	object/static/structure/corellia/corl_imprv_wall_4x16_s03.iff	0	3064.868	35.74148	6144.139	0.8220488	0	-0.5694172	0		$|
+5385478	0	object/static/item/item_container_weapons.iff	0	3066.39	34.97157	6146.691	0.04328978	0	0.9256226	0.111611		$|
+5385479	0	object/static/item/item_container_weapons.iff	0	3067.277	35.6696	6150.285	-0.01221863	0	0.3577184	0.9337493		$|
+5385480	0	object/static/item/item_container_weapons.iff	0	3069.032	34.87015	6146.83	-0.4228765	0	0.8982452	-0.1083098		$|
+5385481	0	object/static/item/item_container_weapons.iff	0	3068.556	35.58187	6149.685	0.1724931	0	0.4271924	0.2731286		$|
+5385482	0	object/static/item/item_container_weapons.iff	0	3069.614	35.37308	6147.583	0.3461482	0	0.8961071	0.2068456		$|
+5385496	0	object/static/item/item_container_weapons.iff	0	3067.423	34.86067	6148.61	0.8338978	0	0.5237374	-0.1653132		$|
+5385497	0	object/static/particle/particle_lg_explosion.iff	0	3067.822	35.00138	6148.286	0	0	1	0		$|
+5385498	0	object/static/particle/particle_smoke.iff	0	3068.021	35	6148.938	0	0	1	0		$|
+5385499	0	object/static/particle/pt_sm_explosion.iff	0	3079.241	35	6146.535	0	0	1	0		$|
+5385500	0	object/static/particle/particle_newbie_hanging_smoke.iff	0	3067.886	35.83019	6148.892	0	0	1	0		$|
+5385507	0	object/static/structure/general/trash_pile_s01.iff	0	3070.627	35	6152.43	0.2763557	0	0.9610555	0		$|
+5385509	0	object/static/structure/general/trash_pile_s01.iff	0	3078.85	35	6146.634	0.6131167	0	0.7899923	0		$|
+5385514	0	object/static/structure/general/tankfarm_s01.iff	0	3090.888	35.03773	6154.771	0.7925626	0	-0.6097906	0		$|
