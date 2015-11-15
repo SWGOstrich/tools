@@ -1,6 +1,6 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-9705912	0	object/static/structure/tatooine/jawa/tent_jawa_01_small.iff	0	6351.382	330.975	-2459.621	0	0	1	0		$|
-9705914	0	object/tangible/furniture/all/frn_all_rug_rectangle_large_style_01.iff	0	6351.048	331.2006	-2459.726	0.00299695	0	0.9937606	-0.04988924		$|
-9705917	0	object/static/structure/general/skeleton_human_headandbody.iff	0	6351.048	330.6727	-2455.316	-0.003595681	0	0.9964043	0.05985609		$|
-9705918	0	object/static/structure/general/campfire_ash.iff	0	6348.373	331.2762	-2460.318	0	0	1	0		$|
+9705912	0	object/static/structure/tatooine/jawa/tent_jawa_01_small.iff	0	207.3818	330.975	1636.379	0	0	1	0		$|
+9705914	0	object/tangible/furniture/all/frn_all_rug_rectangle_large_style_01.iff	0	207.0479	331.2006	1636.274	0.00299695	0	0.9937606	-0.04988924		$|
+9705917	0	object/static/structure/general/skeleton_human_headandbody.iff	0	207.0483	330.6727	1640.684	-0.003595681	0	0.9964043	0.05985609		$|
+9705918	0	object/static/structure/general/campfire_ash.iff	0	204.3726	331.2762	1635.682	0	0	1	0		$|

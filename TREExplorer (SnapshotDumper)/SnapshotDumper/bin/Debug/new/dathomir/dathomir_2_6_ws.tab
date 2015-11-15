@@ -1,4 +1,4 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-9725965	0	object/static/structure/naboo/gungan_relic_s01.iff	0	-5028.336	124.1878	3218.425	0.5141361	0	0.8577086	0		$|
-9725966	0	object/static/structure/tatooine/skeleton_krayt_head_style_02.iff	0	-5028.438	144.3054	3218.952	0.9661366	0	0.2578372	-0.009661688		$|
+9725965	0	object/static/structure/naboo/gungan_relic_s01.iff	0	1115.664	124.1878	1170.425	0.5141361	0	0.8577086	0		$|
+9725966	0	object/static/structure/tatooine/skeleton_krayt_head_style_02.iff	0	1115.563	144.3054	1170.952	0.9661366	0	0.2578372	-0.009661688		$|

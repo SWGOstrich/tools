@@ -1,9 +1,9 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-7525440	0	object/tangible/jedi/force_shrine_stone.iff	0	-6859.097	474.6634	-1940.496	0.707107	0	0.7071069	0		$|
-7525441	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	-6863.519	475.7793	-1942.093	0.7070979	0	0.7071151	0		$|
-7525442	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	-6854.834	475.7793	-1942.059	0	0	1	0		$|
-7525443	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	-6860.065	475.7793	-1942.104	1	0	0	0		$|
-7525444	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	-6858.272	475.7693	-1942.152	0	0	1	0		$|
-7525445	0	object/static/structure/dantooine/dant_jedi_temple_altar.iff	0	-6859.156	457.8257	-1942.093	0	0	1	0		$|
-7525446	0	object/static/particle/pt_poi_electricity_2x2.iff	0	-6859.095	475.8742	-1940.499	0	0	1	0		$|
+7525440	0	object/tangible/jedi/force_shrine_stone.iff	0	1332.903	474.6634	107.504	0.707107	0	0.7071069	0		$|
+7525441	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	1328.481	475.7793	105.9071	0.7070979	0	0.7071151	0		$|
+7525442	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	1337.166	475.7793	105.941	0	0	1	0		$|
+7525443	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	1331.935	475.7793	105.8959	1	0	0	0		$|
+7525444	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	1333.728	475.7693	105.848	0	0	1	0		$|
+7525445	0	object/static/structure/dantooine/dant_jedi_temple_altar.iff	0	1332.844	457.8257	105.9069	0	0	1	0		$|
+7525446	0	object/static/particle/pt_poi_electricity_2x2.iff	0	1332.905	475.8742	107.5006	0	0	1	0		$|

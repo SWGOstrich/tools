@@ -1,10 +1,10 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-7825480	0	object/building/naboo/filler_building_naboo_style_2.iff	0	7344.426	1.341141	3596.288	0.7895038	0	-0.6137458	0		$|
-7825481	0	object/static/structure/general/streetlamp_small_blue_style_01.iff	0	7344.404	12.9053	3596.156	0	0	1	0		$|
-7825483	0	object/static/structure/naboo/planter_naboo_theed_style_2.iff	0	7341.854	-2.091678	3591.735	0	0	1	0		$|
-7825485	0	object/static/structure/general/campfire_ash.iff	0	7344.769	3.633312	3597.926	-0.0008133849	0	0.9991196	-0.03487532		$|
-7825487	0	object/static/flora/flora_tree_lok_mkpud.iff	0	7339.615	2.740789	3602.417	0	0	1	0		$|
-7825488	0	object/static/flora/flora_tree_lok_mkpud.iff	0	7337.697	2.922651	3598.168	0	0	1	0		$|
-7825489	0	object/static/flora/flora_tree_lok_mkpud.iff	0	7345.208	8.638484	3601.06	0	0	1	0		$|
-7825491	0	object/static/structure/general/streetlamp_small_blue_style_01.iff	0	7336.771	1.466727	3593.45	0	0	1	0		$|
+7825480	0	object/building/naboo/filler_building_naboo_style_2.iff	0	1200.426	1.341141	1548.288	0.7895038	0	-0.6137458	0		$|
+7825481	0	object/static/structure/general/streetlamp_small_blue_style_01.iff	0	1200.404	12.9053	1548.156	0	0	1	0		$|
+7825483	0	object/static/structure/naboo/planter_naboo_theed_style_2.iff	0	1197.854	2045.908	1543.735	0	0	1	0		$|
+7825485	0	object/static/structure/general/campfire_ash.iff	0	1200.769	3.633312	1549.926	-0.0008133849	0	0.9991196	-0.03487532		$|
+7825487	0	object/static/flora/flora_tree_lok_mkpud.iff	0	1195.615	2.740789	1554.417	0	0	1	0		$|
+7825488	0	object/static/flora/flora_tree_lok_mkpud.iff	0	1193.697	2.922651	1550.168	0	0	1	0		$|
+7825489	0	object/static/flora/flora_tree_lok_mkpud.iff	0	1201.208	8.638484	1553.06	0	0	1	0		$|
+7825491	0	object/static/structure/general/streetlamp_small_blue_style_01.iff	0	1192.771	1.466727	1545.45	0	0	1	0		$|

@@ -1,7 +1,7 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-9035355	0	object/static/structure/naboo/gungan_wall_ruined_lg_s01.iff	0	-1597.001	36.74719	-544.6457	0	0	1	0		$|
-9035356	0	object/static/structure/naboo/gungan_wall_ruined_sm_s01.iff	0	-1605.432	37.67215	-553.8851	0.7071065	0	0.707107	0		$|
-9035357	0	object/static/structure/naboo/gungan_wall_ruined_lg_s02.iff	0	-1604.06	36.62231	-528.9819	-0.7068257	0	0.7073879	0		$|
-9035389	0	object/static/structure/general/prp_junk_s7.iff	0	-1634.163	28.84253	-323.5205	0	0	1	0		$|
-9035392	0	object/static/structure/general/prp_junk_s1.iff	0	-1658.068	29.83389	-342.2722	0	0	0.9847265	0		$|
+9035355	0	object/static/structure/naboo/gungan_wall_ruined_lg_s01.iff	0	450.9993	36.74719	1503.354	0	0	1	0		$|
+9035356	0	object/static/structure/naboo/gungan_wall_ruined_sm_s01.iff	0	442.5679	37.67215	1494.115	0.7071065	0	0.707107	0		$|
+9035357	0	object/static/structure/naboo/gungan_wall_ruined_lg_s02.iff	0	443.9404	36.62231	1519.018	-0.7068257	0	0.7073879	0		$|
+9035389	0	object/static/structure/general/prp_junk_s7.iff	0	413.8374	28.84253	1724.479	0	0	1	0		$|
+9035392	0	object/static/structure/general/prp_junk_s1.iff	0	389.9323	29.83389	1705.728	0	0	0.9847265	0		$|

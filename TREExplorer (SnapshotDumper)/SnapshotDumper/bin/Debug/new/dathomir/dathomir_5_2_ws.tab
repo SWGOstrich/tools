@@ -1,19 +1,19 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-7325438	0	object/tangible/jedi/force_shrine_stone.iff	0	1654.9	102.6311	-5768.228	0.707107	0	0.7071069	0		$|
-7325439	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	1650.479	102.9608	-5769.825	0.7071001	0	0.7071129	0		$|
-7325440	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	1659.163	102.9608	-5769.791	0	0	1	0		$|
-7325441	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	1653.932	102.9608	-5769.836	1	0	0	0		$|
-7325442	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	1655.726	102.9508	-5769.884	0	0	1	0		$|
-7325443	0	object/static/structure/dantooine/dant_jedi_temple_altar.iff	0	1654.841	85.00715	-5769.825	0	0	1	0		$|
-7325444	0	object/static/particle/pt_poi_electricity_2x2.iff	0	1654.903	102.9608	-5768.231	0	0	1	0		$|
-9725443	0	object/static/structure/dathomir/mtn_clan_hut_s01.iff	0	1084.628	104.2817	-4485.378	0.7311458	0	-0.6822214	0		$|
-9725446	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	1073.853	101.7696	-4470.129	0.2279775	0	0.9736664	0		$|
-9725447	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	1086.291	102.6509	-4501.826	0.8191917	0	0.5735199	0		$|
-9725450	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	1056.916	100.7244	-4473.99	-0.4528854	0	0.8915688	0		$|
-9725451	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	1063.879	96.75047	-4506.103	0.945784	0	-0.3247966	0		$|
-9725452	0	object/static/structure/dathomir/mtn_clan_strong_fence_s01.iff	0	1063.816	101.2907	-4469.75	-0.07479481	0	0.9953944	-0.004493082		$|
-9725455	0	object/static/structure/dathomir/mtn_clan_strong_fence_s01.iff	0	1073.642	98.72975	-4508.353	-0.1741081	0	0.9847265	0		$|
-9725463	0	object/static/structure/dathomir/mtn_clan_gate_s01.iff	0	1057.942	99.76746	-4490.561	0.7446431	0	-0.6674629	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_ceremonial_site.iff|$|
-9725464	0	object/static/structure/dathomir/mtn_clan_strong_fence_s01.iff	0	1057.137	100.4563	-4483.005	0.7242876	0	-0.6894981	0		$|
-9725465	0	object/static/structure/dathomir/mtn_clan_strong_fence_s01.iff	0	1058.867	97.96123	-4498.925	0.7446432	0	-0.667463	0		$|
+7325438	0	object/tangible/jedi/force_shrine_stone.iff	0	1654.9	102.6311	375.772	0.707107	0	0.7071069	0		$|
+7325439	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	1650.479	102.9608	374.1748	0.7071001	0	0.7071129	0		$|
+7325440	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	1659.163	102.9608	374.209	0	0	1	0		$|
+7325441	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	1653.932	102.9608	374.1636	1	0	0	0		$|
+7325442	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	1655.726	102.9508	374.1157	0	0	1	0		$|
+7325443	0	object/static/structure/dantooine/dant_jedi_temple_altar.iff	0	1654.841	85.00715	374.1748	0	0	1	0		$|
+7325444	0	object/static/particle/pt_poi_electricity_2x2.iff	0	1654.903	102.9608	375.7686	0	0	1	0		$|
+9725443	0	object/static/structure/dathomir/mtn_clan_hut_s01.iff	0	1084.628	104.2817	1658.622	0.7311458	0	-0.6822214	0		$|
+9725446	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	1073.853	101.7696	1673.871	0.2279775	0	0.9736664	0		$|
+9725447	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	1086.291	102.6509	1642.174	0.8191917	0	0.5735199	0		$|
+9725450	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	1056.916	100.7244	1670.01	-0.4528854	0	0.8915688	0		$|
+9725451	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	1063.879	96.75047	1637.897	0.945784	0	-0.3247966	0		$|
+9725452	0	object/static/structure/dathomir/mtn_clan_strong_fence_s01.iff	0	1063.816	101.2907	1674.25	-0.07479481	0	0.9953944	-0.004493082		$|
+9725455	0	object/static/structure/dathomir/mtn_clan_strong_fence_s01.iff	0	1073.642	98.72975	1635.647	-0.1741081	0	0.9847265	0		$|
+9725463	0	object/static/structure/dathomir/mtn_clan_gate_s01.iff	0	1057.942	99.76746	1653.439	0.7446431	0	-0.6674629	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_ceremonial_site.iff|$|
+9725464	0	object/static/structure/dathomir/mtn_clan_strong_fence_s01.iff	0	1057.137	100.4563	1660.995	0.7242876	0	-0.6894981	0		$|
+9725465	0	object/static/structure/dathomir/mtn_clan_strong_fence_s01.iff	0	1058.867	97.96123	1645.075	0.7446432	0	-0.667463	0		$|

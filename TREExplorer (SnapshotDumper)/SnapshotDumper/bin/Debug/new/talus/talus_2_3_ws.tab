@@ -1,14 +1,14 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-6535841	0	object/tangible/jedi/force_shrine_stone.iff	0	-5494.198	105.39	-3242.77	0.707107	0	0.7071069	0		$|
-6535842	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	-5498.62	106.2968	-3244.366	0.707099	0	0.707114	0		$|
-6535843	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	-5489.936	106.2683	-3244.333	0	0	1	0		$|
-6535844	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	-5495.167	106.2551	-3244.378	1	0	0	0		$|
-6535845	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	-5493.373	106.2538	-3244.426	0	0	1	0		$|
-6535846	0	object/static/structure/dantooine/dant_jedi_temple_altar.iff	0	-5494.257	88.30152	-3244.367	0	0	1	0		$|
-6535847	0	object/static/particle/pt_poi_electricity_2x2.iff	0	-5494.196	106.2588	-3242.773	0	0	1	0		$|
-9505460	0	object/static/structure/corellia/corl_power_connector.iff	0	-5644.106	80.23327	-2370.055	0	0	1	0		$|
-9505475	0	object/static/structure/corellia/corl_power_transformer_s02.iff	0	-5647.606	76.58559	-2370.02	0	0	1	0		$|
-9505584	0	object/static/installation/mockup_power_generator_wind_style_1.iff	0	-4558.739	139.8318	-2903.764	0.780209	0	-0.6255189	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/talus/talus_world_npc.iff|$|
-9505585	0	object/static/installation/mockup_power_generator_wind_style_1.iff	0	-4556.746	139.5592	-2911.872	0.780209	0	-0.6255189	0		$|
-9505586	0	object/static/structure/corellia/corl_power_connector.iff	0	-4557.765	141.173	-2908.041	0.780209	0	-0.6255189	0		$|
+6535841	0	object/tangible/jedi/force_shrine_stone.iff	0	649.8018	105.39	853.2305	0.707107	0	0.7071069	0		$|
+6535842	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	645.3799	106.2968	851.6335	0.707099	0	0.707114	0		$|
+6535843	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	654.0645	106.2683	851.6675	0	0	1	0		$|
+6535844	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	648.8335	106.2551	851.6223	1	0	0	0		$|
+6535845	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	650.627	106.2538	851.5745	0	0	1	0		$|
+6535846	0	object/static/structure/dantooine/dant_jedi_temple_altar.iff	0	649.7427	88.30152	851.6333	0	0	1	0		$|
+6535847	0	object/static/particle/pt_poi_electricity_2x2.iff	0	649.8042	106.2588	853.2271	0	0	1	0		$|
+9505460	0	object/static/structure/corellia/corl_power_connector.iff	0	499.8936	80.23327	1725.945	0	0	1	0		$|
+9505475	0	object/static/structure/corellia/corl_power_transformer_s02.iff	0	496.394	76.58559	1725.98	0	0	1	0		$|
+9505584	0	object/static/installation/mockup_power_generator_wind_style_1.iff	0	1585.261	139.8318	1192.236	0.780209	0	-0.6255189	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/talus/talus_world_npc.iff|$|
+9505585	0	object/static/installation/mockup_power_generator_wind_style_1.iff	0	1587.254	139.5592	1184.128	0.780209	0	-0.6255189	0		$|
+9505586	0	object/static/structure/corellia/corl_power_connector.iff	0	1586.235	141.173	1187.959	0.780209	0	-0.6255189	0		$|

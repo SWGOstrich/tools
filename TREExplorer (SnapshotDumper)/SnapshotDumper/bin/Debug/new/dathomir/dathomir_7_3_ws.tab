@@ -1,6 +1,6 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-3626145	0	object/static/particle/pt_lok_volcano_smoke.iff	0	5363.603	78.5	-4044.127	0	0	1	0		$|
-5785592	0	object/static/structure/tatooine/wall_gate_tatooine_style_02.iff	0	5094.513	78.29591	-3814.067	-0.6104214	0	0.7920768	0		$|
-9725407	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	5203.382	40.83484	-3086.386	0.8871888	0	-0.4515508	-0.04302683		$|
-9725414	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	5204.663	39.32834	-3085.158	0	0	1	0		$|
+3626145	0	object/static/particle/pt_lok_volcano_smoke.iff	0	1267.603	78.5	51.87305	0	0	1	0		$|
+5785592	0	object/static/structure/tatooine/wall_gate_tatooine_style_02.iff	0	998.5127	78.29591	281.9329	-0.6104214	0	0.7920768	0		$|
+9725407	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	1107.382	40.83484	1009.614	0.8871888	0	-0.4515508	-0.04302683		$|
+9725414	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	1108.663	39.32834	1010.842	0	0	1	0		$|

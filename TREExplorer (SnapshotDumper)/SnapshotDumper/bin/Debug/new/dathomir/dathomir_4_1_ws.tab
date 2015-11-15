@@ -1,4 +1,4 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-9725453	0	object/static/structure/general/tie_bomber_debris_01.iff	0	-990.6839	144.2416	-6389.167	0.5635871	0	0.8150184	0.06393465		$|
-9725461	0	object/static/structure/general/prp_junk_s1.iff	0	-984.0038	142.0718	-6391.741	0.1268399	0	0.9742178	0.05817143		$|
+9725453	0	object/static/structure/general/tie_bomber_debris_01.iff	0	1057.316	144.2416	1802.833	0.5635871	0	0.8150184	0.06393465		$|
+9725461	0	object/static/structure/general/prp_junk_s1.iff	0	1063.996	142.0718	1800.259	0.1268399	0	0.9742178	0.05817143		$|

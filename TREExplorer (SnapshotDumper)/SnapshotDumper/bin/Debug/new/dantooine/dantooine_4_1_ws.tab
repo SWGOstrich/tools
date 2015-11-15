@@ -1,17 +1,17 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-6045508	0	object/tangible/jedi/force_shrine_stone.iff	0	-1814.181	8.788923	-6205.097	0.707107	0	0.7071069	0		$|
-6045509	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	-1818.603	9.677441	-6206.694	0.7071001	0	0.7071129	0		$|
-6045510	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	-1809.918	9.677441	-6206.66	0	0	1	0		$|
-6045511	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	-1815.149	9.677441	-6206.706	1	0	0	0		$|
-6045512	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	-1813.356	9.667431	-6206.753	0	0	1	0		$|
-6045513	0	object/static/structure/dantooine/dant_jedi_temple_altar.iff	0	-1814.24	-8.276171	-6206.694	0	0	1	0		$|
-6045514	0	object/static/particle/pt_poi_electricity_2x2.iff	0	-1814.178	9.835555	-6205.101	0	0	1	0		$|
-9015661	0	object/static/structure/naboo/gungan_wall_ruined_lg_s02.iff	0	-1538.461	11.17926	-6668.671	0	0	1	0		$|
-9015662	0	object/static/structure/naboo/gungan_wall_ruined_lg_s01.iff	0	-1538.387	11.25456	-6681.036	0	0	1	0		$|
-9015663	0	object/static/structure/naboo/gungan_pillar_damaged_s01.iff	0	-1538.481	11.19193	-6672.791	0	0	1	0		$|
-9015664	0	object/static/structure/naboo/gungan_damaged_wall_lg_s01.iff	0	-1530.43	10.90429	-6663.573	0.7071065	0	0.707107	0		$|
-9015665	0	object/static/structure/general/skeleton_human_body.iff	0	-1527.902	12.92873	-6675.055	0	0	1	0		$|
-9015666	0	object/static/structure/general/skeleton_human_headandbody.iff	0	-1533.957	12.59584	-6659.93	0.8016942	0	-0.5916746	-0.06830859		$|
-9015667	0	object/static/structure/general/skeleton_human_head.iff	0	-1541.729	12.14222	-6670.429	-0.696127	0	0.7179012	0.003480664		$|
-9015668	0	object/static/structure/general/skeleton_human_head.iff	0	-1536.544	12.23627	-6686.188	0	0	0.833712	-0.5521996		$|
+6045508	0	object/tangible/jedi/force_shrine_stone.iff	0	233.8191	8.788923	1986.903	0.707107	0	0.7071069	0		$|
+6045509	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	229.3972	9.677441	1985.306	0.7071001	0	0.7071129	0		$|
+6045510	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	238.0817	9.677441	1985.34	0	0	1	0		$|
+6045511	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	232.8511	9.677441	1985.294	1	0	0	0		$|
+6045512	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	234.6444	9.667431	1985.247	0	0	1	0		$|
+6045513	0	object/static/structure/dantooine/dant_jedi_temple_altar.iff	0	233.76	2039.724	1985.306	0	0	1	0		$|
+6045514	0	object/static/particle/pt_poi_electricity_2x2.iff	0	233.8218	9.835555	1986.899	0	0	1	0		$|
+9015661	0	object/static/structure/naboo/gungan_wall_ruined_lg_s02.iff	0	509.5386	11.17926	1523.329	0	0	1	0		$|
+9015662	0	object/static/structure/naboo/gungan_wall_ruined_lg_s01.iff	0	509.6133	11.25456	1510.964	0	0	1	0		$|
+9015663	0	object/static/structure/naboo/gungan_pillar_damaged_s01.iff	0	509.5192	11.19193	1519.209	0	0	1	0		$|
+9015664	0	object/static/structure/naboo/gungan_damaged_wall_lg_s01.iff	0	517.5704	10.90429	1528.427	0.7071065	0	0.707107	0		$|
+9015665	0	object/static/structure/general/skeleton_human_body.iff	0	520.0979	12.92873	1516.945	0	0	1	0		$|
+9015666	0	object/static/structure/general/skeleton_human_headandbody.iff	0	514.0431	12.59584	1532.07	0.8016942	0	-0.5916746	-0.06830859		$|
+9015667	0	object/static/structure/general/skeleton_human_head.iff	0	506.2711	12.14222	1521.571	-0.696127	0	0.7179012	0.003480664		$|
+9015668	0	object/static/structure/general/skeleton_human_head.iff	0	511.4558	12.23627	1505.813	0	0	0.833712	-0.5521996		$|

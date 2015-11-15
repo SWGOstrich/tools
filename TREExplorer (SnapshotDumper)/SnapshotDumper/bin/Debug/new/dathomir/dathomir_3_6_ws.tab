@@ -1,16 +1,16 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-1105986	0	object/static/particle/pt_flocking_glowzees.iff	0	-3187.031	6.154653	3154.589	0	0	1	0		$|
-1105987	0	object/static/particle/pt_lair_evil_fire_large_red.iff	0	-3185.346	16.17633	3156.066	0	0	1	0		$|
-1105988	0	object/static/particle/pt_flocking_glowzees.iff	0	-3185.137	20.62076	3156.308	0	0	1	0		$|
-2716125	0	object/tangible/npc/tatooine_special/sarlacc.iff	0	-2080.79	13.6917	3143.14	0	0	1	0		$|
-4548487	0	object/tangible/collection/rare_rifle_proton.iff	0	-2087.335	20.50166	3132.959	0.1907815	0	-0.651185	-0.2758662		$|
-6705434	0	object/static/terrain/tatooine/poi_sarlacc_collision_floor.iff	0	-2081.062	-7.398289	3142.751	0	0	1	0		$|
-9725692	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	-3185.245	13.81161	3160.698	0	0	0.9238796	0.3826834		$|
-9725693	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	-3181.624	13.74318	3156.612	0.6497457	0	0.6567982	0.2902124		$|
-9725696	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	-3189.068	13.6276	3156.696	0.629752	0	-0.6759924	-0.2800053		$|
-9725699	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	-3185.724	13.15435	3152.985	0.9236089	0	0.02235906	0.009261426		$|
-9725707	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	-3185.231	6.897475	3157.258	0	0	1	0		$|
-9725713	0	object/static/item/item_bowl_shallow.iff	0	-3185.297	16.26443	3156.078	0	0	1	0		$|
-9725721	0	object/static/structure/general/campfire_burnt.iff	0	-3185.325	16.58825	3156.054	0	0	1	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_spiritual_rock_lake_near_sarlaac.iff|$|
-9725726	0	object/static/structure/general/streetlamp_small_red_style_01.iff	0	-3185.248	16.38134	3156.153	0	0	1	0		$|
+1105986	0	object/static/particle/pt_flocking_glowzees.iff	0	908.9688	6.154653	1106.589	0	0	1	0		$|
+1105987	0	object/static/particle/pt_lair_evil_fire_large_red.iff	0	910.6538	16.17633	1108.066	0	0	1	0		$|
+1105988	0	object/static/particle/pt_flocking_glowzees.iff	0	910.8628	20.62076	1108.308	0	0	1	0		$|
+2716125	0	object/tangible/npc/tatooine_special/sarlacc.iff	0	2015.21	13.6917	1095.14	0	0	1	0		$|
+4548487	0	object/tangible/collection/rare_rifle_proton.iff	0	2008.665	20.50166	1084.959	0.1907815	0	-0.651185	-0.2758662		$|
+6705434	0	object/static/terrain/tatooine/poi_sarlacc_collision_floor.iff	0	2014.938	2040.602	1094.751	0	0	1	0		$|
+9725692	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	910.7551	13.81161	1112.698	0	0	0.9238796	0.3826834		$|
+9725693	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	914.3762	13.74318	1108.612	0.6497457	0	0.6567982	0.2902124		$|
+9725696	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	906.9321	13.6276	1108.696	0.629752	0	-0.6759924	-0.2800053		$|
+9725699	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	910.2756	13.15435	1104.985	0.9236089	0	0.02235906	0.009261426		$|
+9725707	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	910.7688	6.897475	1109.258	0	0	1	0		$|
+9725713	0	object/static/item/item_bowl_shallow.iff	0	910.7029	16.26443	1108.078	0	0	1	0		$|
+9725721	0	object/static/structure/general/campfire_burnt.iff	0	910.6753	16.58825	1108.054	0	0	1	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_spiritual_rock_lake_near_sarlaac.iff|$|
+9725726	0	object/static/structure/general/streetlamp_small_red_style_01.iff	0	910.7517	16.38134	1108.153	0	0	1	0		$|

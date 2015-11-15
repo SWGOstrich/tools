@@ -1,11 +1,11 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-6045522	0	object/tangible/jedi/force_shrine_stone.iff	0	-6999.365	11.29376	-5272.79	0.707107	0	0.7071069	0		$|
-6045523	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	-7003.787	12.22224	-5274.387	0.7070979	0	0.7071151	0		$|
-6045524	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	-6995.102	12.22224	-5274.353	0	0	1	0		$|
-6045525	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	-7000.333	12.22224	-5274.398	1	0	0	0		$|
-6045526	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	-6998.54	12.21223	-5274.446	0	0	1	0		$|
-6045527	0	object/static/structure/dantooine/dant_jedi_temple_altar.iff	0	-6999.424	-5.731375	-5274.387	0	0	1	0		$|
-6045528	0	object/static/particle/pt_poi_electricity_2x2.iff	0	-6999.362	13.15877	-5272.793	0	0	1	0		$|
-9015651	0	object/static/structure/dantooine/dant_small_mudhut.iff	0	-7065.93	0.285432	-6142.459	0.8220489	0	-0.569417	0		$|
-9015652	0	object/static/structure/dantooine/dant_fence_8m.iff	0	-7073.774	0.280072	-6140.553	0	0	1	0		$|
+6045522	0	object/tangible/jedi/force_shrine_stone.iff	0	1192.635	11.29376	871.21	0.707107	0	0.7071069	0		$|
+6045523	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	1188.213	12.22224	869.6128	0.7070979	0	0.7071151	0		$|
+6045524	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	1196.898	12.22224	869.647	0	0	1	0		$|
+6045525	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	1191.667	12.22224	869.6016	1	0	0	0		$|
+6045526	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	1193.46	12.21223	869.5537	0	0	1	0		$|
+6045527	0	object/static/structure/dantooine/dant_jedi_temple_altar.iff	0	1192.576	2042.269	869.6128	0	0	1	0		$|
+6045528	0	object/static/particle/pt_poi_electricity_2x2.iff	0	1192.638	13.15877	871.2065	0	0	1	0		$|
+9015651	0	object/static/structure/dantooine/dant_small_mudhut.iff	0	1126.07	0.285432	1.540527	0.8220489	0	-0.569417	0		$|
+9015652	0	object/static/structure/dantooine/dant_fence_8m.iff	0	1118.226	0.280072	3.447266	0	0	1	0		$|

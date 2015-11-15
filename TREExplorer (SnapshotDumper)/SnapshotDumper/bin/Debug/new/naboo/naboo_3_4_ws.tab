@@ -1,6 +1,6 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-9525649	0	object/static/structure/dantooine/dant_jedi_wall_1.iff	0	-3589.954	91.64292	-881.5764	0	0	1	0		$|
-9525651	0	object/static/structure/dantooine/dant_jedi_temple_pillar_fallen.iff	0	-3583.703	92.14736	-876.3638	-0.5396323	0	0.8419008	0		$|
-9525652	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	-3585.458	92.25559	-881.9246	0	0	1	0		$|
-9525654	0	object/static/structure/naboo/gungan_pillar_ruined_s01.iff	0	-3580.003	92.06499	-875.0259	0	0	1	0		$|
+9525649	0	object/static/structure/dantooine/dant_jedi_wall_1.iff	0	506.0464	91.64292	1166.424	0	0	1	0		$|
+9525651	0	object/static/structure/dantooine/dant_jedi_temple_pillar_fallen.iff	0	512.2974	92.14736	1171.636	-0.5396323	0	0.8419008	0		$|
+9525652	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	510.542	92.25559	1166.075	0	0	1	0		$|
+9525654	0	object/static/structure/naboo/gungan_pillar_ruined_s01.iff	0	515.9966	92.06499	1172.974	0	0	1	0		$|

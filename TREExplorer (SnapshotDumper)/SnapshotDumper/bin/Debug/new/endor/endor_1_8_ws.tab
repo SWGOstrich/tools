@@ -1,5 +1,5 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-9705364	0	object/static/structure/general/skeleton_human_headandbody.iff	0	-7606.116	346.7537	6212.236	-0.01423101	0	0.9883906	0.1288506		$|
-9705366	0	object/static/structure/tatooine/debris_tatt_drum_storage_2.iff	0	-7607.269	346.5405	6212.245	0.8622216	0	-0.4932644	-0.09458621		$|
-9705368	0	object/static/structure/general/streetlamp_small_red_style_01.iff	0	-7606.15	344.9088	6213.207	0	0	1	0		$|
+9705364	0	object/static/structure/general/skeleton_human_headandbody.iff	0	585.8843	346.7537	68.23633	-0.01423101	0	0.9883906	0.1288506		$|
+9705366	0	object/static/structure/tatooine/debris_tatt_drum_storage_2.iff	0	584.7314	346.5405	68.24463	0.8622216	0	-0.4932644	-0.09458621		$|
+9705368	0	object/static/structure/general/streetlamp_small_red_style_01.iff	0	585.8496	344.9088	69.20703	0	0	1	0		$|

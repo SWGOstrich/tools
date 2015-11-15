@@ -1,6 +1,6 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-1233864	0	object/building/general/bunker_syren4_boss.iff	0	-6305.543	118.3606	4571.875	0.2763556	0	0.9610555	0		$|
+1233864	0	object/building/general/bunker_syren4_boss.iff	0	1886.457	118.3606	475.875	0.2763556	0	0.9610555	0		$|
 1233865	1233864	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
 1233866	1233864	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
 1233870	1233864	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
@@ -22,7 +22,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1233934	1233864	object/cell/cell.iff	19	0	0	0	0	2.662467E-44	1	0		$|
 1233935	1233864	object/cell/cell.iff	20	0	0	0	0	2.802597E-44	1	0		$|
 1233936	1233864	object/cell/cell.iff	21	0	0	0	0	2.942727E-44	1	0		$|
-1234220	1233936	object/tangible/furniture/all/frn_all_command_console.iff	0	47.5031	-20	158.2198	0.001592773	0	0.9999987	0		$|
+1234220	1233936	object/tangible/furniture/all/frn_all_command_console.iff	0	47.5031	2028	158.2198	0.001592773	0	0.9999987	0		$|
 1233937	1233864	object/cell/cell.iff	22	0	0	0	0	3.082857E-44	1	0		$|
 1233938	1233864	object/cell/cell.iff	23	0	0	0	0	3.222986E-44	1	0		$|
 1233939	1233864	object/cell/cell.iff	24	0	0	0	0	3.363116E-44	1	0		$|

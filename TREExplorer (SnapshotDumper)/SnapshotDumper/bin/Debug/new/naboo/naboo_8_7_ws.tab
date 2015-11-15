@@ -1,8 +1,8 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-7825392	0	object/static/structure/general/prp_junk_s1.iff	0	6317.011	4.056958	4252.205	0	0	1	0		$|
-7825393	0	object/static/structure/general/prp_junk_s2.iff	0	6311.136	4.459791	4252.134	-0.009229815	0	0.9229504	0.003848018		$|
-7825394	0	object/static/structure/general/prp_junk_s3.iff	0	6313.41	5.22345	4255.172	0.9958808	0	0.09067174	0		$|
-7825404	0	object/static/structure/general/escape_pod_door.iff	0	6314.438	4.165313	4250.578	0.3902933	0	0.7149248	0.158816		$|
-7825407	0	object/static/structure/general/droid_lemedical_powerdown.iff	0	6314.812	3.972923	4252.235	0.4623538	0	-0.5844268	0.4541		$|
-7825409	0	object/static/structure/general/streetlamp_small_style_01.iff	0	6313.738	2.96975	4253.451	0	0	1	0		$|
+7825392	0	object/static/structure/general/prp_junk_s1.iff	0	173.0112	4.056958	156.2051	0	0	1	0		$|
+7825393	0	object/static/structure/general/prp_junk_s2.iff	0	167.1362	4.459791	156.1338	-0.009229815	0	0.9229504	0.003848018		$|
+7825394	0	object/static/structure/general/prp_junk_s3.iff	0	169.4102	5.22345	159.1724	0.9958808	0	0.09067174	0		$|
+7825404	0	object/static/structure/general/escape_pod_door.iff	0	170.4385	4.165313	154.5776	0.3902933	0	0.7149248	0.158816		$|
+7825407	0	object/static/structure/general/droid_lemedical_powerdown.iff	0	170.8115	3.972923	156.2349	0.4623538	0	-0.5844268	0.4541		$|
+7825409	0	object/static/structure/general/streetlamp_small_style_01.iff	0	169.7378	2.96975	157.4507	0	0	1	0		$|

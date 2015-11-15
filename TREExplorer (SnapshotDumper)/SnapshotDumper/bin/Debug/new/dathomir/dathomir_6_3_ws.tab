@@ -1,8 +1,8 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-9725972	0	object/tangible/camp/camp_tent_s1.iff	0	2874.744	19.57466	-2531.412	0.7770717	0	-0.6294122	0		$|
-9725974	0	object/tangible/camp/campfire_logs_burnt.iff	0	2871.936	19.37385	-2530.404	-3.536368E-11	0	0.9968017	4.411026E-10		$|
-9725977	0	object/static/structure/tatooine/debris_tatt_crate_metal_1.iff	0	2874.796	19.42286	-2533.762	-0.6403857	0	0.7680535	0		$|
-9725978	0	object/static/structure/tatooine/debris_tatt_drum_dented_1.iff	0	2874.07	19.13498	-2533.347	0.1839465	0	0.9829362	0		$|
-9725980	0	object/static/structure/tatooine/debris_tatt_crate_1.iff	0	2873.347	19.58562	-2529.898	0.4123209	0	0.9110387	0		$|
-9725981	0	object/static/structure/tatooine/debris_tatt_crate_metal_1.iff	0	2871.932	19.03805	-2533.083	0	0	1	0		$|
+9725972	0	object/tangible/camp/camp_tent_s1.iff	0	826.7437	19.57466	1564.588	0.7770717	0	-0.6294122	0		$|
+9725974	0	object/tangible/camp/campfire_logs_burnt.iff	0	823.936	19.37385	1565.596	-3.536368E-11	0	0.9968017	4.411026E-10		$|
+9725977	0	object/static/structure/tatooine/debris_tatt_crate_metal_1.iff	0	826.7959	19.42286	1562.238	-0.6403857	0	0.7680535	0		$|
+9725978	0	object/static/structure/tatooine/debris_tatt_drum_dented_1.iff	0	826.0696	19.13498	1562.653	0.1839465	0	0.9829362	0		$|
+9725980	0	object/static/structure/tatooine/debris_tatt_crate_1.iff	0	825.3467	19.58562	1566.102	0.4123209	0	0.9110387	0		$|
+9725981	0	object/static/structure/tatooine/debris_tatt_crate_metal_1.iff	0	823.9321	19.03805	1562.917	0	0	1	0		$|

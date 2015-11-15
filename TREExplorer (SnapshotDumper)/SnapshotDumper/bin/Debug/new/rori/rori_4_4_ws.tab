@@ -1,11 +1,11 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-9715649	0	object/static/structure/naboo/gungan_wall_ruined_sm_s01.iff	0	-982.396	76.46538	-316.7829	0	0	1	0		$|
-9715650	0	object/static/structure/naboo/gungan_wall_ruined_sm_s02.iff	0	-990.5667	75.93713	-310.0316	0.5605088	0	0.8281484	0		$|
-9715651	0	object/static/structure/naboo/nboo_imprv_pillar_lattice_s01.iff	0	-986.4818	75.74377	-311.6323	0	0	0.9492354	0		$|
-9715655	0	object/static/structure/naboo/gungan_pillar_ruined_s01.iff	0	-989.3062	74.89115	-319.96	0	0	0.8702925	0		$|
-9715662	0	object/tangible/furniture/all/frn_all_tree_potted_s2.iff	0	-987.6393	75.25127	-311.2495	0	0	0.9358968	0		$|
-9715666	0	object/tangible/furniture/all/frn_all_tree_potted_s2.iff	0	-986.6105	74.85703	-311.0491	0.7136411	0	0.5663108	-0.3229819		$|
-9715672	0	object/tangible/furniture/all/frn_all_tree_potted_s2.iff	0	-986.9129	75.83546	-311.6918	0.8498645	0	-0.007822032	-0.5269211		$|
-9715680	0	object/static/structure/naboo/gungan_cleft_wall_lg_s01.iff	0	-985.3191	76.05273	-318.9887	0.2866952	0	0.9268076	0.07168032		$|
-9715684	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	-989.5303	73.12317	-315.6293	0	0	1	0		$|
+9715649	0	object/static/structure/naboo/gungan_wall_ruined_sm_s01.iff	0	1065.604	76.46538	1731.217	0	0	1	0		$|
+9715650	0	object/static/structure/naboo/gungan_wall_ruined_sm_s02.iff	0	1057.433	75.93713	1737.969	0.5605088	0	0.8281484	0		$|
+9715651	0	object/static/structure/naboo/nboo_imprv_pillar_lattice_s01.iff	0	1061.518	75.74377	1736.368	0	0	0.9492354	0		$|
+9715655	0	object/static/structure/naboo/gungan_pillar_ruined_s01.iff	0	1058.694	74.89115	1728.04	0	0	0.8702925	0		$|
+9715662	0	object/tangible/furniture/all/frn_all_tree_potted_s2.iff	0	1060.361	75.25127	1736.75	0	0	0.9358968	0		$|
+9715666	0	object/tangible/furniture/all/frn_all_tree_potted_s2.iff	0	1061.39	74.85703	1736.951	0.7136411	0	0.5663108	-0.3229819		$|
+9715672	0	object/tangible/furniture/all/frn_all_tree_potted_s2.iff	0	1061.087	75.83546	1736.308	0.8498645	0	-0.007822032	-0.5269211		$|
+9715680	0	object/static/structure/naboo/gungan_cleft_wall_lg_s01.iff	0	1062.681	76.05273	1729.011	0.2866952	0	0.9268076	0.07168032		$|
+9715684	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	1058.47	73.12317	1732.371	0	0	1	0		$|

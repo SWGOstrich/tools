@@ -1,12 +1,12 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-9525390	0	object/static/structure/naboo/gungan_wall_ruined_lg_s02.iff	0	2141.927	-196.0208	5430.47	0.3428977	0	0.9393728	0		$|
-9525391	0	object/static/structure/naboo/gungan_wall_ruined_sm_s01.iff	0	2141.342	-196.0105	5424.627	-0.3381967	0	0.9410754	0		$|
-9525393	0	object/static/structure/naboo/gungan_pillar_ruined_s01.iff	0	2146.954	-196.004	5419.661	0.9424888	0	0.3342376	0		$|
-9525394	0	object/static/structure/naboo/gungan_pillar_damaged_s01.iff	0	2153.203	-196.0043	5425.574	0.3522743	0	0.9358968	0		$|
-9525395	0	object/static/structure/naboo/gungan_damaged_wide_arch_s01.iff	0	2150.117	-195.9928	5422.56	0.3801886	0	0.924909	0		$|
-9525396	0	object/static/structure/naboo/gungan_statue_s01.iff	0	2149.282	-195.9925	5419.912	0.9373694	0	0.348337	0		$|
-9525397	0	object/static/structure/naboo/gungan_statue_s01.iff	0	2152.917	-196.0113	5423.192	0.937369	0	0.348337	0		$|
-9525419	0	object/static/structure/naboo/gungan_relic_s01.iff	0	3423.027	-209.4594	5076.696	0	0	1	0		$|
-9525421	0	object/static/structure/naboo/gungan_sacred_head_s01.iff	0	3414.412	-202.3891	5071.302	0	0	1	0		$|
-9525422	0	object/static/structure/naboo/gungan_sacred_head_s01.iff	0	3432.54	-200.7416	5073.777	0	0	0.9650925	0		$|
+9525390	0	object/static/structure/naboo/gungan_wall_ruined_lg_s02.iff	0	93.92676	1851.979	1334.47	0.3428977	0	0.9393728	0		$|
+9525391	0	object/static/structure/naboo/gungan_wall_ruined_sm_s01.iff	0	93.34229	1851.99	1328.627	-0.3381967	0	0.9410754	0		$|
+9525393	0	object/static/structure/naboo/gungan_pillar_ruined_s01.iff	0	98.9541	1851.996	1323.661	0.9424888	0	0.3342376	0		$|
+9525394	0	object/static/structure/naboo/gungan_pillar_damaged_s01.iff	0	105.2031	1851.996	1329.574	0.3522743	0	0.9358968	0		$|
+9525395	0	object/static/structure/naboo/gungan_damaged_wide_arch_s01.iff	0	102.1169	1852.007	1326.56	0.3801886	0	0.924909	0		$|
+9525396	0	object/static/structure/naboo/gungan_statue_s01.iff	0	101.282	1852.007	1323.912	0.9373694	0	0.348337	0		$|
+9525397	0	object/static/structure/naboo/gungan_statue_s01.iff	0	104.917	1851.989	1327.192	0.937369	0	0.348337	0		$|
+9525419	0	object/static/structure/naboo/gungan_relic_s01.iff	0	1375.027	1838.541	980.6963	0	0	1	0		$|
+9525421	0	object/static/structure/naboo/gungan_sacred_head_s01.iff	0	1366.412	1845.611	975.3018	0	0	1	0		$|
+9525422	0	object/static/structure/naboo/gungan_sacred_head_s01.iff	0	1384.54	1847.258	977.7773	0	0	0.9650925	0		$|

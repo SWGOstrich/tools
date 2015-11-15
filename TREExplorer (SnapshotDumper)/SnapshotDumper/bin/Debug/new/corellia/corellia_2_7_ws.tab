@@ -1,7 +1,7 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-33636	0	object/static/particle/pt_miasma_of_fog_red.iff	0	-5899.221	475.8716	4664.758	0	0	1	0		$|
-164391	0	object/static/structure/dantooine/dant_totem_pole.iff	0	-4478.015	-3.224139	5547.59	0.002945712	0	0.9047403	0.4259343		$|
-9825756	0	object/static/structure/general/poi_all_obelisk_s01.iff	0	-5900.741	454.4879	4666.677	0.3334871	0	0.9427547	0		$|
-9825762	0	object/static/structure/general/skeleton_human_headandbody.iff	0	-5899.959	453.9617	4679.18	-0.1849845	0	0.005231703	-0.3886834		$|
-9825765	0	object/static/structure/general/skeleton_human_body.iff	0	-5902.08	455.5066	4676.111	0.01447584	0	0.9649839	0.2604886		$|
+33636	0	object/static/particle/pt_miasma_of_fog_red.iff	0	244.7788	475.8716	568.7578	0	0	1	0		$|
+164391	0	object/static/structure/dantooine/dant_totem_pole.iff	0	1665.985	2044.776	1451.59	0.002945712	0	0.9047403	0.4259343		$|
+9825756	0	object/static/structure/general/poi_all_obelisk_s01.iff	0	243.2588	454.4879	570.6768	0.3334871	0	0.9427547	0		$|
+9825762	0	object/static/structure/general/skeleton_human_headandbody.iff	0	244.041	453.9617	583.1797	-0.1849845	0	0.005231703	-0.3886834		$|
+9825765	0	object/static/structure/general/skeleton_human_body.iff	0	241.9199	455.5066	580.1113	0.01447584	0	0.9649839	0.2604886		$|

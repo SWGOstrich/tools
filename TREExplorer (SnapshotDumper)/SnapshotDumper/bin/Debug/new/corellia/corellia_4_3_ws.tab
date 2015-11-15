@@ -1,20 +1,20 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-2115582	0	object/building/corellia/filler_historic_24x16_s02.iff	0	-158.5684	28.09885	-4094.903	0	0	1	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/corellia/corellia_commoner.iff|$|
-2115748	0	object/static/structure/corellia/corl_imprv_wall_4x32_s02.iff	0	-172.6628	28.37815	-4072.986	0.9238796	0	-0.3826834	0		$|
-2115749	0	object/static/structure/corellia/corl_imprv_wall_4x32_s02.iff	0	-241.9768	28.1522	-4072.99	-0.3826834	0	0.9238796	0		$|
-2115755	0	object/static/structure/corellia/corl_imprv_column_s01.iff	0	-230.3168	28.67002	-4061.309	-0.3826834	0	0.9238796	0		$|
-2115757	0	object/static/structure/corellia/corl_imprv_column_s01.iff	0	-184.3392	28.78078	-4061.425	0.3826835	0	0.9238795	0		$|
-2365608	0	object/tangible/furniture/modern/table_modern_style_01.iff	0	-173.8674	28	-4093.314	0.9086327	0	0.4175964	0		$|
-2365609	0	object/tangible/furniture/modern/chair_modern_style_01.iff	0	-170.9437	28	-4093.308	0.7490262	0	-0.6625406	0		$|
-2365610	0	object/tangible/furniture/modern/chair_modern_style_01.iff	0	-175.9966	28	-4094.485	0.5438326	0	0.8391937	0		$|
-2365611	0	object/tangible/furniture/modern/chair_modern_style_01.iff	0	-174.7747	28	-4090.804	0.995415	0	0.09564985	0		$|
-3695459	0	object/tangible/sign/all_sign_city_s02.iff	0	-204.9746	28	-4076.931	0	0	1	0		$|
-5406855	0	object/static/structure/general/streetlamp_large_style_01.iff	0	-229.6105	28.40589	-4060.448	0.3826834	0	0.9238796	0		$|
-5406856	0	object/static/structure/general/streetlamp_large_style_01.iff	0	-185.0491	27.95272	-4060.837	-0.3826834	0	0.9238796	0		$|
-5406858	0	object/static/structure/general/streetlamp_large_style_01.iff	0	-164.1952	28	-4094.778	-0.7071065	0	0.7071069	0		$|
-9825739	0	object/static/structure/general/escape_pod.iff	0	-1752.153	-0.2570333	-3296.544	-0.04355748	0	0.5433529	-0.04818504		$|
-9825743	0	object/static/structure/general/escape_pod_door.iff	0	-1750.252	0.08549161	-3291.674	0	0	0.707107	0.7071065		$|
-9825747	0	object/static/structure/tatooine/debris_tatt_crate_1.iff	0	-1757.112	-0.3209131	-3294.231	0	0	0.7680537	0.6403854		$|
-9825748	0	object/static/structure/tatooine/debris_tatt_drum_storage_2.iff	0	-1755.172	-0.3860597	-3288.917	0.4368063	0	0.892832	0.09860957		$|
-9825749	0	object/static/structure/tatooine/debris_tatt_drum_dented_1.iff	0	-1746.658	-0.9623964	-3292.78	-0.2766486	0	0.8636428	-0.1285549		$|
+2115582	0	object/building/corellia/filler_historic_24x16_s02.iff	0	1889.432	28.09885	1.09668	0	0	1	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/corellia/corellia_commoner.iff|$|
+2115748	0	object/static/structure/corellia/corl_imprv_wall_4x32_s02.iff	0	1875.337	28.37815	23.01416	0.9238796	0	-0.3826834	0		$|
+2115749	0	object/static/structure/corellia/corl_imprv_wall_4x32_s02.iff	0	1806.023	28.1522	23.01001	-0.3826834	0	0.9238796	0		$|
+2115755	0	object/static/structure/corellia/corl_imprv_column_s01.iff	0	1817.683	28.67002	34.69141	-0.3826834	0	0.9238796	0		$|
+2115757	0	object/static/structure/corellia/corl_imprv_column_s01.iff	0	1863.661	28.78078	34.57544	0.3826835	0	0.9238795	0		$|
+2365608	0	object/tangible/furniture/modern/table_modern_style_01.iff	0	1874.133	28	2.685547	0.9086327	0	0.4175964	0		$|
+2365609	0	object/tangible/furniture/modern/chair_modern_style_01.iff	0	1877.056	28	2.69165	0.7490262	0	-0.6625406	0		$|
+2365610	0	object/tangible/furniture/modern/chair_modern_style_01.iff	0	1872.003	28	1.514893	0.5438326	0	0.8391937	0		$|
+2365611	0	object/tangible/furniture/modern/chair_modern_style_01.iff	0	1873.225	28	5.195557	0.995415	0	0.09564985	0		$|
+3695459	0	object/tangible/sign/all_sign_city_s02.iff	0	1843.025	28	19.06909	0	0	1	0		$|
+5406855	0	object/static/structure/general/streetlamp_large_style_01.iff	0	1818.39	28.40589	35.55225	0.3826834	0	0.9238796	0		$|
+5406856	0	object/static/structure/general/streetlamp_large_style_01.iff	0	1862.951	27.95272	35.16309	-0.3826834	0	0.9238796	0		$|
+5406858	0	object/static/structure/general/streetlamp_large_style_01.iff	0	1883.805	28	1.22168	-0.7071065	0	0.7071069	0		$|
+9825739	0	object/static/structure/general/escape_pod.iff	0	295.8473	2047.743	799.4561	-0.04355748	0	0.5433529	-0.04818504		$|
+9825743	0	object/static/structure/general/escape_pod_door.iff	0	297.7482	0.08549161	804.3259	0	0	0.707107	0.7071065		$|
+9825747	0	object/static/structure/tatooine/debris_tatt_crate_1.iff	0	290.8883	2047.679	801.7688	0	0	0.7680537	0.6403854		$|
+9825748	0	object/static/structure/tatooine/debris_tatt_drum_storage_2.iff	0	292.8281	2047.614	807.0835	0.4368063	0	0.892832	0.09860957		$|
+9825749	0	object/static/structure/tatooine/debris_tatt_drum_dented_1.iff	0	301.3424	2047.038	803.22	-0.2766486	0	0.8636428	-0.1285549		$|

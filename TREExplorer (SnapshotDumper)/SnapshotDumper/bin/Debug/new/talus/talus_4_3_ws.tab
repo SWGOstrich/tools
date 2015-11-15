@@ -1,16 +1,16 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-3305398	0	object/static/structure/corellia/corl_imprv_bridge_insert_s02.iff	0	-13.80017	3.546009	-2491.898	-0.3847889	0	0.9229504	0.009229807		$|
-3305399	0	object/static/structure/corellia/corl_imprv_bridge_lg_s02.iff	0	-3.995256	3.776205	-2501.601	-0.3847889	0	0.9229504	0.009229809		$|
-9645455	0	object/static/structure/general/campfire_ash.iff	0	-487.839	40.36345	-2072.522	0	0	1	0		$|
-9645456	0	object/static/flora/flora_bush_talus_razorcoil.iff	0	-489.7669	40.35193	-2072.792	-0.3755592	0	0.9267984	0		$|
-9645457	0	object/tangible/furniture/all/frn_all_rug_rectangle_large_style_01.iff	0	-485.9109	40.25926	-2072.88	0.08454799	0	0.9962901	0.006335003		$|
-9645466	0	object/static/structure/tatooine/debris_tatt_drum_storage_2.iff	0	-488.5586	40.28671	-2070.669	0.8277021	0	-0.561168	0		$|
-9645471	0	object/static/structure/general/trash_pile_s01.iff	0	-1732.043	18.23726	-2889.201	-0.1266349	0	0.9281386	0.3033413		$|
-9645473	0	object/static/structure/general/prp_junk_s1.iff	0	-1731.414	18.29208	-2889.09	-0.1266349	0	0.9281386	0.3033413		$|
-9645474	0	object/static/structure/general/prp_junk_s2.iff	0	-1733.522	18.40042	-2888.676	0.00296078	0	-0.01389109	0.2084389		$|
-9645475	0	object/static/structure/general/prp_junk_s3.iff	0	-1731.92	17.08058	-2890.31	0	0	0.9286646	0		$|
-9645476	0	object/static/structure/general/prp_junk_s4.iff	0	-1728.55	17.37243	-2890.052	0.04342362	0	0.7083176	0.2686705		$|
-9645477	0	object/static/structure/general/prp_junk_s5.iff	0	-1732.068	17.94703	-2886.053	0	0	0.8253356	0		$|
-9645479	0	object/static/structure/general/prp_junk_s7.iff	0	-1729.35	17.30434	-2891.023	0	0	0.9553365	0		$|
-9645480	0	object/static/structure/general/prp_junk_s8.iff	0	-1732.07	18.62292	-2893.168	0.6229039	0	0.6619738	-0.2856769		$|
+3305398	0	object/static/structure/corellia/corl_imprv_bridge_insert_s02.iff	0	2034.2	3.546009	1604.102	-0.3847889	0	0.9229504	0.009229807		$|
+3305399	0	object/static/structure/corellia/corl_imprv_bridge_lg_s02.iff	0	2044.005	3.776205	1594.399	-0.3847889	0	0.9229504	0.009229809		$|
+9645455	0	object/static/structure/general/campfire_ash.iff	0	1560.161	40.36345	2023.478	0	0	1	0		$|
+9645456	0	object/static/flora/flora_bush_talus_razorcoil.iff	0	1558.233	40.35193	2023.208	-0.3755592	0	0.9267984	0		$|
+9645457	0	object/tangible/furniture/all/frn_all_rug_rectangle_large_style_01.iff	0	1562.089	40.25926	2023.12	0.08454799	0	0.9962901	0.006335003		$|
+9645466	0	object/static/structure/tatooine/debris_tatt_drum_storage_2.iff	0	1559.441	40.28671	2025.331	0.8277021	0	-0.561168	0		$|
+9645471	0	object/static/structure/general/trash_pile_s01.iff	0	315.9567	18.23726	1206.799	-0.1266349	0	0.9281386	0.3033413		$|
+9645473	0	object/static/structure/general/prp_junk_s1.iff	0	316.5863	18.29208	1206.91	-0.1266349	0	0.9281386	0.3033413		$|
+9645474	0	object/static/structure/general/prp_junk_s2.iff	0	314.4775	18.40042	1207.324	0.00296078	0	-0.01389109	0.2084389		$|
+9645475	0	object/static/structure/general/prp_junk_s3.iff	0	316.08	17.08058	1205.69	0	0	0.9286646	0		$|
+9645476	0	object/static/structure/general/prp_junk_s4.iff	0	319.45	17.37243	1205.948	0.04342362	0	0.7083176	0.2686705		$|
+9645477	0	object/static/structure/general/prp_junk_s5.iff	0	315.9323	17.94703	1209.947	0	0	0.8253356	0		$|
+9645479	0	object/static/structure/general/prp_junk_s7.iff	0	318.6503	17.30434	1204.977	0	0	0.9553365	0		$|
+9645480	0	object/static/structure/general/prp_junk_s8.iff	0	315.9299	18.62292	1202.832	0.6229039	0	0.6619738	-0.2856769		$|

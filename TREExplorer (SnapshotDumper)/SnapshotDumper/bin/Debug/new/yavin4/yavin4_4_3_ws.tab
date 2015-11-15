@@ -1,27 +1,27 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-468317	0	object/building/yavin/temple_blueleaf.iff	0	-830.0999	86.0519	-2056.052	-0.6480345	0	0.761611	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/yavin4/blue_leaf.iff|$|
+468317	0	object/building/yavin/temple_blueleaf.iff	0	1217.9	86.0519	2039.948	-0.6480345	0	0.761611	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/yavin4/blue_leaf.iff|$|
 468318	468317	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
 468319	468317	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
-4636973	468319	object/tangible/collection/rare_melee_mustafarian_modified_2h_obsidian_sword.iff	0	11.2205	-37.2728	-24.1498	0.3441986	0	0.6162519	0.3519967		$|
-9145383	468319	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	14.29531	-37.29759	14.34367	0	0	1	0		$|
-9145384	468319	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	-7.872647	-37.29756	-30.55494	0.7833269	0	0.62161	0		$|
-9765485	468319	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	9.565243	-37.2976	-24.92895	-0.6480358	0	0.76161	0		$|
-9765486	468319	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	-2.630873	-37.29758	-34.59869	-0.6480358	0	0.76161	0		$|
-3566216	0	object/static/structure/dantooine/dant_large_mudhut_no_flora_05m.iff	0	-14.25847	163.4513	-3919.035	0.804599	0	0.5938187	0		$|
-3566218	0	object/tangible/camp/camp_cot_s2.iff	0	-15.59186	163.53	-3914.261	0.7208307	0	-0.6931113	0		$|
-3566219	0	object/tangible/camp/camp_cot_s2.iff	0	-14.10078	163.5131	-3914.144	0.717356	0	-0.6967068	0		$|
-3566220	0	object/tangible/furniture/tatooine/frn_tato_table_small_style_01.iff	0	-14.47976	163.5225	-3919.648	0	0	1	0		$|
-3566221	0	object/tangible/furniture/tatooine/frn_tato_chair_cafe_style_01.iff	0	-14.09122	163.5023	-3919.267	0.9207506	0	-0.3901517	0		$|
-3566222	0	object/tangible/furniture/tatooine/frn_tato_chair_cafe_style_01.iff	0	-14.07979	163.5061	-3920.033	-0.3986093	0	0.9171208	0		$|
-3566223	0	object/tangible/furniture/tatooine/frn_tato_chair_cafe_style_01.iff	0	-14.86389	163.5545	-3920.012	0.3894183	0	0.921061	0		$|
-3566224	0	object/tangible/furniture/technical/couch_s01.iff	0	-19.57978	163.5696	-3918.767	0.6816393	0	0.7316885	0		$|
-3566225	0	object/tangible/furniture/technical/end_table_s01.iff	0	-19.37248	163.5659	-3919.947	-0.0299955	0	0.99955	0		$|
-3566226	0	object/tangible/furniture/technical/end_table_s01.iff	0	-19.57074	163.5536	-3917.565	0.9990232	0	0.04418918	0		$|
-3566227	0	object/tangible/loot/quest/lifeday_orb.iff	0	-19.38168	163.938	-3919.972	0	0	1	0		$|
-3566228	0	object/tangible/loot/quest/lifeday_orb.iff	0	-19.54365	163.9319	-3917.56	0	0	1	0		$|
-3566229	0	object/static/structure/dantooine/dant_rack_spears.iff	0	-16.70521	163.5683	-3923.225	0.3334872	0	0.9427546	0		$|
-3566230	0	object/static/structure/general/palette_supply_01.iff	0	-5.963767	163.3755	-3916.788	0.6131168	0	0.7899923	0		$|
-3566231	0	object/static/structure/general/palette_supply_02.iff	0	-9.447406	163.4687	-3926.424	0.4349655	0	0.9004471	0		$|
-3566232	0	object/static/vehicle/e3/landspeeder.iff	0	-14.50136	163.5372	-3910.3	-0.6779714	0	0.7350882	0		$|
-3566233	0	object/static/structure/nobuild/nobuild_32.iff	0	-4.077226	163.4829	-3922.204	0	0	1	0		$|
+4636973	468319	object/tangible/collection/rare_melee_mustafarian_modified_2h_obsidian_sword.iff	0	11.2205	2010.727	2023.85	0.3441986	0	0.6162519	0.3519967		$|
+9145383	468319	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	14.29531	2010.702	14.34367	0	0	1	0		$|
+9145384	468319	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	2040.127	2010.702	2017.445	0.7833269	0	0.62161	0		$|
+9765485	468319	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	9.565243	2010.702	2023.071	-0.6480358	0	0.76161	0		$|
+9765486	468319	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	2045.369	2010.702	2013.401	-0.6480358	0	0.76161	0		$|
+3566216	0	object/static/structure/dantooine/dant_large_mudhut_no_flora_05m.iff	0	2033.742	163.4513	176.9651	0.804599	0	0.5938187	0		$|
+3566218	0	object/tangible/camp/camp_cot_s2.iff	0	2032.408	163.53	181.7385	0.7208307	0	-0.6931113	0		$|
+3566219	0	object/tangible/camp/camp_cot_s2.iff	0	2033.899	163.5131	181.8557	0.717356	0	-0.6967068	0		$|
+3566220	0	object/tangible/furniture/tatooine/frn_tato_table_small_style_01.iff	0	2033.52	163.5225	176.3518	0	0	1	0		$|
+3566221	0	object/tangible/furniture/tatooine/frn_tato_chair_cafe_style_01.iff	0	2033.909	163.5023	176.7332	0.9207506	0	-0.3901517	0		$|
+3566222	0	object/tangible/furniture/tatooine/frn_tato_chair_cafe_style_01.iff	0	2033.92	163.5061	175.9666	-0.3986093	0	0.9171208	0		$|
+3566223	0	object/tangible/furniture/tatooine/frn_tato_chair_cafe_style_01.iff	0	2033.136	163.5545	175.9883	0.3894183	0	0.921061	0		$|
+3566224	0	object/tangible/furniture/technical/couch_s01.iff	0	2028.42	163.5696	177.2327	0.6816393	0	0.7316885	0		$|
+3566225	0	object/tangible/furniture/technical/end_table_s01.iff	0	2028.628	163.5659	176.0532	-0.0299955	0	0.99955	0		$|
+3566226	0	object/tangible/furniture/technical/end_table_s01.iff	0	2028.429	163.5536	178.4346	0.9990232	0	0.04418918	0		$|
+3566227	0	object/tangible/loot/quest/lifeday_orb.iff	0	2028.618	163.938	176.0283	0	0	1	0		$|
+3566228	0	object/tangible/loot/quest/lifeday_orb.iff	0	2028.456	163.9319	178.4404	0	0	1	0		$|
+3566229	0	object/static/structure/dantooine/dant_rack_spears.iff	0	2031.295	163.5683	172.7754	0.3334872	0	0.9427546	0		$|
+3566230	0	object/static/structure/general/palette_supply_01.iff	0	2042.036	163.3755	179.2124	0.6131168	0	0.7899923	0		$|
+3566231	0	object/static/structure/general/palette_supply_02.iff	0	2038.553	163.4687	169.5762	0.4349655	0	0.9004471	0		$|
+3566232	0	object/static/vehicle/e3/landspeeder.iff	0	2033.499	163.5372	185.7	-0.6779714	0	0.7350882	0		$|
+3566233	0	object/static/structure/nobuild/nobuild_32.iff	0	2043.923	163.4829	173.7964	0	0	1	0		$|

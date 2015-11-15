@@ -1,4 +1,4 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-7806062	0	object/static/structure/general/atst_debris_01.iff	0	6509.748	17.70053	-2013.04	0.8503198	0	0.5262665	0		$|
-7806064	0	object/static/structure/general/atst_destroyed.iff	0	6515.929	18.2625	-2013.892	0.8769155	0	-0.4030174	0.1093719		$|
+7806062	0	object/static/structure/general/atst_debris_01.iff	0	365.7476	17.70053	34.95959	0.8503198	0	0.5262665	0		$|
+7806064	0	object/static/structure/general/atst_destroyed.iff	0	371.9292	18.2625	34.10815	0.8769155	0	-0.4030174	0.1093719		$|

@@ -1,11 +1,11 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-6595497	0	object/static/structure/general/prp_junk_s2.iff	0	3514.195	91.99951	5479.333	0.03295546	0	0.7508667	0.65856		$|
-6595498	0	object/static/structure/general/prp_junk_s3.iff	0	3506.841	91.34734	5476.295	0.001888559	0	0.7316522	-0.6816049		$|
-6595499	0	object/static/structure/general/trash_pile_s01.iff	0	3510.965	91.96596	5479.835	0	0	1	0		$|
-6595500	0	object/static/structure/general/trash_pile_s01.iff	0	3511.438	92.00339	5479.05	0.4304579	0	0.9026107	0		$|
-6595501	0	object/static/structure/general/trash_pile_s01.iff	0	3511.747	91.94458	5480.296	0.7277256	0	-0.6858685	0		$|
-9685952	0	object/static/structure/general/debris_deathstar_small_chunk.iff	0	3496.47	92.01103	5482.499	0	0	1	0		$|
-9685953	0	object/static/structure/general/prp_junk_s1.iff	0	3506.552	91.61697	5469.419	-0.606683	0	0.7817019	-0.114958		$|
-9685954	0	object/static/structure/general/prp_junk_s7.iff	0	3521.174	94.64211	5485.565	-0.237796	0	-0.4192	0.677071		$|
-9685955	0	object/static/structure/general/debris_deathstar_large_tube.iff	0	3507.587	91.95213	5484.912	0.4244739	0	0.135609	0.852264		$|
+6595497	0	object/static/structure/general/prp_junk_s2.iff	0	1466.195	91.99951	1383.333	0.03295546	0	0.7508667	0.65856		$|
+6595498	0	object/static/structure/general/prp_junk_s3.iff	0	1458.841	91.34734	1380.295	0.001888559	0	0.7316522	-0.6816049		$|
+6595499	0	object/static/structure/general/trash_pile_s01.iff	0	1462.965	91.96596	1383.835	0	0	1	0		$|
+6595500	0	object/static/structure/general/trash_pile_s01.iff	0	1463.438	92.00339	1383.05	0.4304579	0	0.9026107	0		$|
+6595501	0	object/static/structure/general/trash_pile_s01.iff	0	1463.747	91.94458	1384.296	0.7277256	0	-0.6858685	0		$|
+9685952	0	object/static/structure/general/debris_deathstar_small_chunk.iff	0	1448.47	92.01103	1386.499	0	0	1	0		$|
+9685953	0	object/static/structure/general/prp_junk_s1.iff	0	1458.552	91.61697	1373.419	-0.606683	0	0.7817019	-0.114958		$|
+9685954	0	object/static/structure/general/prp_junk_s7.iff	0	1473.174	94.64211	1389.565	-0.237796	0	-0.4192	0.677071		$|
+9685955	0	object/static/structure/general/debris_deathstar_large_tube.iff	0	1459.587	91.95213	1388.912	0.4244739	0	0.135609	0.852264		$|

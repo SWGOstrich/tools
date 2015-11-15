@@ -1,8 +1,8 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-8795585	0	object/static/structure/tatooine/skeleton_krayt_foot.iff	0	3395.542	2.771245	-6587.524	0.7206197	0	0.5613549	0.2627752		$|
-8795586	0	object/static/structure/tatooine/skeleton_krayt_ribcage.iff	0	3387.636	6.386071	-6585.694	0.9473962	0	0.3200635	0		$|
-8795587	0	object/static/structure/general/skeleton_human_headandbody.iff	0	3387.034	7.126681	-6585.595	0	0	1	0		$|
-8795588	0	object/static/structure/general/skeleton_human_head.iff	0	3389.162	7.28611	-6586.167	-0.5083209	0	0.8290923	-0.1217041		$|
-8795589	0	object/static/structure/general/skeleton_ithorian_headandbody.iff	0	3387.792	7.032957	-6587.977	0	0	1	0		$|
-8795597	0	object/static/structure/tatooine/skeleton_greater_krayt_head.iff	0	3391.971	4.75984	-6592.188	0.9372576	0	0.2533711	0.1203995		$|
+8795585	0	object/static/structure/tatooine/skeleton_krayt_foot.iff	0	1347.542	2.771245	1604.476	0.7206197	0	0.5613549	0.2627752		$|
+8795586	0	object/static/structure/tatooine/skeleton_krayt_ribcage.iff	0	1339.636	6.386071	1606.306	0.9473962	0	0.3200635	0		$|
+8795587	0	object/static/structure/general/skeleton_human_headandbody.iff	0	1339.034	7.126681	1606.405	0	0	1	0		$|
+8795588	0	object/static/structure/general/skeleton_human_head.iff	0	1341.162	7.28611	1605.833	-0.5083209	0	0.8290923	-0.1217041		$|
+8795589	0	object/static/structure/general/skeleton_ithorian_headandbody.iff	0	1339.792	7.032957	1604.023	0	0	1	0		$|
+8795597	0	object/static/structure/tatooine/skeleton_greater_krayt_head.iff	0	1343.971	4.75984	1599.812	0.9372576	0	0.2533711	0.1203995		$|

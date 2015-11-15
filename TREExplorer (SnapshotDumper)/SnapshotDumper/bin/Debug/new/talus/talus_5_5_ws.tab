@@ -14,10 +14,10 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 7955557	7955551	object/cell/cell.iff	6	0	0	0	0	8.407791E-45	1	0		$|
 7955558	7955551	object/cell/cell.iff	7	0	0	0	0	9.809089E-45	1	0		$|
 7955574	7955551	object/cell/cell.iff	8	0	0	0	0	1.121039E-44	1	0		$|
-4868044	7955574	object/tangible/collection/rare_rifle_darksting_assassin.iff	0	75.69291	-15.09151	68.02319	0.1238183	0	0.7051217	0.1231643		$|
-7955613	7955574	object/tangible/container/loot/placable_loot_crate.iff	0	83.53349	-14.26074	71.96399	0	0	1	0		$|
+4868044	7955574	object/tangible/collection/rare_rifle_darksting_assassin.iff	0	75.69291	2032.908	68.02319	0.1238183	0	0.7051217	0.1231643		$|
+7955613	7955574	object/tangible/container/loot/placable_loot_crate.iff	0	83.53349	2033.739	71.96399	0	0	1	0		$|
 7955575	7955551	object/cell/cell.iff	9	0	0	0	0	1.261169E-44	1	0		$|
-7955606	7955575	object/tangible/container/loot/placable_loot_crate.iff	0	-43.83284	-14	75.94982	0.7345478	0	0.6785569	0		$|
+7955606	7955575	object/tangible/container/loot/placable_loot_crate.iff	0	2004.167	2034	75.94982	0.7345478	0	0.6785569	0		$|
 7955576	7955551	object/cell/cell.iff	10	0	0	0	0	1.401298E-44	1	0		$|
 7955577	0	object/static/structure/general/cave_wall_damprock_style_01.iff	0	1371.253	36.4907	1488.252	-0.05137889	0	0.7932099	-0.6030013		$|
 7955578	0	object/static/structure/general/cave_wall_damprock_style_01.iff	0	1365.273	33.4114	1484.182	-0.06867333	0	0.7484752	-0.6519701		$|

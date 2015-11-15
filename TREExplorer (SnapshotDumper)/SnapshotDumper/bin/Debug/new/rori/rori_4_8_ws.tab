@@ -1,9 +1,9 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-9715565	0	object/static/structure/naboo/nboo_imprv_metal_fence_wall_sml_s02.iff	0	-1703.545	75.6598	6147.533	-0.7071051	0	0.7071084	0		$|
-9715567	0	object/static/structure/naboo/nboo_imprv_metal_fence_wall_sml_s02.iff	0	-1715.906	75.69664	6147.601	1	0	3.200127E-08	0		$|
-9715568	0	object/static/structure/naboo/nboo_imprv_metal_fence_wall_sml_s02.iff	0	-1709.771	75.66019	6147.546	1	0	3.200127E-08	0		$|
-9715585	0	object/tangible/gravestone/gravestone04.iff	0	-1712.211	75.34731	6146.374	-0.7068243	0	0.707389	0		$|
-9715589	0	object/tangible/gravestone/gravestone04.iff	0	-1706.15	75.22825	6144.52	-0.7068218	0	0.7073912	0		$|
-9715591	0	object/tangible/gravestone/gravestone03.iff	0	-1705.603	75.30482	6146.346	-0.4123207	0	0.9110388	0		$|
-9715592	0	object/tangible/gravestone/gravestone03.iff	0	-1712.145	75.31998	6144.674	-0.7068251	0	0.7073883	0		$|
+9715565	0	object/static/structure/naboo/nboo_imprv_metal_fence_wall_sml_s02.iff	0	344.455	75.6598	3.532715	-0.7071051	0	0.7071084	0		$|
+9715567	0	object/static/structure/naboo/nboo_imprv_metal_fence_wall_sml_s02.iff	0	332.0936	75.69664	3.600586	1	0	3.200127E-08	0		$|
+9715568	0	object/static/structure/naboo/nboo_imprv_metal_fence_wall_sml_s02.iff	0	338.229	75.66019	3.545898	1	0	3.200127E-08	0		$|
+9715585	0	object/tangible/gravestone/gravestone04.iff	0	335.7887	75.34731	2.373535	-0.7068243	0	0.707389	0		$|
+9715589	0	object/tangible/gravestone/gravestone04.iff	0	341.8496	75.22825	0.5200195	-0.7068218	0	0.7073912	0		$|
+9715591	0	object/tangible/gravestone/gravestone03.iff	0	342.397	75.30482	2.346191	-0.4123207	0	0.9110388	0		$|
+9715592	0	object/tangible/gravestone/gravestone03.iff	0	335.8551	75.31998	0.6738281	-0.7068251	0	0.7073883	0		$|

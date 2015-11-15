@@ -1,7 +1,7 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-9705465	0	object/building/endor/endor_lake_platform_cap.iff	0	1994.205	12.46587	-5295.623	-0.254921	0	0.9526019	0.1146013		$|
-9705468	0	object/building/endor/endor_forest_hut.iff	0	1983.14	13.44816	-5291.306	0.9594374	0	0.2819216	0		$|
-9705470	0	object/building/endor/endor_forest_hut.iff	0	2032.59	13.85181	-5300.271	0.9065341	0	-0.4221326	0		$|
-9705471	0	object/static/structure/dantooine/dant_cooking_stone.iff	0	2036.064	13.30535	-5305.723	0	0	0.9701373	0.2425563		$|
-9705472	0	object/building/endor/endor_lake_hut.iff	0	1980.93	14.21324	-5275.205	-0.008225651	0	0.9911619	-0.1094696		$|
+9705465	0	object/building/endor/endor_lake_platform_cap.iff	0	1994.205	12.46587	848.377	-0.254921	0	0.9526019	0.1146013		$|
+9705468	0	object/building/endor/endor_forest_hut.iff	0	1983.14	13.44816	852.6938	0.9594374	0	0.2819216	0		$|
+9705470	0	object/building/endor/endor_forest_hut.iff	0	2032.59	13.85181	843.729	0.9065341	0	-0.4221326	0		$|
+9705471	0	object/static/structure/dantooine/dant_cooking_stone.iff	0	2036.064	13.30535	838.2773	0	0	0.9701373	0.2425563		$|
+9705472	0	object/building/endor/endor_lake_hut.iff	0	1980.93	14.21324	868.7954	-0.008225651	0	0.9911619	-0.1094696		$|

@@ -1,15 +1,15 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-1622455	0	object/static/vehicle/player_shuttle.iff	0	-6669.512	28.83899	-2263.545	0	0	1	0		$|
-7146338	0	object/static/structure/general/allum_mine_car_s01.iff	0	-6674.159	28.91482	-2253.25	-0.5675769	0	0.8213599	-0.01856675		$|
-7146378	0	object/static/structure/general/palette_supply_01.iff	0	-6679.402	28.83345	-2245.958	0.2404682	0	0.9682985	-0.06297988		$|
-7146379	0	object/static/structure/general/palette_supply_02.iff	0	-6679.615	28.63381	-2252.183	0.009434528	0	0.9983826	-0.01053392		$|
-7146380	0	object/static/structure/general/palette_supply_03.iff	0	-6684.386	28.33312	-2251.6	-0.3829264	0	0.9224646	0.01849956		$|
-7146381	0	object/static/structure/general/palette_supply_04.iff	0	-6675.214	28.9013	-2256.52	0.3018168	0	0.9529205	0.009287937		$|
-7146382	0	object/static/structure/general/palette_supply_05.iff	0	-6675.546	28.88595	-2248.646	0.0009190696	0	0.9994379	0.01071947		$|
-8495471	0	object/static/structure/dantooine/dant_boundary_post.iff	0	-6205.815	179.5826	-3818.092	0	0	1	0		$|
-8495472	0	object/static/structure/dantooine/dant_skull_lizard.iff	0	-6205.888	182.4564	-3817.669	0	0	0.9921976	0.1246748		$|
-8495473	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	-6205.916	177.2217	-3817.349	0	0	1	0		$|
-8495474	0	object/static/structure/general/debris_deathstar_turbolaser.iff	0	-6343.662	78.96764	-3097.721	0.9644855	0	0.2164255	-0.08947185		$|
-8495477	0	object/static/structure/dathomir/mtn_clan_tent_house_s01.iff	0	-6415.818	49.00239	-2231.383	0.0003247696	0	0.9978758	-0.06495342		$|
-8495478	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	-6416.093	48.43258	-2232.116	0	0	1	0		$|
+1622455	0	object/static/vehicle/player_shuttle.iff	0	1522.488	28.83899	1832.455	0	0	1	0		$|
+7146338	0	object/static/structure/general/allum_mine_car_s01.iff	0	1517.841	28.91482	1842.75	-0.5675769	0	0.8213599	-0.01856675		$|
+7146378	0	object/static/structure/general/palette_supply_01.iff	0	1512.598	28.83345	1850.042	0.2404682	0	0.9682985	-0.06297988		$|
+7146379	0	object/static/structure/general/palette_supply_02.iff	0	1512.385	28.63381	1843.817	0.009434528	0	0.9983826	-0.01053392		$|
+7146380	0	object/static/structure/general/palette_supply_03.iff	0	1507.614	28.33312	1844.4	-0.3829264	0	0.9224646	0.01849956		$|
+7146381	0	object/static/structure/general/palette_supply_04.iff	0	1516.786	28.9013	1839.48	0.3018168	0	0.9529205	0.009287937		$|
+7146382	0	object/static/structure/general/palette_supply_05.iff	0	1516.454	28.88595	1847.354	0.0009190696	0	0.9994379	0.01071947		$|
+8495471	0	object/static/structure/dantooine/dant_boundary_post.iff	0	1986.185	179.5826	277.9082	0	0	1	0		$|
+8495472	0	object/static/structure/dantooine/dant_skull_lizard.iff	0	1986.112	182.4564	278.3311	0	0	0.9921976	0.1246748		$|
+8495473	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	1986.084	177.2217	278.6509	0	0	1	0		$|
+8495474	0	object/static/structure/general/debris_deathstar_turbolaser.iff	0	1848.338	78.96764	998.2791	0.9644855	0	0.2164255	-0.08947185		$|
+8495477	0	object/static/structure/dathomir/mtn_clan_tent_house_s01.iff	0	1776.182	49.00239	1864.617	0.0003247696	0	0.9978758	-0.06495342		$|
+8495478	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	1775.907	48.43258	1863.884	0	0	1	0		$|

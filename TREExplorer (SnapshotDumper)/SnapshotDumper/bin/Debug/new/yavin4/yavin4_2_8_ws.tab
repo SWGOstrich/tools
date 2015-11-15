@@ -1,13 +1,13 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-8545454	0	object/static/structure/general/debris_deathstar_conduit.iff	0	-5695.605	97.14964	6712.791	0.1143503	0	0.8288947	-0.5351649		$|
-8545457	0	object/static/structure/dantooine/dant_jedi_wall_2.iff	0	-5458.553	265.3511	7656.249	0.2126227	0	0.9764695	0.01313125		$|
-8545458	0	object/static/structure/general/skeleton_human_headandbody.iff	0	-5458.576	266.3137	7652.945	-0.06656034	0	-0.217099	0.1302959		$|
-8545459	0	object/static/structure/general/skeleton_human_body.iff	0	-5456.33	266.4204	7656.139	0.8800732	0	-0.4494543	-0.1487921		$|
-8545460	0	object/static/structure/general/skeleton_human_head.iff	0	-5456.202	266.3588	7656.456	0.8288361	0	0.1791909	0.3300875		$|
-8845410	0	object/static/structure/dantooine/dant_jedi_temple_pillar.iff	0	-4991.559	216.0578	6493.909	-0.7071063	0	0.7071072	0		$|
-8845411	0	object/static/structure/dantooine/dant_jedi_wall_1.iff	0	-4991.134	217.4996	6502.42	0.9999999	0	-2.419532E-07	0		$|
-8845412	0	object/static/structure/dantooine/dant_jedi_wall_2.iff	0	-4991.491	214.3339	6489.316	0.9999999	0	-2.419532E-07	0		$|
-8845414	0	object/static/structure/dantooine/dant_totem_pole.iff	0	-4995.955	214.2235	6495.743	0	0	1	0		$|
-8905398	0	object/static/structure/dantooine/dant_jedi_temple_pillar_med.iff	0	-4258.111	190.4279	6184.591	-0.02196057	0	0.9313835	0.3612494		$|
-8905399	0	object/static/structure/dantooine/dant_jedi_temple_pillar_fallen.iff	0	-4257.464	194.2645	6193.276	0.6925094	0	-0.7053383	0.1226354		$|
+8545454	0	object/static/structure/general/debris_deathstar_conduit.iff	0	448.395	97.14964	568.791	0.1143503	0	0.8288947	-0.5351649		$|
+8545457	0	object/static/structure/dantooine/dant_jedi_wall_2.iff	0	685.4468	265.3511	1512.249	0.2126227	0	0.9764695	0.01313125		$|
+8545458	0	object/static/structure/general/skeleton_human_headandbody.iff	0	685.4238	266.3137	1508.945	-0.06656034	0	-0.217099	0.1302959		$|
+8545459	0	object/static/structure/general/skeleton_human_body.iff	0	687.6704	266.4204	1512.139	0.8800732	0	-0.4494543	-0.1487921		$|
+8545460	0	object/static/structure/general/skeleton_human_head.iff	0	687.7979	266.3588	1512.456	0.8288361	0	0.1791909	0.3300875		$|
+8845410	0	object/static/structure/dantooine/dant_jedi_temple_pillar.iff	0	1152.441	216.0578	349.9087	-0.7071063	0	0.7071072	0		$|
+8845411	0	object/static/structure/dantooine/dant_jedi_wall_1.iff	0	1152.866	217.4996	358.4199	0.9999999	0	-2.419532E-07	0		$|
+8845412	0	object/static/structure/dantooine/dant_jedi_wall_2.iff	0	1152.509	214.3339	345.3164	0.9999999	0	-2.419532E-07	0		$|
+8845414	0	object/static/structure/dantooine/dant_totem_pole.iff	0	1148.045	214.2235	351.7427	0	0	1	0		$|
+8905398	0	object/static/structure/dantooine/dant_jedi_temple_pillar_med.iff	0	1885.889	190.4279	40.59131	-0.02196057	0	0.9313835	0.3612494		$|
+8905399	0	object/static/structure/dantooine/dant_jedi_temple_pillar_fallen.iff	0	1886.536	194.2645	49.27588	0.6925094	0	-0.7053383	0.1226354		$|

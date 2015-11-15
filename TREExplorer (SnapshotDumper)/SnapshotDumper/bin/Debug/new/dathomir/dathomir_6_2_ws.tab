@@ -1,10 +1,10 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-9725957	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	2993.15	87.59624	-5139.587	0.2740964	0	0.9020297	0.3190812	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_bane_back_spider_plains.iff|$|
-9725958	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	2992.034	89.38485	-5141.102	0.9022478	0	-0.2733776	0.09721211		$|
-9725959	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	2987.308	76.82581	-5152.792	-0.4353447	0	0.8362185	0.1601152		$|
-9725960	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	2989.468	77.07586	-5154.21	0.8358718	0	0.4360111	0.2926626		$|
-9725961	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	2996.003	84.78235	-5152.952	0.111374	0	0.4025278	0.8719261		$|
-9725962	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	2995.205	88.40456	-5152.016	0.6887976	0	0.1869507	-0.2156204		$|
-9725963	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	2997.968	77.51206	-5136.62	0.8314701	0	-0.4443466	0.03302911		$|
-9725964	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	2999.945	76.19289	-5135.58	0.4436868	0	0.8318218	0.3318223		$|
+9725957	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	945.1497	87.59624	1004.413	0.2740964	0	0.9020297	0.3190812	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_bane_back_spider_plains.iff|$|
+9725958	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	944.0339	89.38485	1002.898	0.9022478	0	-0.2733776	0.09721211		$|
+9725959	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	939.3083	76.82581	991.2075	-0.4353447	0	0.8362185	0.1601152		$|
+9725960	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	941.4678	77.07586	989.79	0.8358718	0	0.4360111	0.2926626		$|
+9725961	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	948.0027	84.78235	991.0479	0.111374	0	0.4025278	0.8719261		$|
+9725962	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	947.2046	88.40456	991.9844	0.6887976	0	0.1869507	-0.2156204		$|
+9725963	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	949.9675	77.51206	1007.38	0.8314701	0	-0.4443466	0.03302911		$|
+9725964	0	object/static/structure/dathomir/mtn_clan_pillar_s01.iff	0	951.9451	76.19289	1008.42	0.4436868	0	0.8318218	0.3318223		$|

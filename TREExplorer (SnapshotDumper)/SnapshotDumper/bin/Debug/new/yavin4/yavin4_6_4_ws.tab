@@ -1,4 +1,4 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-8995487	0	object/static/structure/naboo/gungan_wall_ruined_lg_s01.iff	0	3898.089	203.0315	-877.996	0.1741082	0	0.9847265	0		$|
-8995488	0	object/static/flora/flora_decd_scorched_tallbirch_broke.iff	0	3906.152	203.9063	-883.2051	0.05512615	0	0.7216685	0.1092714		$|
+8995487	0	object/static/structure/naboo/gungan_wall_ruined_lg_s01.iff	0	1850.089	203.0315	1170.004	0.1741082	0	0.9847265	0		$|
+8995488	0	object/static/flora/flora_decd_scorched_tallbirch_broke.iff	0	1858.152	203.9063	1164.795	0.05512615	0	0.7216685	0.1092714		$|

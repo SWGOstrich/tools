@@ -1,17 +1,17 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-978361	0	object/static/item/item_bottle_pear.iff	0	7192.888	491.0468	3232.077	0	0	0.7002848	0		$|
-978362	0	object/static/item/item_bottle_tall.iff	0	7192.759	490.8774	3231.385	0	0	0.7350879	0		$|
-978363	0	object/static/item/item_bowl_plain.iff	0	7193.503	491.1135	3232.19	0	0	0.004203486	0.9999912		$|
-978364	0	object/static/item/item_bread_loaf.iff	0	7189.079	490.654	3229.215	0	0	1	0		$|
-978366	0	object/static/structure/general/skeleton_human_headandbody.iff	0	7191.982	490.6951	3229.874	0	0	1	0		$|
-978369	0	object/static/item/item_food_vegetable_s01.iff	0	7192.626	490.6002	3225.892	0	0	1	0		$|
-978370	0	object/static/item/item_jar_berries.iff	0	7195.025	490.559	3227.118	0	0	0.8020958	0		$|
-978371	0	object/static/item/item_jar_funk.iff	0	7194.793	490.5193	3226.727	0	0	0.7384686	-0.6742879		$|
-9725831	0	object/static/structure/dantooine/dant_large_rock_hut.iff	0	7186.086	490.8175	3228.706	0.7685634	0	-0.6397737	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_bull_rancor_camp.iff|$|
-9725835	0	object/static/structure/dantooine/dant_hide_tanning_s01.iff	0	7193.42	490.9803	3224.411	-0.479835	0	0.5653055	0.5999667		$|
-9725836	0	object/static/structure/dantooine/dant_hide_tanning_s02.iff	0	7194.918	490.665	3222.958	0.3175958	0	0.761782	-0.5211632		$|
-9725844	0	object/static/structure/dantooine/dant_rack_spears.iff	0	7187.655	491.0643	3226.364	-0.2199294	0	0.6498148	0.7197797		$|
-9725846	0	object/static/structure/dantooine/dant_skull_thune.iff	0	7184.311	490.618	3229.516	0.7096957	0	0.5160463	0.258898		$|
-9725848	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	7186.693	488.9251	3228.737	0	0	1	0		$|
-9725853	0	object/static/structure/general/campfire_ash.iff	0	7195.452	490.9995	3230.553	0	0	1	0		$|
+978361	0	object/static/item/item_bottle_pear.iff	0	1048.888	491.0468	1184.077	0	0	0.7002848	0		$|
+978362	0	object/static/item/item_bottle_tall.iff	0	1048.759	490.8774	1183.385	0	0	0.7350879	0		$|
+978363	0	object/static/item/item_bowl_plain.iff	0	1049.503	491.1135	1184.19	0	0	0.004203486	0.9999912		$|
+978364	0	object/static/item/item_bread_loaf.iff	0	1045.079	490.654	1181.215	0	0	1	0		$|
+978366	0	object/static/structure/general/skeleton_human_headandbody.iff	0	1047.982	490.6951	1181.874	0	0	1	0		$|
+978369	0	object/static/item/item_food_vegetable_s01.iff	0	1048.626	490.6002	1177.892	0	0	1	0		$|
+978370	0	object/static/item/item_jar_berries.iff	0	1051.025	490.559	1179.118	0	0	0.8020958	0		$|
+978371	0	object/static/item/item_jar_funk.iff	0	1050.793	490.5193	1178.727	0	0	0.7384686	-0.6742879		$|
+9725831	0	object/static/structure/dantooine/dant_large_rock_hut.iff	0	1042.086	490.8175	1180.706	0.7685634	0	-0.6397737	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_bull_rancor_camp.iff|$|
+9725835	0	object/static/structure/dantooine/dant_hide_tanning_s01.iff	0	1049.42	490.9803	1176.411	-0.479835	0	0.5653055	0.5999667		$|
+9725836	0	object/static/structure/dantooine/dant_hide_tanning_s02.iff	0	1050.918	490.665	1174.958	0.3175958	0	0.761782	-0.5211632		$|
+9725844	0	object/static/structure/dantooine/dant_rack_spears.iff	0	1043.655	491.0643	1178.364	-0.2199294	0	0.6498148	0.7197797		$|
+9725846	0	object/static/structure/dantooine/dant_skull_thune.iff	0	1040.311	490.618	1181.516	0.7096957	0	0.5160463	0.258898		$|
+9725848	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	1042.693	488.9251	1180.737	0	0	1	0		$|
+9725853	0	object/static/structure/general/campfire_ash.iff	0	1051.452	490.9995	1182.553	0	0	1	0		$|

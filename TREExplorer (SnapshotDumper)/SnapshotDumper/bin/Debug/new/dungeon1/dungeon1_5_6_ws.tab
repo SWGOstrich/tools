@@ -1,6 +1,6 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-1946298	0	object/building/general/space_dungeon_corellian_corvette_imperial.iff	0	1400	0	2300	0	0	1	0		$|
+1946298	0	object/building/general/space_dungeon_corellian_corvette_imperial.iff	0	1400	0	252	0	0	1	0		$|
 1946299	1946298	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
 1946300	1946298	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
 1946301	1946298	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
@@ -67,7 +67,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1946362	1946298	object/cell/cell.iff	64	0	0	0	0	8.96831E-44	1	0		$|
 1946363	1946298	object/cell/cell.iff	65	0	0	0	0	9.10844E-44	1	0		$|
 1946364	1946298	object/cell/cell.iff	66	0	0	0	0	9.24857E-44	1	0		$|
-1946365	0	object/building/general/space_dungeon_corellian_corvette_imperial.iff	0	1250	0	2300	0	0	1	0		$|
+1946365	0	object/building/general/space_dungeon_corellian_corvette_imperial.iff	0	1250	0	252	0	0	1	0		$|
 1946366	1946365	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
 1946367	1946365	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
 1946368	1946365	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
@@ -134,7 +134,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1946429	1946365	object/cell/cell.iff	64	0	0	0	0	8.96831E-44	1	0		$|
 1946430	1946365	object/cell/cell.iff	65	0	0	0	0	9.10844E-44	1	0		$|
 1946431	1946365	object/cell/cell.iff	66	0	0	0	0	9.24857E-44	1	0		$|
-1946633	0	object/building/general/space_dungeon_corellian_corvette_imperial.iff	0	1900	0	2300	0	0	1	0		$|
+1946633	0	object/building/general/space_dungeon_corellian_corvette_imperial.iff	0	1900	0	252	0	0	1	0		$|
 1946634	1946633	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
 1946635	1946633	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
 1946636	1946633	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
@@ -201,7 +201,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1946697	1946633	object/cell/cell.iff	64	0	0	0	0	8.96831E-44	1	0		$|
 1946698	1946633	object/cell/cell.iff	65	0	0	0	0	9.10844E-44	1	0		$|
 1946699	1946633	object/cell/cell.iff	66	0	0	0	0	9.24857E-44	1	0		$|
-1946968	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	1400	0	3200	0	0	1	0		$|
+1946968	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	1400	0	1152	0	0	1	0		$|
 1946969	1946968	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
 1946970	1946968	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
 1946971	1946968	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
@@ -268,7 +268,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1947032	1946968	object/cell/cell.iff	64	0	0	0	0	8.96831E-44	1	0		$|
 1947033	1946968	object/cell/cell.iff	65	0	0	0	0	9.10844E-44	1	0		$|
 1947034	1946968	object/cell/cell.iff	66	0	0	0	0	9.24857E-44	1	0		$|
-1947035	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	1400	0	3600	0	0	1	0		$|
+1947035	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	1400	0	1552	0	0	1	0		$|
 1947036	1947035	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
 1947037	1947035	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
 1947038	1947035	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
@@ -335,7 +335,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1947099	1947035	object/cell/cell.iff	64	0	0	0	0	8.96831E-44	1	0		$|
 1947100	1947035	object/cell/cell.iff	65	0	0	0	0	9.10844E-44	1	0		$|
 1947101	1947035	object/cell/cell.iff	66	0	0	0	0	9.24857E-44	1	0		$|
-1947102	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	1250	0	3600	0	0	1	0		$|
+1947102	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	1250	0	1552	0	0	1	0		$|
 1947103	1947102	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
 1947104	1947102	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
 1947105	1947102	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
@@ -402,7 +402,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1947166	1947102	object/cell/cell.iff	64	0	0	0	0	8.96831E-44	1	0		$|
 1947167	1947102	object/cell/cell.iff	65	0	0	0	0	9.10844E-44	1	0		$|
 1947168	1947102	object/cell/cell.iff	66	0	0	0	0	9.24857E-44	1	0		$|
-1947169	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	1900	0	3200	0	0	1	0		$|
+1947169	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	1900	0	1152	0	0	1	0		$|
 1947170	1947169	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
 1947171	1947169	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
 1947172	1947169	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
@@ -469,7 +469,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1947233	1947169	object/cell/cell.iff	64	0	0	0	0	8.96831E-44	1	0		$|
 1947234	1947169	object/cell/cell.iff	65	0	0	0	0	9.10844E-44	1	0		$|
 1947235	1947169	object/cell/cell.iff	66	0	0	0	0	9.24857E-44	1	0		$|
-1947370	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	1900	0	3600	0	0	1	0		$|
+1947370	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	1900	0	1552	0	0	1	0		$|
 1947371	1947370	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
 1947372	1947370	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
 1947373	1947370	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
@@ -536,7 +536,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1947434	1947370	object/cell/cell.iff	64	0	0	0	0	8.96831E-44	1	0		$|
 1947435	1947370	object/cell/cell.iff	65	0	0	0	0	9.10844E-44	1	0		$|
 1947436	1947370	object/cell/cell.iff	66	0	0	0	0	9.24857E-44	1	0		$|
-4336330	0	object/building/general/space_dungeon_corellian_corvette_imperial.iff	0	750	0	2300	0	0	1	0		$|
+4336330	0	object/building/general/space_dungeon_corellian_corvette_imperial.iff	0	750	0	252	0	0	1	0		$|
 4336331	4336330	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
 4336332	4336330	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
 4336333	4336330	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
@@ -603,7 +603,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 4336394	4336330	object/cell/cell.iff	64	0	0	0	0	8.96831E-44	1	0		$|
 4336395	4336330	object/cell/cell.iff	65	0	0	0	0	9.10844E-44	1	0		$|
 4336396	4336330	object/cell/cell.iff	66	0	0	0	0	9.24857E-44	1	0		$|
-4336397	0	object/building/general/space_dungeon_corellian_corvette_imperial.iff	0	600	0	2300	0	0	1	0		$|
+4336397	0	object/building/general/space_dungeon_corellian_corvette_imperial.iff	0	600	0	252	0	0	1	0		$|
 4336398	4336397	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
 4336399	4336397	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
 4336400	4336397	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
@@ -670,7 +670,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 4336461	4336397	object/cell/cell.iff	64	0	0	0	0	8.96831E-44	1	0		$|
 4336462	4336397	object/cell/cell.iff	65	0	0	0	0	9.10844E-44	1	0		$|
 4336463	4336397	object/cell/cell.iff	66	0	0	0	0	9.24857E-44	1	0		$|
-4336531	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	600	0	3200	0	0	1	0		$|
+4336531	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	600	0	1152	0	0	1	0		$|
 4336532	4336531	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
 4336533	4336531	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
 4336534	4336531	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
@@ -737,7 +737,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 4336595	4336531	object/cell/cell.iff	64	0	0	0	0	8.96831E-44	1	0		$|
 4336596	4336531	object/cell/cell.iff	65	0	0	0	0	9.10844E-44	1	0		$|
 4336597	4336531	object/cell/cell.iff	66	0	0	0	0	9.24857E-44	1	0		$|
-4336598	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	750	0	3200	0	0	1	0		$|
+4336598	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	750	0	1152	0	0	1	0		$|
 4336599	4336598	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
 4336600	4336598	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
 4336601	4336598	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
@@ -804,7 +804,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 4336662	4336598	object/cell/cell.iff	64	0	0	0	0	8.96831E-44	1	0		$|
 4336663	4336598	object/cell/cell.iff	65	0	0	0	0	9.10844E-44	1	0		$|
 4336664	4336598	object/cell/cell.iff	66	0	0	0	0	9.24857E-44	1	0		$|
-4336665	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	750	0	3600	0	0	1	0		$|
+4336665	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	750	0	1552	0	0	1	0		$|
 4336666	4336665	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
 4336667	4336665	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
 4336668	4336665	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
@@ -871,7 +871,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 4336729	4336665	object/cell/cell.iff	64	0	0	0	0	8.96831E-44	1	0		$|
 4336730	4336665	object/cell/cell.iff	65	0	0	0	0	9.10844E-44	1	0		$|
 4336731	4336665	object/cell/cell.iff	66	0	0	0	0	9.24857E-44	1	0		$|
-4336732	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	600	0	3600	0	0	1	0		$|
+4336732	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	600	0	1552	0	0	1	0		$|
 4336733	4336732	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
 4336734	4336732	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
 4336735	4336732	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
@@ -938,7 +938,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 4336796	4336732	object/cell/cell.iff	64	0	0	0	0	8.96831E-44	1	0		$|
 4336797	4336732	object/cell/cell.iff	65	0	0	0	0	9.10844E-44	1	0		$|
 4336798	4336732	object/cell/cell.iff	66	0	0	0	0	9.24857E-44	1	0		$|
-4336799	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	1250	0	3200	0	0	1	0		$|
+4336799	0	object/building/general/space_dungeon_corellian_corvette_rebel.iff	0	1250	0	1152	0	0	1	0		$|
 4336800	4336799	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
 4336801	4336799	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
 4336802	4336799	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|

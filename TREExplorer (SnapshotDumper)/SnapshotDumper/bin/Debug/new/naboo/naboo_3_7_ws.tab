@@ -1,18 +1,18 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-5775558	0	object/static/item/item_bowl_shallow.iff	0	-3974.587	-135.5755	4387.458	0.9702237	0	-0.2422107	0		$|
-5775565	0	object/static/item/item_bowl_plain.iff	0	-3975.596	-135.583	4386.313	-0.3969301	0	0.9178488	0		$|
-6645865	0	object/static/structure/general/campfire_fresh.iff	0	-3976.602	-135.4651	4388.974	-0.1839465	0	0.9829363	0		$|
-8305387	0	object/building/endor/endor_lake_walkway_square.iff	0	-3976.585	-145.5778	4387.935	0	0	1	0		$|
-8305388	0	object/static/structure/dantooine/dant_fence_8m.iff	0	-3976.745	-137.3514	4386.462	0	0	0.9944926	0.1048071		$|
-8305389	0	object/building/endor/endor_tiki_torch.iff	0	-3972.897	-135.5803	4391.649	0	0	1	0		$|
-8305390	0	object/building/endor/endor_tiki_torch.iff	0	-3980.276	-135.6545	4391.722	0	0	1	0		$|
-8305393	0	object/static/structure/naboo/gungan_statue_s01.iff	0	-2342.472	-195.4777	5077.609	0.9674622	0	0.253016	0		$|
-8305394	0	object/static/structure/naboo/gungan_statue_s01.iff	0	-2344.229	-195.5353	5078.494	0.8423305	0	-0.5389612	0		$|
-8305395	0	object/static/structure/naboo/gungan_statue_s01.iff	0	-2343.608	-195.5298	5080.218	-0.268265	0	0.9633452	0		$|
-8305397	0	object/static/structure/naboo/gungan_statue_s02.iff	0	-2341.893	-195.5074	5079.294	0.6131169	0	0.7899922	0		$|
-8305398	0	object/static/structure/general/droid_droideka_powerdown.iff	0	-2342.377	-195.4489	5074.596	0	0	1	0		$|
-8305399	0	object/static/structure/general/droid_droideka_powerdown.iff	0	-2337.671	-195.4421	5081.496	0	0	1	0		$|
-8305400	0	object/static/structure/general/droid_droideka_powerdown.iff	0	-2348.427	-195.612	5077.978	0	0	1	0		$|
-8305401	0	object/static/structure/general/droid_droideka_powerdown.iff	0	-2345.208	-195.6675	5085.615	0	0	1	0		$|
-8305403	0	object/static/structure/general/streetlamp_small_style_01.iff	0	-2341.522	-197.4043	5082.854	0	0	1	0		$|
+5775558	0	object/static/item/item_bowl_shallow.iff	0	121.4126	1912.425	291.4575	0.9702237	0	-0.2422107	0		$|
+5775565	0	object/static/item/item_bowl_plain.iff	0	120.4041	1912.417	290.313	-0.3969301	0	0.9178488	0		$|
+6645865	0	object/static/structure/general/campfire_fresh.iff	0	119.3979	1912.535	292.9741	-0.1839465	0	0.9829363	0		$|
+8305387	0	object/building/endor/endor_lake_walkway_square.iff	0	119.4146	1902.422	291.9351	0	0	1	0		$|
+8305388	0	object/static/structure/dantooine/dant_fence_8m.iff	0	119.2554	1910.649	290.4619	0	0	0.9944926	0.1048071		$|
+8305389	0	object/building/endor/endor_tiki_torch.iff	0	123.1028	1912.42	295.6494	0	0	1	0		$|
+8305390	0	object/building/endor/endor_tiki_torch.iff	0	115.7236	1912.346	295.7217	0	0	1	0		$|
+8305393	0	object/static/structure/naboo/gungan_statue_s01.iff	0	1753.528	1852.522	981.6094	0.9674622	0	0.253016	0		$|
+8305394	0	object/static/structure/naboo/gungan_statue_s01.iff	0	1751.771	1852.465	982.4941	0.8423305	0	-0.5389612	0		$|
+8305395	0	object/static/structure/naboo/gungan_statue_s01.iff	0	1752.392	1852.47	984.2178	-0.268265	0	0.9633452	0		$|
+8305397	0	object/static/structure/naboo/gungan_statue_s02.iff	0	1754.107	1852.493	983.2939	0.6131169	0	0.7899922	0		$|
+8305398	0	object/static/structure/general/droid_droideka_powerdown.iff	0	1753.623	1852.551	978.5957	0	0	1	0		$|
+8305399	0	object/static/structure/general/droid_droideka_powerdown.iff	0	1758.329	1852.558	985.4961	0	0	1	0		$|
+8305400	0	object/static/structure/general/droid_droideka_powerdown.iff	0	1747.573	1852.388	981.9775	0	0	1	0		$|
+8305401	0	object/static/structure/general/droid_droideka_powerdown.iff	0	1750.792	1852.333	989.6147	0	0	1	0		$|
+8305403	0	object/static/structure/general/streetlamp_small_style_01.iff	0	1754.478	1850.596	986.8535	0	0	1	0		$|

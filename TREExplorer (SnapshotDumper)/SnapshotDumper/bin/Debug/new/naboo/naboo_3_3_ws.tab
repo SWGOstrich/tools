@@ -1,7 +1,7 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-9525684	0	object/static/structure/general/escape_pod.iff	0	-2430.976	271.916	-2491.756	-0.6657647	0	0.736496	0.08027746		$|
-9525694	0	object/static/structure/general/escape_pod_door.iff	0	-2434.202	269.722	-2491.556	0	0	0.921061	0		$|
-9525695	0	object/static/structure/tatooine/debris_tatt_crate_1.iff	0	-2433.795	269.0869	-2487.395	0	0	1	0		$|
-9525696	0	object/static/structure/tatooine/debris_tatt_drum_storage_2.iff	0	-2433.602	270.6596	-2496.24	0	0	1	0		$|
-9525697	0	object/static/structure/tatooine/debris_tatt_drum_dented_1.iff	0	-2435.132	268.3098	-2488.398	0	0	1	0		$|
+9525684	0	object/static/structure/general/escape_pod.iff	0	1665.024	271.916	1604.244	-0.6657647	0	0.736496	0.08027746		$|
+9525694	0	object/static/structure/general/escape_pod_door.iff	0	1661.798	269.722	1604.444	0	0	0.921061	0		$|
+9525695	0	object/static/structure/tatooine/debris_tatt_crate_1.iff	0	1662.205	269.0869	1608.605	0	0	1	0		$|
+9525696	0	object/static/structure/tatooine/debris_tatt_drum_storage_2.iff	0	1662.398	270.6596	1599.76	0	0	1	0		$|
+9525697	0	object/static/structure/tatooine/debris_tatt_drum_dented_1.iff	0	1660.868	268.3098	1607.602	0	0	1	0		$|

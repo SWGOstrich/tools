@@ -1,17 +1,17 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-7605439	0	object/static/structure/general/skeleton_human_headandbody.iff	0	4132.73	6.797918	2911.101	0	0	1	0		$|
-7605459	0	object/static/structure/naboo/gungan_damaged_narrow_arch_s01.iff	0	4132.892	6.163325	2910.786	0	0	0.9427546	0		$|
-7605461	0	object/static/structure/naboo/gungan_pillar_ruined_s01.iff	0	4129.889	6.446432	2908.246	-0.05904818	0	0.9829545	-0.01044024		$|
-7605462	0	object/static/structure/naboo/gungan_wall_ruined_sm_s02.iff	0	4132.185	6.706198	2910.084	-0.5012131	0	0.8653239	0		$|
-7605464	0	object/static/structure/general/streetlamp_small_blue_style_01.iff	0	4129.966	5.380653	2910.841	0	0	1	0		$|
-7605497	0	object/static/structure/naboo/garden_gazebo_sml_s01.iff	0	5867.077	39.86726	3056.003	0.2922759	0	0.9431363	-0.06892566		$|
-7825359	0	object/static/structure/general/campfire_ash.iff	0	5867.162	39.36065	3056.44	-0.003420821	0	0.9952572	-0.08945942		$|
-7825375	0	object/static/flora/flora_tree_lok_mkpud.iff	0	5870.245	47.29216	3052.522	0	0	0.7484992	0		$|
-7825376	0	object/static/flora/flora_tree_lok_mkpud.iff	0	5868.331	48.17917	3053.237	0	0	0.1006258	0		$|
-7825377	0	object/static/flora/flora_tree_lok_mkpud.iff	0	5867.349	48.12383	3052.278	0	0	0.7744194	0		$|
-7825381	0	object/static/flora/flora_tree_lok_mkpud.iff	0	5866.4	37.69627	3048.756	0	0	0.9676632	0		$|
-7825383	0	object/static/flora/flora_tree_lok_mkpud.iff	0	5849.583	36.94443	3065.156	0	0	0.9996875	0		$|
-7825384	0	object/static/flora/flora_tree_lok_mkpud.iff	0	5868.314	47.98954	3055.766	0	0	-0.02919878	0		$|
-7825385	0	object/static/flora/flora_tree_lok_mkpud.iff	0	5869.757	47.62293	3054.308	0	0	-0.04418863	0		$|
-9695562	0	object/static/structure/naboo/gungan_pillar_damaged_s01.iff	0	4130.464	3.197885	2913.267	0.692537	0	0.7213824	0		$|
+7605439	0	object/static/structure/general/skeleton_human_headandbody.iff	0	36.72998	6.797918	863.1011	0	0	1	0		$|
+7605459	0	object/static/structure/naboo/gungan_damaged_narrow_arch_s01.iff	0	36.8916	6.163325	862.7864	0	0	0.9427546	0		$|
+7605461	0	object/static/structure/naboo/gungan_pillar_ruined_s01.iff	0	33.88867	6.446432	860.2456	-0.05904818	0	0.9829545	-0.01044024		$|
+7605462	0	object/static/structure/naboo/gungan_wall_ruined_sm_s02.iff	0	36.18457	6.706198	862.084	-0.5012131	0	0.8653239	0		$|
+7605464	0	object/static/structure/general/streetlamp_small_blue_style_01.iff	0	33.96631	5.380653	862.8411	0	0	1	0		$|
+7605497	0	object/static/structure/naboo/garden_gazebo_sml_s01.iff	0	1771.077	39.86726	1008.003	0.2922759	0	0.9431363	-0.06892566		$|
+7825359	0	object/static/structure/general/campfire_ash.iff	0	1771.162	39.36065	1008.44	-0.003420821	0	0.9952572	-0.08945942		$|
+7825375	0	object/static/flora/flora_tree_lok_mkpud.iff	0	1774.245	47.29216	1004.522	0	0	0.7484992	0		$|
+7825376	0	object/static/flora/flora_tree_lok_mkpud.iff	0	1772.331	48.17917	1005.237	0	0	0.1006258	0		$|
+7825377	0	object/static/flora/flora_tree_lok_mkpud.iff	0	1771.349	48.12383	1004.278	0	0	0.7744194	0		$|
+7825381	0	object/static/flora/flora_tree_lok_mkpud.iff	0	1770.4	37.69627	1000.756	0	0	0.9676632	0		$|
+7825383	0	object/static/flora/flora_tree_lok_mkpud.iff	0	1753.583	36.94443	1017.156	0	0	0.9996875	0		$|
+7825384	0	object/static/flora/flora_tree_lok_mkpud.iff	0	1772.314	47.98954	1007.766	0	0	-0.02919878	0		$|
+7825385	0	object/static/flora/flora_tree_lok_mkpud.iff	0	1773.757	47.62293	1006.308	0	0	-0.04418863	0		$|
+9695562	0	object/static/structure/naboo/gungan_pillar_damaged_s01.iff	0	34.46387	3.197885	865.2666	0.692537	0	0.7213824	0		$|

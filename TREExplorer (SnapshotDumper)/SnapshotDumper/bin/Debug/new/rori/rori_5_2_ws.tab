@@ -1,22 +1,22 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-5407162	0	object/building/general/rori_bat_cave.iff	0	848.7997	99.54409	-4880.255	0.9238795	0	0.3826835	0		$|
+5407162	0	object/building/general/rori_bat_cave.iff	0	848.7997	99.54409	1263.745	0.9238795	0	0.3826835	0		$|
 5407163	5407162	object/cell/cell.iff	1	0	0	0	0	1.401298E-45	1	0		$|
 5407164	5407162	object/cell/cell.iff	2	0	0	0	0	2.802597E-45	1	0		$|
 5407165	5407162	object/cell/cell.iff	3	0	0	0	0	4.203895E-45	1	0		$|
-8795683	5407165	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	4.920031	-41.05464	-75.1324	0	0	1	0		$|
+8795683	5407165	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	4.920031	2006.945	1972.868	0	0	1	0		$|
 5407166	5407162	object/cell/cell.iff	4	0	0	0	0	5.605194E-45	1	0		$|
-8795684	5407166	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	51.48198	-45.4791	-100.6064	0	0	1	0		$|
+8795684	5407166	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	51.48198	2002.521	1947.394	0	0	1	0		$|
 5407167	5407162	object/cell/cell.iff	5	0	0	0	0	7.006492E-45	1	0		$|
-8795685	5407167	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	46.74239	-56.40314	-186.6111	0	0	1	0		$|
+8795685	5407167	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	46.74239	1991.597	1861.389	0	0	1	0		$|
 5407168	5407162	object/cell/cell.iff	6	0	0	0	0	8.407791E-45	1	0		$|
 5407169	5407162	object/cell/cell.iff	7	0	0	0	0	9.809089E-45	1	0		$|
-8795686	5407169	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	-19.83009	-62.89315	-260.9982	0	0	1	0		$|
+8795686	5407169	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	2028.17	1985.107	1787.002	0	0	1	0		$|
 5407170	5407162	object/cell/cell.iff	8	0	0	0	0	1.121039E-44	1	0		$|
-4796076	5407170	object/tangible/collection/rare_pistol_mustafarian_modified_disruptor.iff	0	-46.54605	-70.1603	-187.9943	-0.01627748	0	0.7989421	-0.01162067		$|
-8795687	5407170	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	-76.98574	-99.69286	-162.5365	0	0	1	0		$|
+4796076	5407170	object/tangible/collection/rare_pistol_mustafarian_modified_disruptor.iff	0	2001.454	1977.84	1860.006	-0.01627748	0	0.7989421	-0.01162067		$|
+8795687	5407170	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	1971.014	1948.307	1885.464	0	0	1	0		$|
 5407171	5407162	object/cell/cell.iff	9	0	0	0	0	1.261169E-44	1	0		$|
 5407172	5407162	object/cell/cell.iff	10	0	0	0	0	1.401298E-44	1	0		$|
 5407173	5407162	object/cell/cell.iff	11	0	0	0	0	1.541428E-44	1	0		$|
-8795688	5407173	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	-100.5877	-100.5984	-94.62367	0	0	1	0		$|
-8795689	5407173	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	-83.95171	-99.92654	-93.6864	0	0	1	0		$|
+8795688	5407173	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	1947.412	1947.402	1953.376	0	0	1	0		$|
+8795689	5407173	object/tangible/container/loot/placable_loot_crate_trashpile.iff	0	1964.048	1948.073	1954.314	0	0	1	0		$|
