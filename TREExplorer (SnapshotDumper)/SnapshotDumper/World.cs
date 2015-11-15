@@ -28,7 +28,7 @@ namespace SnapshotDumper
 		private string planetName;
 		private List<WSFile.WSNode>[,] quadtree;
 		private Hashtable oldObjects;
-		
+
 		public World(WSFile ws, string planetName)
 		{
 			this.ws = ws;
@@ -52,7 +52,7 @@ namespace SnapshotDumper
 			for(int i = 0; i < files.Length; i++)
 			{
 				StreamReader s = new StreamReader(File.OpenRead(files[i]));
-				while(s.Peek() > 0)
+				while(s.Peek() > 0) 
 				{
 					try
 					{
@@ -67,7 +67,7 @@ namespace SnapshotDumper
 					catch (Exception ex) { }
 				}
 			}
-		}
+		} 
 
 		private void AddNode(WSFile.WSNode n)
 		{
@@ -85,9 +85,9 @@ namespace SnapshotDumper
 			b.Append(ws.Types[n.ObjectIndex].Replace("shared_", "") + "\t");
 			b.Append(cellIndex + "\t");
 
-			b.Append(n.X + "\t");
-			b.Append(n.Y + "\t");
-			b.Append(n.Z + "\t");
+			b.Append((n.X + 8192) % 2048 + "\t");
+			b.Append((n.Y + 8192) % 2048 + "\t");
+			b.Append((n.Z + 8192) % 2048 + "\t");
 
 			b.Append(n.oW + "\t");
 			b.Append(n.oX + "\t");
