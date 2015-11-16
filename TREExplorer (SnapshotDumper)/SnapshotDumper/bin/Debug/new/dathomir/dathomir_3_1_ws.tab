@@ -1,26 +1,26 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-9725370	0	object/static/structure/dathomir/nsister_tent_house_style_01.iff	0	843.9785	99.74355	1604.316	0.7208306	0	-0.6931112	0		$|
-9725372	0	object/static/flora/flora_shrb_dath_glingi.iff	0	833.2297	102.5795	1600.684	0	0	1	0		$|
-9725373	0	object/static/flora/flora_shrb_dath_glingi.iff	0	844.0598	102.3963	1614.267	0	0	1	0		$|
-9725374	0	object/static/flora/flora_shrb_dath_glingi.iff	0	852.158	104.6681	1589.021	0	0	1	0		$|
-9725376	0	object/static/structure/dantooine/dant_gate.iff	0	857.0557	102.2121	1605.623	0.7138636	0	0.7002847	0		$|
-9725377	0	object/building/endor/endr_lake_rail4m.iff	0	855.2524	101.8503	1602.938	-0.2811575	0	0.9596616	0		$|
-9725378	0	object/building/endor/endr_lake_rail4m.iff	0	851.6282	101.7857	1600.969	-0.2182296	0	0.9758974	0		$|
-9725379	0	object/building/endor/endr_lake_rail4m.iff	0	848.2124	101.5187	1599.004	-0.333487	0	0.9427547	0		$|
-9725380	0	object/building/endor/endr_lake_rail4m.iff	0	856.0596	102.1904	1609.061	0.4706258	0	0.8823329	0		$|
-9725381	0	object/building/endor/endr_lake_rail4m.iff	0	853.1191	102.0153	1611.488	0.1937666	0	0.9810476	0		$|
-9725382	0	object/building/endor/endr_lake_rail4m.iff	0	849.2876	101.6336	1612.269	0	0	1	0		$|
-9725383	0	object/building/endor/endr_lake_rail4m.iff	0	846.8306	100.5285	1611.238	-0.6593847	0	0.7518057	0		$|
-9725385	0	object/static/structure/general/campfire_burnt.iff	0	843.928	99.02664	1603.878	0	0	1	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_nsister_outcast_hut_south.iff|$|
-9725387	0	object/static/structure/general/skeleton_human_head.iff	0	844.572	103.8328	1605.05	0.9944088	0	0.1055993	0		$|
-9725388	0	object/static/structure/general/skeleton_human_head.iff	0	844.6755	103.5476	1605.314	0.4968804	0	0.8678191	0		$|
-9725389	0	object/static/structure/general/skeleton_human_head.iff	0	844.4407	103.3422	1605.138	0.9361771	0	-0.3515289	0		$|
-9725390	0	object/static/structure/general/skeleton_human_head.iff	0	844.3748	103.7391	1605.352	-0.5197796	0	0.8543004	0		$|
-9725391	0	object/static/structure/general/skeleton_human_head.iff	0	844.6147	103.8275	1605.449	0.2425563	0	0.9701373	0		$|
-9725394	0	object/static/structure/general/tato_cave_stalactite_tiny.iff	0	844.5151	102.8821	1605.24	0	0	1	0		$|
-9725403	0	object/static/structure/dantooine/dant_rack_spears.iff	0	842.2778	99.20352	1601.496	0.3801885	0	0.9249091	0		$|
-9725404	0	object/static/structure/general/skeleton_human_head.iff	0	842.0842	99.32691	1602.631	0.6518337	0	0.7583619	0		$|
-9725405	0	object/static/structure/dantooine/dant_skull_bol.iff	0	857.0352	105.1509	1604.022	0.6464533	0	0.6600392	0.2733969		$|
-9725406	0	object/static/structure/dantooine/dant_skull_bol.iff	0	857.2581	105.0924	1607.291	0.646453	0	0.6600389	0.273397		$|
-9725412	0	object/static/structure/general/streetlamp_small_red_style_01.iff	0	843.9978	96.91013	1603.988	0	0	1	0		$|
+9725370	0	object/static/structure/dathomir/nsister_tent_house_style_01.iff	0	843.9785	99.74355	1604.316	-0.6931112	0	0.7208306	0		$|
+9725372	0	object/static/flora/flora_shrb_dath_glingi.iff	0	833.2297	102.5795	1600.684	1	0	0	0		$|
+9725373	0	object/static/flora/flora_shrb_dath_glingi.iff	0	844.0598	102.3963	1614.267	1	0	0	0		$|
+9725374	0	object/static/flora/flora_shrb_dath_glingi.iff	0	852.158	104.6681	1589.021	1	0	0	0		$|
+9725376	0	object/static/structure/dantooine/dant_gate.iff	0	857.0557	102.2121	1605.623	0.7002847	0	0.7138636	0		$|
+9725377	0	object/building/endor/endr_lake_rail4m.iff	0	855.2524	101.8503	1602.938	0.9596616	0	-0.2811575	0		$|
+9725378	0	object/building/endor/endr_lake_rail4m.iff	0	851.6282	101.7857	1600.969	0.9758974	0	-0.2182296	0		$|
+9725379	0	object/building/endor/endr_lake_rail4m.iff	0	848.2124	101.5187	1599.004	0.9427547	0	-0.333487	0		$|
+9725380	0	object/building/endor/endr_lake_rail4m.iff	0	856.0596	102.1904	1609.061	0.8823329	0	0.4706258	0		$|
+9725381	0	object/building/endor/endr_lake_rail4m.iff	0	853.1191	102.0153	1611.488	0.9810476	0	0.1937666	0		$|
+9725382	0	object/building/endor/endr_lake_rail4m.iff	0	849.2876	101.6336	1612.269	1	0	0	0		$|
+9725383	0	object/building/endor/endr_lake_rail4m.iff	0	846.8306	100.5285	1611.238	0.7518057	0	-0.6593847	0		$|
+9725385	0	object/static/structure/general/campfire_burnt.iff	0	843.928	99.02664	1603.878	1	0	0	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_nsister_outcast_hut_south.iff|$|
+9725387	0	object/static/structure/general/skeleton_human_head.iff	0	844.572	103.8328	1605.05	0.1055993	0	0.9944088	0		$|
+9725388	0	object/static/structure/general/skeleton_human_head.iff	0	844.6755	103.5476	1605.314	0.8678191	0	0.4968804	0		$|
+9725389	0	object/static/structure/general/skeleton_human_head.iff	0	844.4407	103.3422	1605.138	-0.3515289	0	0.9361771	0		$|
+9725390	0	object/static/structure/general/skeleton_human_head.iff	0	844.3748	103.7391	1605.352	0.8543004	0	-0.5197796	0		$|
+9725391	0	object/static/structure/general/skeleton_human_head.iff	0	844.6147	103.8275	1605.449	0.9701373	0	0.2425563	0		$|
+9725394	0	object/static/structure/general/tato_cave_stalactite_tiny.iff	0	844.5151	102.8821	1605.24	1	0	0	0		$|
+9725403	0	object/static/structure/dantooine/dant_rack_spears.iff	0	842.2778	99.20352	1601.496	0.9249091	0	0.3801885	0		$|
+9725404	0	object/static/structure/general/skeleton_human_head.iff	0	842.0842	99.32691	1602.631	0.7583619	0	0.6518337	0		$|
+9725405	0	object/static/structure/dantooine/dant_skull_bol.iff	0	857.0352	105.1509	1604.022	0.6600392	0	0.6464533	0.2733969		$|
+9725406	0	object/static/structure/dantooine/dant_skull_bol.iff	0	857.2581	105.0924	1607.291	0.6600389	0	0.646453	0.273397		$|
+9725412	0	object/static/structure/general/streetlamp_small_red_style_01.iff	0	843.9978	96.91013	1603.988	1	0	0	0		$|

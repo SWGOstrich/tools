@@ -1,18 +1,18 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-8165389	0	object/static/structure/naboo/gungan_statue_s03.iff	0	954.7056	78.67393	1997.693	0.5642966	0	-0.01975846	0.8248301		$|
-8165390	0	object/static/structure/naboo/gungan_statue_s04.iff	0	953.5823	77.91713	1999.446	0	0	0.4624855	0		$|
-8165391	0	object/static/structure/naboo/gungan_wall_ruined_lg_s01.iff	0	958.7053	76.65763	2000.999	0	0	1	0		$|
-8165392	0	object/static/structure/naboo/nboo_imprv_lattice_wall_short_s01.iff	0	946.455	75.47507	1433.458	0	0	1	0		$|
-8165393	0	object/static/structure/naboo/gungan_wall_ruined_sm_s02.iff	0	948.222	75.62026	1431.739	0.004999985	0	0.9999875	0		$|
-8165394	0	object/static/structure/naboo/gungan_wall_ruined_sm_s01.iff	0	944.739	75.9099	1432.314	0	0	1	0		$|
-8165396	0	object/static/structure/general/gravestone_generic_style_01.iff	0	945.8575	76.44402	1432.087	0	0	1	0		$|
-8165397	0	object/static/structure/general/gravestone_generic_style_03.iff	0	946.4524	76.21522	1432.656	0	0	1	0		$|
-8165398	0	object/static/structure/general/gravestone_generic_style_04.iff	0	947.4218	76.2114	1431.907	0	0	1	0		$|
-8165399	0	object/static/structure/general/gravestone_generic_style_01.iff	0	946.3046	76.45119	1431.572	0	0	1	0		$|
-8165400	0	object/static/structure/general/gravestone_generic_style_03.iff	0	945.9395	76.57755	1430.758	0	0	1	0		$|
-8165401	0	object/static/structure/general/debris_deathstar_tractorbeam.iff	0	948.8346	73.53484	864.2375	0.06881285	0	0.9814343	-0.01252184		$|
-8165402	0	object/static/structure/naboo/fountain_naboo_style_1.iff	0	949.0231	72.3455	511.3723	0	0	0.971338	0		$|
-8165403	0	object/static/structure/naboo/garden_gazebo_sml_s01.iff	0	953.3792	65.58994	511.0559	0	0	1	0		$|
-9715916	0	object/static/structure/naboo/gungan_sacred_head_s01.iff	0	1119.383	86.72749	1783.126	0.703329	0	-0.7001137	0.1231303		$|
-9715917	0	object/static/structure/general/streetlamp_small_blue_style_01.iff	0	1114.917	84.90429	1782.796	0	0	1	0		$|
+8165389	0	object/static/structure/naboo/gungan_statue_s03.iff	0	954.7056	78.67393	1997.693	-0.01975846	0	0.5642966	0.8248301		$|
+8165390	0	object/static/structure/naboo/gungan_statue_s04.iff	0	953.5823	77.91713	1999.446	0.4624855	0	0	0		$|
+8165391	0	object/static/structure/naboo/gungan_wall_ruined_lg_s01.iff	0	958.7053	76.65763	2000.999	1	0	0	0		$|
+8165392	0	object/static/structure/naboo/nboo_imprv_lattice_wall_short_s01.iff	0	946.455	75.47507	1433.458	1	0	0	0		$|
+8165393	0	object/static/structure/naboo/gungan_wall_ruined_sm_s02.iff	0	948.222	75.62026	1431.739	0.9999875	0	0.004999985	0		$|
+8165394	0	object/static/structure/naboo/gungan_wall_ruined_sm_s01.iff	0	944.739	75.9099	1432.314	1	0	0	0		$|
+8165396	0	object/static/structure/general/gravestone_generic_style_01.iff	0	945.8575	76.44402	1432.087	1	0	0	0		$|
+8165397	0	object/static/structure/general/gravestone_generic_style_03.iff	0	946.4524	76.21522	1432.656	1	0	0	0		$|
+8165398	0	object/static/structure/general/gravestone_generic_style_04.iff	0	947.4218	76.2114	1431.907	1	0	0	0		$|
+8165399	0	object/static/structure/general/gravestone_generic_style_01.iff	0	946.3046	76.45119	1431.572	1	0	0	0		$|
+8165400	0	object/static/structure/general/gravestone_generic_style_03.iff	0	945.9395	76.57755	1430.758	1	0	0	0		$|
+8165401	0	object/static/structure/general/debris_deathstar_tractorbeam.iff	0	948.8346	73.53484	864.2375	0.9814343	0	0.06881285	-0.01252184		$|
+8165402	0	object/static/structure/naboo/fountain_naboo_style_1.iff	0	949.0231	72.3455	511.3723	0.971338	0	0	0		$|
+8165403	0	object/static/structure/naboo/garden_gazebo_sml_s01.iff	0	953.3792	65.58994	511.0559	1	0	0	0		$|
+9715916	0	object/static/structure/naboo/gungan_sacred_head_s01.iff	0	1119.383	86.72749	1783.126	-0.7001137	0	0.703329	0.1231303		$|
+9715917	0	object/static/structure/general/streetlamp_small_blue_style_01.iff	0	1114.917	84.90429	1782.796	1	0	0	0		$|

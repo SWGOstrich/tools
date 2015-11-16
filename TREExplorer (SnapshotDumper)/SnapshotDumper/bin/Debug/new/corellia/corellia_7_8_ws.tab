@@ -1,13 +1,13 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-178354	0	object/static/terrain/corellia/rock_crystal_mound_agrilat_medium.iff	0	769.6777	93.4783	544.4907	0.3208726	0	0.9367862	-0.04521797		$|
-178356	0	object/static/particle/particle_smoke.iff	0	769.9941	94.93301	544.1289	0	0	1	0		$|
-4546281	0	object/static/structure/corellia/corl_tent_large.iff	0	1954.409	169.7075	253.2295	0	0	0.9933948	0		$|
-9825635	0	object/tangible/camp/camp_cot.iff	0	1954.738	170.0438	251.4829	0.1641563	0	-0.03373248	0.9858414		$|
-9825639	0	object/tangible/camp/camp_cot.iff	0	1954.972	170.0782	249.7129	0.2535206	0	-0.6092978	0.750757		$|
-9825642	0	object/static/structure/tatooine/debris_tatt_crate_metal_1.iff	0	1949.829	168.6068	256.2085	0	0	0.9758974	-0.2182297		$|
-9825643	0	object/static/structure/tatooine/debris_tatt_crate_metal_1.iff	0	1950.161	168.5355	255.1709	-0.3935182	0	0.9054067	0.1461141		$|
-9825646	0	object/static/item/item_crate_spice.iff	0	1956.903	169.4929	257.8291	0.8900379	0	-0.4117078	0.04533895		$|
-9825647	0	object/static/item/item_crate_spice.iff	0	1957.029	169.4137	256.5229	0	0	0.9610555	0		$|
-9825648	0	object/static/item/item_crate_spice.iff	0	1957.333	169.8315	255.1968	0	0	1	0		$|
-9825658	0	object/tangible/furniture/modern/coffee_table_modern_style_01.iff	0	1951.507	168.9329	251.9443	-0.4157442	0	0.538844	0.5541778		$|
+178354	0	object/static/terrain/corellia/rock_crystal_mound_agrilat_medium.iff	0	769.6777	93.4783	544.4907	0.9367862	0	0.3208726	-0.04521797		$|
+178356	0	object/static/particle/particle_smoke.iff	0	769.9941	94.93301	544.1289	1	0	0	0		$|
+4546281	0	object/static/structure/corellia/corl_tent_large.iff	0	1954.409	169.7075	253.2295	0.9933948	0	0	0		$|
+9825635	0	object/tangible/camp/camp_cot.iff	0	1954.738	170.0438	251.4829	-0.03373248	0	0.1641563	0.9858414		$|
+9825639	0	object/tangible/camp/camp_cot.iff	0	1954.972	170.0782	249.7129	-0.6092978	0	0.2535206	0.750757		$|
+9825642	0	object/static/structure/tatooine/debris_tatt_crate_metal_1.iff	0	1949.829	168.6068	256.2085	0.9758974	0	0	-0.2182297		$|
+9825643	0	object/static/structure/tatooine/debris_tatt_crate_metal_1.iff	0	1950.161	168.5355	255.1709	0.9054067	0	-0.3935182	0.1461141		$|
+9825646	0	object/static/item/item_crate_spice.iff	0	1956.903	169.4929	257.8291	-0.4117078	0	0.8900379	0.04533895		$|
+9825647	0	object/static/item/item_crate_spice.iff	0	1957.029	169.4137	256.5229	0.9610555	0	0	0		$|
+9825648	0	object/static/item/item_crate_spice.iff	0	1957.333	169.8315	255.1968	1	0	0	0		$|
+9825658	0	object/tangible/furniture/modern/coffee_table_modern_style_01.iff	0	1951.507	168.9329	251.9443	0.538844	0	-0.4157442	0.5541778		$|

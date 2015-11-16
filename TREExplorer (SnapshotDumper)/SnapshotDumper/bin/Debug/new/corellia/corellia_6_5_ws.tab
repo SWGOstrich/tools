@@ -1,12 +1,12 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-9825910	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	334.8225	2.990026	642.1323	0	0	1	0		$|
-9825911	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	340.7173	2.952715	641.9413	0	0	1	0		$|
-9825912	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	347.4143	3.046832	641.9873	0	0	1	0		$|
-9825913	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	353.0969	3.020006	641.7734	0	0	1	0		$|
-9825914	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	359.3586	3.029352	641.7079	0	0	1	0		$|
-9825915	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	365.6814	3.012623	641.4327	0	0	1	0		$|
-9825916	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	320.5596	2.811936	642.1829	0	0	1	0		$|
-9825917	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	328.8472	2.912775	642.2231	0	0	1	0		$|
-9825921	0	object/static/structure/corellia/corl_imprv_gate_sm_s01.iff	0	869.8081	19	1602.836	0	0	1	0		$|
-9825923	0	object/static/structure/corellia/corl_imprv_gate_sm_s01.iff	0	877.7698	19	1602.826	0	0	1	0		$|
+9825910	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	334.8225	2.990026	642.1323	1	0	0	0		$|
+9825911	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	340.7173	2.952715	641.9413	1	0	0	0		$|
+9825912	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	347.4143	3.046832	641.9873	1	0	0	0		$|
+9825913	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	353.0969	3.020006	641.7734	1	0	0	0		$|
+9825914	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	359.3586	3.029352	641.7079	1	0	0	0		$|
+9825915	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	365.6814	3.012623	641.4327	1	0	0	0		$|
+9825916	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	320.5596	2.811936	642.1829	1	0	0	0		$|
+9825917	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	328.8472	2.912775	642.2231	1	0	0	0		$|
+9825921	0	object/static/structure/corellia/corl_imprv_gate_sm_s01.iff	0	869.8081	19	1602.836	1	0	0	0		$|
+9825923	0	object/static/structure/corellia/corl_imprv_gate_sm_s01.iff	0	877.7698	19	1602.826	1	0	0	0		$|

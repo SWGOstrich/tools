@@ -1,17 +1,17 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-9525712	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	411.8478	13.87263	62.22363	0.04498485	0	0.9989877	0		$|
-9525717	0	object/static/structure/dantooine/dant_boundary_post.iff	0	411.4247	15.51587	62.31104	-0.6889191	0	0.7248382	0		$|
-9525718	0	object/static/structure/dantooine/dant_boundary_post.iff	0	412.2885	15.50982	62.15747	0.7242876	0	0.689498	0		$|
-9525720	0	object/static/item/item_bowl_shallow.iff	0	411.8424	18.35978	62.22363	0.04498485	0	0.9989877	0		$|
-9525727	0	object/static/structure/tatooine/guild_statue_free_style_01.iff	0	411.9237	11.70968	64.23926	0.04498485	0	0.9989877	0		$|
-9525728	0	object/static/structure/tatooine/guild_statue_free_style_01.iff	0	411.674	12.03548	60.14795	0.9995258	0	-0.03079148	0		$|
-9525741	0	object/static/particle/particle_campfire_style_1.iff	0	411.8749	18.96666	62.3064	0	0	1	0		$|
-9525757	0	object/static/structure/tatooine/streetsign_wall_style_01.iff	0	410.8248	15.33263	62.27368	0.5047778	0	0.4951759	-0.495176		$|
-9525769	0	object/static/structure/general/skeleton_human_head.iff	0	410.7687	15.41327	62.27124	-0.7032843	0	0.7109089	0		$|
-9525772	0	object/static/structure/general/skeleton_human_headandbody.iff	0	406.741	13.83541	64.62476	0	0	1	0		$|
-9525774	0	object/static/structure/general/skeleton_human_headandbody.iff	0	412.3901	14.52945	53.69653	0	0	1	0		$|
-9525775	0	object/static/structure/general/skeleton_human_headandbody.iff	0	412.1924	13.53185	68.90845	0	0	1	0		$|
-9525776	0	object/static/structure/general/skeleton_human_headandbody.iff	0	421.4525	13.9068	62.50073	0	0	1	0		$|
-9525815	0	object/building/endor/endor_tiki_torch.iff	0	411.7777	16.50501	62.33179	0	0	1	0		$|
-9525816	0	object/static/structure/tatooine/guild_statue_free_style_01.iff	0	414.0266	11.90897	62.26343	0.7079506	0	0.7062623	0		$|
+9525712	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	411.8478	13.87263	62.22363	0.9989877	0	0.04498485	0		$|
+9525717	0	object/static/structure/dantooine/dant_boundary_post.iff	0	411.4247	15.51587	62.31104	0.7248382	0	-0.6889191	0		$|
+9525718	0	object/static/structure/dantooine/dant_boundary_post.iff	0	412.2885	15.50982	62.15747	0.689498	0	0.7242876	0		$|
+9525720	0	object/static/item/item_bowl_shallow.iff	0	411.8424	18.35978	62.22363	0.9989877	0	0.04498485	0		$|
+9525727	0	object/static/structure/tatooine/guild_statue_free_style_01.iff	0	411.9237	11.70968	64.23926	0.9989877	0	0.04498485	0		$|
+9525728	0	object/static/structure/tatooine/guild_statue_free_style_01.iff	0	411.674	12.03548	60.14795	-0.03079148	0	0.9995258	0		$|
+9525741	0	object/static/particle/particle_campfire_style_1.iff	0	411.8749	18.96666	62.3064	1	0	0	0		$|
+9525757	0	object/static/structure/tatooine/streetsign_wall_style_01.iff	0	410.8248	15.33263	62.27368	0.4951759	0	0.5047778	-0.495176		$|
+9525769	0	object/static/structure/general/skeleton_human_head.iff	0	410.7687	15.41327	62.27124	0.7109089	0	-0.7032843	0		$|
+9525772	0	object/static/structure/general/skeleton_human_headandbody.iff	0	406.741	13.83541	64.62476	1	0	0	0		$|
+9525774	0	object/static/structure/general/skeleton_human_headandbody.iff	0	412.3901	14.52945	53.69653	1	0	0	0		$|
+9525775	0	object/static/structure/general/skeleton_human_headandbody.iff	0	412.1924	13.53185	68.90845	1	0	0	0		$|
+9525776	0	object/static/structure/general/skeleton_human_headandbody.iff	0	421.4525	13.9068	62.50073	1	0	0	0		$|
+9525815	0	object/building/endor/endor_tiki_torch.iff	0	411.7777	16.50501	62.33179	1	0	0	0		$|
+9525816	0	object/static/structure/tatooine/guild_statue_free_style_01.iff	0	414.0266	11.90897	62.26343	0.7062623	0	0.7079506	0		$|

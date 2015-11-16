@@ -1,18 +1,18 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-9725731	0	object/static/structure/dathomir/nsister_hut_style_01.iff	0	1497.721	130.58	865.8232	0	0	1	0		$|
-9725732	0	object/static/structure/dathomir/nsister_hut_style_01.iff	0	1498.54	131.2619	851.2466	0.9987898	0	-0.04918377	0		$|
-9725733	0	object/static/structure/dathomir/nsister_fence_style_01.iff	0	1492.679	130.205	851.5576	-0.2667314	0	0.9637709	0		$|
-9725734	0	object/static/structure/dathomir/nsister_fence_style_01.iff	0	1490.02	130.2642	859.7822	0	0	1	0		$|
-9725735	0	object/static/structure/dathomir/nsister_fence_style_01.iff	0	1492.861	129.0706	867.2397	0.4662083	0	0.884675	0		$|
-9725736	0	object/static/structure/dathomir/nsister_gate_style_01.iff	0	1503.48	129.4354	858.4526	0	0	1	0		$|
-9725738	0	object/building/endor/endr_lake_rail4m.iff	0	1503.33	130.7574	851.1274	-0.6287931	0	0.7775727	0		$|
-9725739	0	object/building/endor/endr_lake_rail4m.iff	0	1501.188	130.3379	848.1509	-0.2907398	0	0.9568021	0		$|
-9725741	0	object/building/endor/endr_lake_rail4m.iff	0	1501.771	129.4964	866.2148	0.3428978	0	0.9393727	0		$|
-9725742	0	object/building/endor/endr_lake_rail4m.iff	0	1497.386	130.3736	847.4761	0.1147467	0	0.9933948	0		$|
-9725743	0	object/building/endor/endr_lake_rail4m.iff	0	1494.658	126.0355	845.1362	0.188859	0	0.9820042	0		$|
-9725744	0	object/building/endor/endr_lake_rail4m.iff	0	1498.258	129.757	868.3398	0.1048071	0	0.9944926	0		$|
-9725747	0	object/static/structure/dathomir/night_sister_banner_s02.iff	0	1497.024	131.3813	856.2568	0.6816392	0	0.7316884	0		$|
-9725749	0	object/static/structure/tatooine/skeleton_krayt_head_style_01.iff	0	1497.062	130.2676	858.6675	0	0	0.9238795	-0.3826835	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_nsister_outcast_camp_nw.iff|$|
-9725751	0	object/static/item/item_con_tato_bowl_full_s02.iff	0	1497.113	131.1809	859.2559	0	0	1	0		$|
-9725752	0	object/building/endor/endor_tiki_torch.iff	0	1497.102	129.8957	859.2563	0	0	1	0		$|
+9725731	0	object/static/structure/dathomir/nsister_hut_style_01.iff	0	1497.721	130.58	865.8232	1	0	0	0		$|
+9725732	0	object/static/structure/dathomir/nsister_hut_style_01.iff	0	1498.54	131.2619	851.2466	-0.04918377	0	0.9987898	0		$|
+9725733	0	object/static/structure/dathomir/nsister_fence_style_01.iff	0	1492.679	130.205	851.5576	0.9637709	0	-0.2667314	0		$|
+9725734	0	object/static/structure/dathomir/nsister_fence_style_01.iff	0	1490.02	130.2642	859.7822	1	0	0	0		$|
+9725735	0	object/static/structure/dathomir/nsister_fence_style_01.iff	0	1492.861	129.0706	867.2397	0.884675	0	0.4662083	0		$|
+9725736	0	object/static/structure/dathomir/nsister_gate_style_01.iff	0	1503.48	129.4354	858.4526	1	0	0	0		$|
+9725738	0	object/building/endor/endr_lake_rail4m.iff	0	1503.33	130.7574	851.1274	0.7775727	0	-0.6287931	0		$|
+9725739	0	object/building/endor/endr_lake_rail4m.iff	0	1501.188	130.3379	848.1509	0.9568021	0	-0.2907398	0		$|
+9725741	0	object/building/endor/endr_lake_rail4m.iff	0	1501.771	129.4964	866.2148	0.9393727	0	0.3428978	0		$|
+9725742	0	object/building/endor/endr_lake_rail4m.iff	0	1497.386	130.3736	847.4761	0.9933948	0	0.1147467	0		$|
+9725743	0	object/building/endor/endr_lake_rail4m.iff	0	1494.658	126.0355	845.1362	0.9820042	0	0.188859	0		$|
+9725744	0	object/building/endor/endr_lake_rail4m.iff	0	1498.258	129.757	868.3398	0.9944926	0	0.1048071	0		$|
+9725747	0	object/static/structure/dathomir/night_sister_banner_s02.iff	0	1497.024	131.3813	856.2568	0.7316884	0	0.6816392	0		$|
+9725749	0	object/static/structure/tatooine/skeleton_krayt_head_style_01.iff	0	1497.062	130.2676	858.6675	0.9238795	0	0	-0.3826835	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/dathomir/dath_nsister_outcast_camp_nw.iff|$|
+9725751	0	object/static/item/item_con_tato_bowl_full_s02.iff	0	1497.113	131.1809	859.2559	1	0	0	0		$|
+9725752	0	object/building/endor/endor_tiki_torch.iff	0	1497.102	129.8957	859.2563	1	0	0	0		$|

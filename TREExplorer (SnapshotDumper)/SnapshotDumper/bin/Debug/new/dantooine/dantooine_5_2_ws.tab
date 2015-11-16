@@ -1,15 +1,15 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-9015598	0	object/static/structure/dantooine/dant_jedi_temple_pillar.iff	0	1927	1.615293	1406	0	0	1	0		$|
-9015599	0	object/static/structure/dantooine/dant_jedi_temple_pillar_med.iff	0	1927	1.209076	1391	0	0	1	0		$|
-9015600	0	object/static/structure/dantooine/dant_jedi_temple_pillar_med.iff	0	1914	1.362952	1406	0	0	1	0		$|
-9015601	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	1914	1.173208	1391	0	0	1	0		$|
-9015602	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	1901	1.191229	1391	0	0	1	0		$|
-9015603	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	1901	1.216993	1406	0	0	1	0		$|
-9015604	0	object/static/structure/dantooine/dant_jedi_wall_1.iff	0	1923	0.8564771	1394	0.7071061	0	0.7071074	0		$|
-9015605	0	object/static/structure/dantooine/dant_jedi_wall_2.iff	0	1923	1.215362	1403	0.7071063	0	0.7071072	0		$|
-9015606	0	object/static/structure/dantooine/dant_jedi_wall_1.iff	0	1906	0.4372433	1403	0.707107	0	-0.7071065	0		$|
-9015607	0	object/static/structure/dantooine/dant_jedi_temple_pillar_fallen.iff	0	1913.063	1.212663	1386.647	0.6941847	0	-0.6759267	0.1688906		$|
-9015608	0	object/static/structure/dantooine/dant_jedi_temple_pillar_fallen.iff	0	1913.012	1.206511	1383.87	0.6616058	0	-0.689163	-0.2131831		$|
-9015609	0	object/static/structure/dantooine/dant_jedi_temple_pillar_fallen.iff	0	1912.979	1.203081	1380.914	0.5937434	0	-0.6733881	-0.3436641		$|
-9015610	0	object/static/structure/dantooine/dant_jedi_temple_pillar_fallen.iff	0	1912.818	1.167653	1378.189	0.7103533	0	-0.7038453	0		$|
+9015598	0	object/static/structure/dantooine/dant_jedi_temple_pillar.iff	0	1927	1.615293	1406	1	0	0	0		$|
+9015599	0	object/static/structure/dantooine/dant_jedi_temple_pillar_med.iff	0	1927	1.209076	1391	1	0	0	0		$|
+9015600	0	object/static/structure/dantooine/dant_jedi_temple_pillar_med.iff	0	1914	1.362952	1406	1	0	0	0		$|
+9015601	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	1914	1.173208	1391	1	0	0	0		$|
+9015602	0	object/static/structure/dantooine/dant_jedi_temple_pillar_base.iff	0	1901	1.191229	1391	1	0	0	0		$|
+9015603	0	object/static/structure/dantooine/dant_jedi_temple_pillar_sm.iff	0	1901	1.216993	1406	1	0	0	0		$|
+9015604	0	object/static/structure/dantooine/dant_jedi_wall_1.iff	0	1923	0.8564771	1394	0.7071074	0	0.7071061	0		$|
+9015605	0	object/static/structure/dantooine/dant_jedi_wall_2.iff	0	1923	1.215362	1403	0.7071072	0	0.7071063	0		$|
+9015606	0	object/static/structure/dantooine/dant_jedi_wall_1.iff	0	1906	0.4372433	1403	-0.7071065	0	0.707107	0		$|
+9015607	0	object/static/structure/dantooine/dant_jedi_temple_pillar_fallen.iff	0	1913.063	1.212663	1386.647	-0.6759267	0	0.6941847	0.1688906		$|
+9015608	0	object/static/structure/dantooine/dant_jedi_temple_pillar_fallen.iff	0	1913.012	1.206511	1383.87	-0.689163	0	0.6616058	-0.2131831		$|
+9015609	0	object/static/structure/dantooine/dant_jedi_temple_pillar_fallen.iff	0	1912.979	1.203081	1380.914	-0.6733881	0	0.5937434	-0.3436641		$|
+9015610	0	object/static/structure/dantooine/dant_jedi_temple_pillar_fallen.iff	0	1912.818	1.167653	1378.189	-0.7038453	0	0.7103533	0		$|

@@ -1,6 +1,6 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-8385354	0	object/static/structure/general/debris_deathstar_small_chunk.iff	0	1870.281	6.767382	1256.306	0	0	1	0		$|
-8385355	0	object/static/structure/general/prp_engine.iff	0	1885.245	7.142223	1254.213	0.6935141	0	0.597056	-0.3055545		$|
-8385356	0	object/static/structure/general/prp_junk_s1.iff	0	1874.089	7.006009	1251.403	0	0	0.9523336	0		$|
-8385357	0	object/static/structure/general/droid_r2_powerdown.iff	0	1869.597	6.410016	1259.889	-0.2543721	0	0.6968557	0.2299428		$|
+8385354	0	object/static/structure/general/debris_deathstar_small_chunk.iff	0	1870.281	6.767382	1256.306	1	0	0	0		$|
+8385355	0	object/static/structure/general/prp_engine.iff	0	1885.245	7.142223	1254.213	0.597056	0	0.6935141	-0.3055545		$|
+8385356	0	object/static/structure/general/prp_junk_s1.iff	0	1874.089	7.006009	1251.403	0.9523336	0	0	0		$|
+8385357	0	object/static/structure/general/droid_r2_powerdown.iff	0	1869.597	6.410016	1259.889	0.6968557	0	-0.2543721	0.2299428		$|

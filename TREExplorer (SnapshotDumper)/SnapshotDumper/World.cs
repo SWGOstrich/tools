@@ -85,13 +85,17 @@ namespace SnapshotDumper
 			b.Append(ws.Types[n.ObjectIndex].Replace("shared_", "") + "\t");
 			b.Append(cellIndex + "\t");
 
-			b.Append((n.X + 8192) % 2048 + "\t");
-			b.Append((n.Y + 8192) % 2048 + "\t");
-			b.Append((n.Z + 8192) % 2048 + "\t");
+			// Child objects have local (to parent) coordinates
+			bool isContained = n.ParentID != 0;
 
-			b.Append(n.oW + "\t");
-			b.Append(n.oX + "\t");
+			b.Append((isContained ? n.X : (n.X + 8192) % 2048) + "\t");
+			b.Append((isContained ? n.Y : (n.Y + 8192) % 2048) + "\t");
+			b.Append((isContained ? n.Z : (n.Z + 8192) % 2048) + "\t");
+
+			// SWGLib has W and Y quarternion axis switched
 			b.Append(n.oY + "\t");
+			b.Append(n.oX + "\t");
+			b.Append(n.oW + "\t");
 			b.Append(n.oZ + "\t");
 
 			// Pull objvars and scripts from old exported snapshots
@@ -129,11 +133,19 @@ namespace SnapshotDumper
 
 		public void DumpToFile(string path)
 		{
+			// Create the directory incase it doesn't already exist
+			Directory.CreateDirectory(path + "/");
+
 			// Each core planet is made of 8x8 regions
 			for (int x = 0; x < 8; x++)
 			{
 				for (int z = 0; z < 8; z++)
 				{
+					// We only want to create an export if the region
+					// has atleast one object
+					if (quadtree[x, z].Count == 0)
+						continue;
+
 					StringBuilder b = new StringBuilder();
 
 					b.AppendLine(columnNames);
@@ -144,9 +156,6 @@ namespace SnapshotDumper
 
 					// Generate our snapshot table file name
 					String fileName = String.Format("{0}_{1}_{2}_ws.tab", planetName, (x + 1), (z + 1));
-
-					// Create the directory incase it doesn't already exist
-					Directory.CreateDirectory(path + "/");
 
 					// Go ahead and dump it all to file
 					File.WriteAllText(path + "/" + fileName, b.ToString());

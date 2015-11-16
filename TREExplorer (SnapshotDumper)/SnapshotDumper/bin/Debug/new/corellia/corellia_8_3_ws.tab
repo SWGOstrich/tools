@@ -1,17 +1,17 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-33536	0	object/static/structure/general/debris_deathstar_conduit.iff	0	151.3521	172.3604	138.8562	0.7544859	0	0.6561448	-0.008407316		$|
-33537	0	object/static/structure/general/debris_deathstar_conduit.iff	0	151.2773	171.8633	139.4841	0.9690002	0	-0.2466046	0.005424401		$|
-33538	0	object/static/particle/pt_miasma_of_fog_mustard.iff	0	147.2202	169.0936	146.55	0	0	1	0		$|
-4546260	0	object/static/structure/corellia/corl_imprv_wall_4x16_s04.iff	0	150.624	170.5575	134.53	0.8496418	0	-0.5272651	0.008739651		$|
-4546261	0	object/static/structure/corellia/corl_imprv_wall_4x16_s04.iff	0	155.1357	170.3525	136.7043	0.841686	0	-0.5399672	0		$|
-4546269	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	151.6909	169.8553	144.2065	0.976397	0	0.2159836	0		$|
-4546270	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	146.8711	170.2073	142.0371	0.9730012	0	0.2305826	0.009633156		$|
-4546272	0	object/static/structure/corellia/corl_imprv_wall_4x16_s04.iff	0	151.1538	173.9985	135.5251	0.3854357	0	0.5995472	0.588336		$|
-4546278	0	object/static/structure/general/rock_beach_dark_lg.iff	0	155.8794	173.0081	129.6162	-0.2344412	0	0.9691898	0.07060213		$|
-4546279	0	object/static/structure/tatooine/palette_tatooine_style_01.iff	0	149.748	170.8504	143.8665	-0.1404611	0	0.690724	0.6938624		$|
-4546280	0	object/static/structure/tatooine/palette_tatooine_style_01.iff	0	148.4219	170.8289	143.2915	-0.1404611	0	0.6907238	0.6938624		$|
-9825407	0	object/static/structure/tatooine/debris_tatt_drum_dented_1.iff	0	154.5366	169.4687	145.7876	-0.04442438	0	0.9554631	-0.2136601		$|
-9825411	0	object/static/structure/tatooine/debris_tatt_drum_dented_1.iff	0	145.0444	170.1619	140.877	0.8127365	0	-0.5050505	-0.2899182		$|
-9825419	0	object/static/structure/tatooine/palette_tatooine_style_01.iff	0	146.6768	169.447	145.3687	0	0	0.9855848	0.1691823		$|
-9825424	0	object/static/structure/general/trash_pile_s01.iff	0	156.4761	172.5221	137.7817	-0.4073776	0	0.9001168	0.1406462		$|
+33536	0	object/static/structure/general/debris_deathstar_conduit.iff	0	151.3521	172.3604	138.8562	0.6561448	0	0.7544859	-0.008407316		$|
+33537	0	object/static/structure/general/debris_deathstar_conduit.iff	0	151.2773	171.8633	139.4841	-0.2466046	0	0.9690002	0.005424401		$|
+33538	0	object/static/particle/pt_miasma_of_fog_mustard.iff	0	147.2202	169.0936	146.55	1	0	0	0		$|
+4546260	0	object/static/structure/corellia/corl_imprv_wall_4x16_s04.iff	0	150.624	170.5575	134.53	-0.5272651	0	0.8496418	0.008739651		$|
+4546261	0	object/static/structure/corellia/corl_imprv_wall_4x16_s04.iff	0	155.1357	170.3525	136.7043	-0.5399672	0	0.841686	0		$|
+4546269	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	151.6909	169.8553	144.2065	0.2159836	0	0.976397	0		$|
+4546270	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	146.8711	170.2073	142.0371	0.2305826	0	0.9730012	0.009633156		$|
+4546272	0	object/static/structure/corellia/corl_imprv_wall_4x16_s04.iff	0	151.1538	173.9985	135.5251	0.5995472	0	0.3854357	0.588336		$|
+4546278	0	object/static/structure/general/rock_beach_dark_lg.iff	0	155.8794	173.0081	129.6162	0.9691898	0	-0.2344412	0.07060213		$|
+4546279	0	object/static/structure/tatooine/palette_tatooine_style_01.iff	0	149.748	170.8504	143.8665	0.690724	0	-0.1404611	0.6938624		$|
+4546280	0	object/static/structure/tatooine/palette_tatooine_style_01.iff	0	148.4219	170.8289	143.2915	0.6907238	0	-0.1404611	0.6938624		$|
+9825407	0	object/static/structure/tatooine/debris_tatt_drum_dented_1.iff	0	154.5366	169.4687	145.7876	0.9554631	0	-0.04442438	-0.2136601		$|
+9825411	0	object/static/structure/tatooine/debris_tatt_drum_dented_1.iff	0	145.0444	170.1619	140.877	-0.5050505	0	0.8127365	-0.2899182		$|
+9825419	0	object/static/structure/tatooine/palette_tatooine_style_01.iff	0	146.6768	169.447	145.3687	0.9855848	0	0	0.1691823		$|
+9825424	0	object/static/structure/general/trash_pile_s01.iff	0	156.4761	172.5221	137.7817	0.9001168	0	-0.4073776	0.1406462		$|

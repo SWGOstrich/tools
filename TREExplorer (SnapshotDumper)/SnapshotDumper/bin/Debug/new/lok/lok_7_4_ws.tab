@@ -1,6 +1,6 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-7806083	0	object/static/structure/general/skeleton_ancient_s01.iff	0	476.4873	11.99124	896.1003	-0.5971954	0	0.8020958	0		$|
-9685481	0	object/static/structure/tatooine/concrete_slab_tatooine_16x8.iff	0	1776.628	11.23953	925.6129	-0.3826834	0	0.9238796	0		$|
-9685488	0	object/static/structure/tatooine/shed_junkshop_watto.iff	0	1777	16.1066	925	0	0	1	0		$|
-9685494	0	object/static/structure/tatooine/stone_hovel_tatooine_style_01.iff	0	1779.958	15.04723	922.2356	0.9238796	0	0.3826834	0		$|
+7806083	0	object/static/structure/general/skeleton_ancient_s01.iff	0	476.4873	11.99124	896.1003	0.8020958	0	-0.5971954	0		$|
+9685481	0	object/static/structure/tatooine/concrete_slab_tatooine_16x8.iff	0	1776.628	11.23953	925.6129	0.9238796	0	-0.3826834	0		$|
+9685488	0	object/static/structure/tatooine/shed_junkshop_watto.iff	0	1777	16.1066	925	1	0	0	0		$|
+9685494	0	object/static/structure/tatooine/stone_hovel_tatooine_style_01.iff	0	1779.958	15.04723	922.2356	0.3826834	0	0.9238796	0		$|

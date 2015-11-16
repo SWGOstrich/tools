@@ -1,10 +1,10 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-978412	0	object/static/particle/pt_miasma_of_fog_gray.iff	0	1553.752	133.3906	1206.242	0	0	1	0		$|
-978413	0	object/static/particle/pt_flocking_glowzees.iff	0	1552.998	133.4767	1206.533	0	0	1	0		$|
-9725536	0	object/static/structure/general/tato_cave_stalagmite_large.iff	0	1552.391	133.2276	1205.247	0.5850973	0	0.8109632	0		$|
-9725542	0	object/static/structure/general/skeleton_human_head.iff	0	1553.055	136.2227	1205.105	0.6816402	0	0.7316876	0		$|
-9725543	0	object/static/structure/general/skeleton_human_head.iff	0	1551.911	136.276	1204.773	0.8598624	0	-0.5105259	0		$|
-9725544	0	object/static/structure/general/skeleton_human_head.iff	0	1552.583	136.0523	1204.458	0.9878883	0	0.1551669	0		$|
-9725545	0	object/static/structure/general/skeleton_human_head.iff	0	1551.792	135.6026	1205.604	-0.5605088	0	0.8281484	0		$|
-9725546	0	object/static/structure/general/skeleton_human_head.iff	0	1552.485	136.0557	1205.868	0.1839465	0	0.9829363	0		$|
+978412	0	object/static/particle/pt_miasma_of_fog_gray.iff	0	1553.752	133.3906	1206.242	1	0	0	0		$|
+978413	0	object/static/particle/pt_flocking_glowzees.iff	0	1552.998	133.4767	1206.533	1	0	0	0		$|
+9725536	0	object/static/structure/general/tato_cave_stalagmite_large.iff	0	1552.391	133.2276	1205.247	0.8109632	0	0.5850973	0		$|
+9725542	0	object/static/structure/general/skeleton_human_head.iff	0	1553.055	136.2227	1205.105	0.7316876	0	0.6816402	0		$|
+9725543	0	object/static/structure/general/skeleton_human_head.iff	0	1551.911	136.276	1204.773	-0.5105259	0	0.8598624	0		$|
+9725544	0	object/static/structure/general/skeleton_human_head.iff	0	1552.583	136.0523	1204.458	0.1551669	0	0.9878883	0		$|
+9725545	0	object/static/structure/general/skeleton_human_head.iff	0	1551.792	135.6026	1205.604	0.8281484	0	-0.5605088	0		$|
+9725546	0	object/static/structure/general/skeleton_human_head.iff	0	1552.485	136.0557	1205.868	0.9829363	0	0.1839465	0		$|
